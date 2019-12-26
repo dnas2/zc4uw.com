@@ -16,6 +16,9 @@ div#logos {text-align:right; background-color:white; opacity:0.8; width: 100%;}
 div#logos img {margin:3px 20px;}
 
 
+section#updates {background-color:wheat; opacity:0.95;}
+section#updates div#widgetContainer {text-align:center;}
+
 section#photocredit {background-color:#666; margin-top:20px; margin-bottom:0px; opacity:0.8;}
 section#photocredit p {font-size:0.8em; font-style:italic; color:white;}
 section#photocredit a {color:PowderBlue; text-decoration:none;}
