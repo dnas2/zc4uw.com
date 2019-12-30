@@ -18,7 +18,11 @@ div#logos img {margin:3px 20px;}
 div#clublogSearch {text-align:center; width:60%; min-width:500px; margin:0 auto; border:none;}
 div#clublogSearch iframe {border:none; height:300px;}
 
+section#spots {background-color:lavender; opacity:0.9; display:hidden;}
 div#lastFreqs span {background-color:darkorange; font-family: 'Orbitron', sans-serif; font-size:1.5em; padding:5px; margin-left:15px;}
+div#dxspots {width:100%; min-width:700px; font-family:monospace; white-space:pre; font-size:10pt; text-overflow:ellipsis; margin-top:25px;}
+
+section#weather {background-color:#1f567c; opacity:0.9; color:white;}
 
 section#updates {background-color:wheat; opacity:0.95;}
 section#updates div#widgetContainer {text-align:center;}

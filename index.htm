@@ -39,6 +39,7 @@
 <section id="spots">
 <h1>Latest DX Spots</h1>
 <div id="lastFreqs"><span id="station1Freq">0000.0</span> <span id="station2Freq">0000.0</span> <span id="station3Freq">0000.0</span></div>
+<div id="dxspots"></div>
 <p>Updates every 10 minutes. Data from dxcluster.co.uk</p>
 </section>
 
@@ -84,7 +85,7 @@ function loadCluster()
 			console.error(spots);
 		}
 	}
-	xhr.send("callsigns=zc4uw");
+	xhr.send("callsigns=ZC4UW");
 }
 
 function displaySpots(spots)
