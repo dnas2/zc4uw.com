@@ -24,9 +24,127 @@
 <p>CUWS celebrates its 100th anniversary in 2020 and members have been active from many DX locations over the years.</p>
 </section>
 
+<section id="qsl">
+<h1>QSL information</h1>
+<p>Logs will be uploaded to Club Log and LotW regularly throughout the trip. If you need a paper QSL, you can use Clublog OQRS to request a direct or bureau card. Please do not send us your card.</p>
+<p>To use OQRS, start by searching for your callsign:</p>
+<div id="clublogSearch">
+<iframe name='iframe' src='https://clublog.org/logsearch.php?log=ZC4UW&iframe=1' scrolling='yes'></iframe>
+</div>
+<p>If your QSO isn't found in the search, <a href="mailto:m0blf@domsmith.co.uk">email me</a> to check for a busted call.</p>
+</section>
+
+<section id="spots">
+<h1>Latest DX Spots</h1>
+<div id="lastFreqs"><span id="station1Freq">0000.0</span> <span id="station2Freq">0000.0</span> <span id="station3Freq">0000.0</span></div>
+<p>Updates every 10 minutes. Data from dxcluster.co.uk</p>
+</section>
+
+<section id="weather">
+<h1>Weather</h1>
+<a class="weatherwidget-io" href="https://forecast7.com/en/34d5832d97/akrotiri-and-dhekelia/" data-label_1="AKROTIRI AND DHEKELIA" data-label_2="WEATHER" data-theme="original" >AKROTIRI AND DHEKELIA WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+</section>
+
+
+
 <div id="logos"><img src="g6uw-logo.png" alt="Cambridge University Wireless Society logo"></div>
 <section id="photocredit"><p>Background Photo by 'Andrew3000' on <a href="https://www.flickr.com/photos/andrew3000/14846311395/">Flickr</a>. Licensed under CC-BY-NC 2.0</p></section>
 </div>
 </article>
 </body>
+
+<script>
+function loadCluster()
+{
+	var url = "https://www.dxcluster.co.uk/index.php?/api/search_callsign/";
+
+	var xhr = new XMLHttpRequest();
+	xhr.open("POST", url, true);
+	xhr.setRequestHeader('Content-type','application/x-www-form-urlencoded; charset=utf-8');
+	xhr.onload = function () {
+		var response = xhr.responseText;
+		response = response.substring(1,response.length-1);
+		var spots = JSON.parse(response);
+		if (xhr.readyState == 4) { 
+			displaySpots(spots);
+		} else {
+			console.error(spots);
+		}
+	}
+	xhr.send("callsigns=zc4uw");
+}
+
+function displaySpots(spots)
+{
+	var hasSpots = false;
+	var spotsContent = "";
+	lastFreq = [0,0,0,0,0,0,0,0];
+	for (var spot in spots)
+	{
+		hasSpots = true;
+		spotsContent = spotsContent + "DX de " + spots[spot].call + ":\t" + spots[spot].freq.padEnd(8," ") +  spots[spot].dxcall.padEnd(10, " ") + spots[spot].comment.padEnd(30, " ") + spots[spot].time + "\n";
+		checkInsertFreq(spots[spot].freq,spots[spot].time);
+	}
+	if (hasSpots == false)
+	{
+		document.getElementById('dxspots').innerHTML = "No spots for ZC4UW found";
+		document.getElementById('spots').style.display='none';
+	}
+	else 
+	{
+		document.getElementById('dxspots').innerHTML = spotsContent;
+		document.getElementById('spots').style.display='block';
+	}
+	displayCurrentFrequencies();
+}
+
+function checkInsertFreq(frequency,spotTime)
+{
+	var unixTimeSpot = Date.parse(spotTime);
+	if (Date.now() - unixTimeSpot > 6000000) {return false;}
+	var freqsCount = 0;
+	for (var tmpFreq in lastFreq)
+	{
+		if (lastFreq[tmpFreq] > 0) {freqsCount = freqsCount + 1;}
+		if (freqsCount > 2) {return false;}
+	}
+	frequency = parseFloat(frequency);
+	if (frequency > 27999 && lastFreq[7] == 0) {lastFreq[7] = frequency;}
+	else if (frequency > 24799 && frequency <25000 && lastFreq[6] == 0) {lastFreq[6] = frequency;}
+	else if (frequency > 20999 && frequency < 22000 && lastFreq[5] == 0) {lastFreq[5] = frequency;}
+	else if (frequency > 17999 && frequency < 19000 && lastFreq[4] == 0) {lastFreq[4] = frequency;}
+	else if (frequency > 13999 && frequency < 15000 && lastFreq[3] == 0) {lastFreq[3] = frequency;}
+	else if (frequency > 9999 && frequency < 10200 && lastFreq[2] == 0) {lastFreq[2] = frequency;}
+	else if (frequency > 6999 && frequency < 7300 && lastFreq[1] == 0) {lastFreq[1] = frequency;}
+	else if (frequency > 3499 && frequency < 4000 && lastFreq[0] == 0) {lastFreq[0] = frequency;}
+	return true;
+}
+
+function displayCurrentFrequencies()
+{
+	document.getElementById("station1Freq").innerHTML = "-"; document.getElementById("station1Freq").style.backgroundColor="DarkGrey";
+	document.getElementById("station2Freq").innerHTML = "-"; document.getElementById("station2Freq").style.backgroundColor="DarkGrey";
+	document.getElementById("station3Freq").innerHTML = "-"; document.getElementById("station3Freq").style.backgroundColor="DarkGrey";
+	var currentStation = 1;
+	for (var tmpFreq in lastFreq)
+	{
+		var divToUpdate = "station" + currentStation + "Freq";
+		if (lastFreq[tmpFreq] > 0) {
+			document.getElementById(divToUpdate).innerHTML = lastFreq[tmpFreq];  
+			document.getElementById(divToUpdate).style.backgroundColor="darkorange";
+			currentStation = currentStation+1;
+		}
+	}
+	return true;
+}
+
+loadCluster();
+setInterval(function(){
+    loadCluster() }, 600000);
+</script>
+
+
 </html>
