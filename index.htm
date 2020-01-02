@@ -133,6 +133,7 @@ function checkInsertFreq(frequency,spotTime)
 	else if (frequency > 9999 && frequency < 10200 && lastFreq[2] == 0) {lastFreq[2] = frequency;}
 	else if (frequency > 6999 && frequency < 7300 && lastFreq[1] == 0) {lastFreq[1] = frequency;}
 	else if (frequency > 3499 && frequency < 4000 && lastFreq[0] == 0) {lastFreq[0] = frequency;}
+	console.log(lastFreq);
 	return true;
 }
 
