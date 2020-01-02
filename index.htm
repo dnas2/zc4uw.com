@@ -38,7 +38,7 @@
 
 <section id="spots">
 <h1>Latest DX Spots</h1>
-<div id="lastFreqs"><span id="station1Freq">0000.0</span> <span id="station2Freq">0000.0</span> <span id="station3Freq">0000.0</span></div>
+<div id="lastFreqs"><span id="station1Freq">0000.0</span> <span id="station2Freq">0000.0</span> <span id="station3Freq">0000.0</span> <span id="station4Freq">0000.0</span></div>
 <div id="dxspots"></div>
 <p>Updates every 10 minutes. Data from dxcluster.co.uk</p>
 </section>
@@ -68,6 +68,8 @@
 </body>
 
 <script>
+var lastFreq = [0,0,0,0,0,0,0,0];
+
 function loadCluster()
 {
 	var url = "https://www.dxcluster.co.uk/index.php?/api/search_callsign/";
@@ -139,6 +141,7 @@ function displayCurrentFrequencies()
 	document.getElementById("station1Freq").innerHTML = "-"; document.getElementById("station1Freq").style.backgroundColor="DarkGrey";
 	document.getElementById("station2Freq").innerHTML = "-"; document.getElementById("station2Freq").style.backgroundColor="DarkGrey";
 	document.getElementById("station3Freq").innerHTML = "-"; document.getElementById("station3Freq").style.backgroundColor="DarkGrey";
+	document.getElementById("station4Freq").innerHTML = "-"; document.getElementById("station4Freq").style.backgroundColor="DarkGrey";
 	var currentStation = 1;
 	for (var tmpFreq in lastFreq)
 	{
