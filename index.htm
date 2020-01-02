@@ -116,9 +116,7 @@ function displaySpots(spots)
 
 function checkInsertFreq(frequency,spotTime)
 {
-	//console.log('CheckInsertFreq');
 	var unixTimeSpot = Date.parse(spotTime + ' UTC');
-	console.log('T: ' + unixTimeSpot + ' D: ' + (Date.now() - unixTimeSpot));
 	if (Date.now() - unixTimeSpot > 6000000) {return false;}
 	var freqsCount = 0;
 	for (var tmpFreq in lastFreq)
@@ -135,13 +133,11 @@ function checkInsertFreq(frequency,spotTime)
 	else if (frequency > 9999 && frequency < 10200 && lastFreq[2] == 0) {lastFreq[2] = frequency;}
 	else if (frequency > 6999 && frequency < 7300 && lastFreq[1] == 0) {lastFreq[1] = frequency;}
 	else if (frequency > 3499 && frequency < 4000 && lastFreq[0] == 0) {lastFreq[0] = frequency;}
-	console.log(lastFreq);
 	return true;
 }
 
 function displayCurrentFrequencies()
 {
-	//console.log('DisplayCurrentFrequencies');
 	document.getElementById("station1Freq").innerHTML = "-"; document.getElementById("station1Freq").style.backgroundColor="DarkGrey";
 	document.getElementById("station2Freq").innerHTML = "-"; document.getElementById("station2Freq").style.backgroundColor="DarkGrey";
 	document.getElementById("station3Freq").innerHTML = "-"; document.getElementById("station3Freq").style.backgroundColor="DarkGrey";
