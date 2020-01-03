@@ -16,7 +16,7 @@ div#logos {text-align:right; background-color:white; opacity:0.8; width: 100%;}
 div#logos img {margin:3px 20px;}
 
 div#clublogSearch {text-align:center; width:60%; min-width:500px; margin:0 auto; border:none;}
-div#clublogSearch iframe {border:none; height:300px;}
+div#clublogSearch iframe {border:none; height:340px;}
 
 section#spots {background-color:lavender; opacity:0.9; display:hidden;}
 div#lastFreqs span {background-color:darkorange; font-family: 'Orbitron', sans-serif; font-size:1.5em; padding:5px; margin-left:15px;}
