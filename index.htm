@@ -69,7 +69,7 @@
 </body>
 
 <script>
-var lastFreq = [0,0,0,0,0,0,0,0,0];
+var lastFreq = [0,0,0,0,0,0,0,0,0,0];
 
 function loadCluster()
 {
@@ -95,7 +95,7 @@ function displaySpots(spots)
 {
 	var hasSpots = false;
 	var spotsContent = "";
-	lastFreq = [0,0,0,0,0,0,0,0,0];
+	lastFreq = [0,0,0,0,0,0,0,0,0,0];
 	for (var spot in spots)
 	{
 		hasSpots = true;
@@ -123,16 +123,17 @@ function checkInsertFreq(frequency,spotTime)
 	for (var tmpFreq in lastFreq)
 	{
 		if (lastFreq[tmpFreq] > 0) {freqsCount = freqsCount + 1;}
-		if (freqsCount > 2) {return false;}
+		if (freqsCount > 3) {return false;}
 	}
 	frequency = parseFloat(frequency);
-	if (frequency > 27999 && lastFreq[8] == 0) {lastFreq[8] = frequency;}
-	else if (frequency > 24799 && frequency <25000 && lastFreq[7] == 0) {lastFreq[7] = frequency;}
-	else if (frequency > 20999 && frequency < 22000 && lastFreq[6] == 0) {lastFreq[6] = frequency;}
-	else if (frequency > 17999 && frequency < 19000 && lastFreq[5] == 0) {lastFreq[5] = frequency;}
-	else if (frequency > 13999 && frequency < 15000 && lastFreq[4] == 0) {lastFreq[4] = frequency;}
-	else if (frequency > 9999 && frequency < 10200 && lastFreq[3] == 0) {lastFreq[3] = frequency;}
-	else if (frequency > 6999 && frequency < 7300 && lastFreq[2] == 0) {lastFreq[2] = frequency;}
+	if (frequency > 27999 && lastFreq[9] == 0) {lastFreq[9] = frequency;}
+	else if (frequency > 24799 && frequency <25000 && lastFreq[8] == 0) {lastFreq[8] = frequency;}
+	else if (frequency > 20999 && frequency < 22000 && lastFreq[7] == 0) {lastFreq[7] = frequency;}
+	else if (frequency > 17999 && frequency < 19000 && lastFreq[6] == 0) {lastFreq[6] = frequency;}
+	else if (frequency > 13999 && frequency < 15000 && lastFreq[5] == 0) {lastFreq[5] = frequency;}
+	else if (frequency > 9999 && frequency < 10200 && lastFreq[4] == 0) {lastFreq[4] = frequency;}
+	else if (frequency > 6999 && frequency < 7300 && lastFreq[3] == 0) {lastFreq[3] = frequency;}
+	else if (frequency > 5200 && frequency < 5700 && lastFreq[2] == 0) {lastFreq[2] = frequency;}
 	else if (frequency > 3499 && frequency < 4000 && lastFreq[1] == 0) {lastFreq[1] = frequency;}
 	else if (frequency > 1799 && frequency < 2000 && lastFreq[0] == 0) {lastFreq[0] = frequency;}
 	return true;
