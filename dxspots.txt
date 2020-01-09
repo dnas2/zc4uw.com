@@ -1,0 +1,1880 @@
+DX de OH2BLD:  	18076	ZC4UW	                              	2020-01-02 12:29
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-02 12:33
+DX de SM1IUX:  	18076	ZC4UW	tks up1                       	2020-01-02 12:33
+DX de IU0CSH:  	14265	ZC4UW	59 ciao                       	2020-01-02 12:34
+DX de SM1IUX:  	10123	ZC4UW	tks up1                       	2020-01-02 12:39
+DX de SV2HXX:  	14265	ZC4UW	tnx new one                   	2020-01-02 12:42
+DX de SV8GGI:  	10123	ZC4UW	up 1 HNY tu 73                	2020-01-02 12:45
+DX de G4TUK:   	18075.9	ZC4UW	Tnx up1                       	2020-01-02 12:46
+DX de IZ0AON:  	14265	ZC4UW	59 tnx                        	2020-01-02 12:48
+DX de SV2HXX:  	14265	ZC4UW	up5                           	2020-01-02 12:56
+DX de 2E0MNG:  	14265	ZC4UW	5-10 UP                       	2020-01-02 12:59
+DX de M1KMC:   	14265	ZC4UW	thx contact 73                	2020-01-02 13:07
+DX de DH1KGO:  	18076	ZC4UW	mni tnx qso hny               	2020-01-02 13:10
+DX de I0IJ:    	14265	ZC4UW	QSX UP 7                      	2020-01-02 13:16
+DX de IW8ELR:  	14265	ZC4UW	59 tnx up5                    	2020-01-02 13:22
+DX de UT6IE:   	10123	ZC4UW	tnx QSO up1                   	2020-01-02 13:24
+DX de F4HJO:   	14265.5	ZC4UW	UP                            	2020-01-02 13:26
+DX de K3MA:    	14265	ZC4UW	up 5-10                       	2020-01-02 13:26
+DX de DL3HAA:  	18075.9	ZC4UW	                              	2020-01-02 13:30
+DX de LY5W:    	10123.9	ZC4UW	                              	2020-01-02 13:30
+DX de TA2LG:   	10123	ZC4UW	tnx qso 73 up1                	2020-01-02 13:34
+DX de F8ASG:   	14265	ZC4UW	                              	2020-01-02 13:34
+DX de IT9DGG:  	14265	ZC4UW	tnx 59 up 5 to 10             	2020-01-02 13:37
+DX de W3LPL:   	18076	ZC4UW	Heard in VA                   	2020-01-02 13:38
+DX de K3MA:    	18075.9	ZC4UW	up                            	2020-01-02 13:38
+DX de K9EL:    	10123	ZC4UW	Up                            	2020-01-02 13:38
+DX de PB5X:    	14275	ZC4UW	QSX 5-10 up (275) low here    	2020-01-02 13:42
+DX de PB5X:    	14265	ZC4UW	right QRG                     	2020-01-02 13:42
+DX de W4QN:    	18075.9	ZC4UW	up 1.5                        	2020-01-02 13:43
+DX de YT2KMD:  	14265	ZC4UW	tnx up 5-10 !                 	2020-01-02 13:46
+DX de IK3RBJ:  	14265	ZC4UW	UP                            	2020-01-02 13:46
+DX de EA3CB:   	14265	ZC4UW	                              	2020-01-02 13:46
+DX de SQ7BFC:  	14265	ZC4UW	Tnx qso 73                    	2020-01-02 13:48
+DX de R6CW:    	10123	ZC4UW	                              	2020-01-02 13:53
+DX de SQ7BFC:  	10123	ZC4UW	Tnx qso 73                    	2020-01-02 13:58
+DX de IK3RBJ:  	14265	ZC4UW	5 to 10 UP                    	2020-01-02 13:59
+DX de VU3WEW:  	14265	ZC4UW	5 to 10 up thx qso            	2020-01-02 14:00
+DX de IV3SKB:  	7017	ZC4UW	up1                           	2020-01-02 14:01
+DX de R6NW:    	10123	ZC4UW	UP tnx QSO 73!                	2020-01-02 14:03
+DX de UT6UA:   	7017	ZC4UW	up 1,2 TNX !                  	2020-01-02 14:04
+DX de AB1EP:   	14265	ZC4UW	Weak signal but worked!       	2020-01-02 14:07
+DX de OS8D:    	14265	ZC4UW	                              	2020-01-02 14:09
+DX de R6CW:    	18076	ZC4UW	                              	2020-01-02 14:10
+DX de M0TDZ:   	14265	ZC4UW	QSX 14270.0 HNY               	2020-01-02 14:12
+DX de UT6UA:   	10123	ZC4UW	up 2,2 TNX !                  	2020-01-02 14:13
+DX de VA3DXA:  	18076	ZC4UW	up1 tnx                       	2020-01-02 14:14
+DX de IC8AIK:  	14265	ZC4UW	599+++ up                     	2020-01-02 14:21
+DX de IK3DVY:  	10123	ZC4UW	vy stron signal up 2.2        	2020-01-02 14:22
+DX de R6NW:    	18076	ZC4UW	UP 1 tnx QSO                  	2020-01-02 14:24
+DX de DK3TG:   	14265	ZC4UW	57 in Munich                  	2020-01-02 14:24
+DX de R8WF:    	1820.4	ZC4UW	Up1                           	2020-01-02 14:26
+DX de ON5WO:   	14265	ZC4UW	tnx QSO 5 -7 5 up             	2020-01-02 14:33
+DX de W3LPL:   	10123.1	ZC4UW	Heard in MD                   	2020-01-02 14:33
+DX de YO6DDF:  	1820.4	ZC4UW	UP1 CQ Tks NewOne             	2020-01-02 14:39
+DX de IU1IMC:  	14265	ZC4UW	                              	2020-01-02 14:41
+DX de IT9CHR:  	14265	ZC4UW	5 up                          	2020-01-02 14:44
+DX de 5B4AHJ:  	1820	ZC4UW	up 1                          	2020-01-02 14:45
+DX de SP5KP:   	7017	ZC4UW	QSX 7018.3                    	2020-01-02 14:46
+DX de EA3HSO:  	14265	ZC4UW	QSX 14270.0                   	2020-01-02 14:47
+DX de OP4F:    	10125	ZC4UW	Power & Time wasting !!!      	2020-01-02 14:51
+DX de ZS1OIN:  	14265	ZC4UW	tnx QSO UP!!!                 	2020-01-02 14:52
+DX de NY0V:    	14265	ZC4UW	QSX 5u. Weak, workable        	2020-01-02 14:57
+DX de SP7EHD:  	1820	ZC4UW	                              	2020-01-02 15:00
+DX de 9K2OD:   	7017	ZC4UW	tnx qso                       	2020-01-02 15:00
+DX de HB9DPO:  	14265	ZC4UW	qsx 270                       	2020-01-02 15:01
+DX de M1KMC:   	18076	ZC4UW	thx contact 73                	2020-01-02 15:02
+DX de R7AT:    	3514	ZC4UW	tnx QSO! UP-1                 	2020-01-02 15:02
+DX de SV8JNM:  	14265	ZC4UW	thanks 52 59 hny              	2020-01-02 15:04
+DX de JA5DQH:  	1820.4	ZC4UW	CQ CQ up                      	2020-01-02 15:14
+DX de R7AT:    	10123	ZC4UW	tnx QSO! lisn. UP             	2020-01-02 15:16
+DX de W3RJW:   	14265	ZC4UW	up 5 weak but hears good wo   	2020-01-02 15:18
+DX de MM0GOR:  	7017	ZC4UW	QSX 7020.10 CW                	2020-01-02 15:18
+DX de N3NBT:   	14265	ZC4UW	                              	2020-01-02 15:18
+DX de LZ5PW:   	3514	ZC4UW	tnx qso HNY! up 1.77          	2020-01-02 15:24
+DX de KD5M:    	14264.9	ZC4UW	up 5 CQ lonely                	2020-01-02 15:24
+DX de OP4F:    	10123	ZC4UW	Master piece of EU deafness   	2020-01-02 15:24
+DX de N3NBT:   	14265	ZC4UW	Up 5                          	2020-01-02 15:26
+DX de ON7PQ:   	1820.4	ZC4UW	cq up ...                     	2020-01-02 15:27
+DX de KI5BLU:  	14265	ZC4UW	Up 5. 55 into NY. Tnx fer QSO 	2020-01-02 15:31
+DX de 5B4AHJ:  	14265	ZC4UW	up 5 not busy                 	2020-01-02 15:35
+DX de PY4AZ:   	14265	ZC4UW	USB                           	2020-01-02 15:39
+DX de KB0EO:   	14265	ZC4UW	Up 5                          	2020-01-02 15:39
+DX de N3LID:   	14265	ZC4UW	QRM 1up MW0YVK                	2020-01-02 15:40
+DX de EA5BZ:   	10123	ZC4UW	up 1.7                        	2020-01-02 15:40
+DX de RN7G:    	3513	ZC4UW	tnx QSO.73.up                 	2020-01-02 15:44
+DX de LZ5PW:   	10123	ZC4UW	tnx qso HNY! up 1.32          	2020-01-02 15:45
+DX de IK6IHU:  	14265	ZC4UW	up 5 workable                 	2020-01-02 15:48
+DX de TA2LG:   	14265	ZC4UW	tnx qso 73 up5                	2020-01-02 15:50
+DX de UB3A:    	3514	ZC4UW	TNX and 73 ! UP1              	2020-01-02 15:50
+DX de EI4KF:   	3514	ZC4UW	mni FT8 ops forget how to oper	2020-01-02 15:53
+DX de DK5FX:   	10123	ZC4UW	                              	2020-01-02 15:56
+DX de K9RX:    	14265	ZC4UW	Up 5.0, weak but wrked SC     	2020-01-02 16:00
+DX de W0RIC:   	14265	ZC4UW	QSX up 5 TU                   	2020-01-02 16:05
+DX de UB3A:    	10123	ZC4UW	TNX and 73 !UP1               	2020-01-02 16:06
+DX de YO6DDF:  	3514	ZC4UW	UP Wkg mostly UA              	2020-01-02 16:09
+DX de IZ1RDQ:  	7103	ZC4UW	up 5                          	2020-01-02 16:21
+DX de M0NKR:   	7103	ZC4UW	UP 5                          	2020-01-02 16:22
+DX de PB5X:    	7103	ZC4UW	5/3 Tnx QSX 5 up              	2020-01-02 16:23
+DX de EA1BLI:  	10123	ZC4UW	UP                            	2020-01-02 16:25
+DX de W3LPL:   	10123	ZC4UW	Heard in NH                   	2020-01-02 16:33
+DX de R9XM:    	7103	ZC4UW	UP-5-10                       	2020-01-02 16:33
+DX de TA2LG:   	7103	ZC4UW	tnx qso 73. up                	2020-01-02 16:38
+DX de TA4RC:   	7013	ZC4UW	59 up5-10 tnks                	2020-01-02 16:44
+DX de TA4RC:   	7103	ZC4UW	59 up5-10 cor freq            	2020-01-02 16:44
+DX de HA7VK:   	7103	ZC4UW	QSX 7113.1                    	2020-01-02 16:47
+DX de EA6DX:   	3514	ZC4UW	up 1.4                        	2020-01-02 16:52
+DX de YO6DDF:  	7014	ZC4UW	UP Huge pile still CQ ! :)    	2020-01-02 16:55
+DX de JA1TOU:  	10123	ZC4UW	Tnx! FB sig                   	2020-01-02 16:57
+DX de EA6AJ:   	3514	ZC4UW	JM19HN<>KM64LO                	2020-01-02 16:59
+DX de SV1QFF:  	7103	ZC4UW	59, tnx QSO, up 5-10          	2020-01-02 16:59
+DX de RW3PL:   	10123	ZC4UW	tnx QSO up1.1                 	2020-01-02 17:03
+DX de IU8LMC:  	7103	ZC4UW	Tnx Forn New One Split 5 UP   	2020-01-02 17:04
+DX de YO2MFC:  	3514	ZC4UW	up tnx                        	2020-01-02 17:06
+DX de 9K2OD:   	3514	ZC4UW	tnx qso                       	2020-01-02 17:07
+DX de EA6DX:   	7103	ZC4UW	up5                           	2020-01-02 17:08
+DX de VK6HH:   	3514	ZC4UW	5nn in VK6                    	2020-01-02 17:10
+DX de YT1DX:   	3514	ZC4UW	QRM from bad people, hobby is 	2020-01-02 17:11
+DX de 9K2OD:   	7103	ZC4UW	73 loud                       	2020-01-02 17:11
+DX de TA4RC:   	3514	ZC4UW	b?g qrm-n up                  	2020-01-02 17:12
+DX de VU3WEW:  	7103	ZC4UW	please call outside europ up 1	2020-01-02 17:14
+DX de VU2OY:   	7103	ZC4UW	5/10 up Thanks                	2020-01-02 17:19
+DX de V51WH:   	7103	ZC4UW	pse listen Africa             	2020-01-02 17:19
+DX de SV1AIQ:  	3514	ZC4UW	HNY TU                        	2020-01-02 17:27
+DX de ON7PQ:   	1820.4	ZC4UW	up...                         	2020-01-02 17:40
+DX de SV2JAO:  	1820.4	ZC4UW	UP 1.2                        	2020-01-02 17:49
+DX de IZ4TNW:  	7103	ZC4UW	5 to 10 up                    	2020-01-02 17:50
+DX de HA8LNN:  	1820.4	ZC4UW	up                            	2020-01-02 17:52
+DX de IZ0OTV:  	7103	ZC4UW	Up 5 10                       	2020-01-02 17:55
+DX de R3EV:    	3523	ZC4UW	TNX FOR NICE QSO!! 73!!!!     	2020-01-02 17:57
+DX de IZ0HAP:  	3514	ZC4UW	up 1 to 3                     	2020-01-02 17:59
+DX de IK6PRN:  	7103	ZC4UW	73 up8                        	2020-01-02 18:03
+DX de UT5LI:   	7103	ZC4UW	tnx QSO 5 up                  	2020-01-02 18:04
+DX de HA7VK:   	3514.1	ZC4UW	QSX 3515.1                    	2020-01-02 18:04
+DX de OE7AJH:  	1820.4	ZC4UW	tnx 73 de Andy                	2020-01-02 18:10
+DX de IZ7DJS:  	7103	ZC4UW	up 5 now                      	2020-01-02 18:11
+DX de IW0GTL:  	7103	ZC4UW	5/9 IN ROME - ITALY UP5       	2020-01-02 18:12
+DX de ON4VT:   	7103.1	ZC4UW	AS-004 up 10                  	2020-01-02 18:14
+DX de IC8AIK:  	7103	ZC4UW	599+++ MAY DIPOLE 80W         	2020-01-02 18:21
+DX de RT1S:    	7103	ZC4UW	qso tnx up10                  	2020-01-02 18:30
+DX de OV5O:    	3514	ZC4UW	UP UP UP, tu qso, 73 hny      	2020-01-02 18:33
+DX de EA6DX:   	1820.4	ZC4UW	up1.72 - Hard PileUP          	2020-01-02 18:38
+DX de LY5W:    	3516.2	ZC4UW	                              	2020-01-02 18:42
+DX de HL2WAC:  	1820.4	ZC4UW	up, PSE ASIA                  	2020-01-02 18:44
+DX de OE3JTB:  	1820.4	ZC4UW	up 2.6 tnx new one 160        	2020-01-02 18:44
+DX de DL7JAN:  	7103	ZC4UW	5up                           	2020-01-02 19:11
+DX de OE3JTB:  	3514	ZC4UW	up 2.7                        	2020-01-02 19:15
+DX de IZ3HLJ:  	7103	ZC4UW	TNX QSO 73                    	2020-01-02 19:19
+DX de SV1ELF:  	1820.4	ZC4UW	LSN UP                        	2020-01-02 19:21
+DX de IZ3HLJ:  	7103	ZC4UW	UP 5-10                       	2020-01-02 19:22
+DX de LY2FN:   	3514	ZC4UW	QSX 3516.60 CW                	2020-01-02 19:23
+DX de IK4ADE:  	1820	ZC4UW	                              	2020-01-02 19:24
+DX de W3LPL:   	3514	ZC4UW	Heard in NH                   	2020-01-02 19:26
+DX de IU3BTY:  	7103	ZC4UW	QSX 7108.00 LSB               	2020-01-02 19:27
+DX de SV4QNP:  	7103	ZC4UW	many tnx 73s hny              	2020-01-02 19:29
+DX de EA3CAZ:  	1820	ZC4UW	                              	2020-01-02 19:35
+DX de DH3RD:   	7140	ZC4UW	up 5                          	2020-01-02 19:38
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-02 19:38
+DX de TA4RC:   	3514	ZC4UW	TNX UP                        	2020-01-02 19:44
+DX de IZ5MMK:  	7140	ZC4UW	5up                           	2020-01-02 19:54
+DX de IK1QHB:  	3514	ZC4UW	                              	2020-01-02 19:55
+DX de HA7VK:   	1820.3	ZC4UW	QSX 1821.2                    	2020-01-02 19:56
+DX de SQ5WK:   	7140	ZC4UW	up 10                         	2020-01-02 20:05
+DX de IK1CJO:  	7140	ZC4UW	up10 few takers               	2020-01-02 20:06
+DX de CS7AMH:  	7140	ZC4UW	cq up 10                      	2020-01-02 20:06
+DX de OD5YA:   	7150	ZC4UW	ATNO on the 1st day of op in 2	2020-01-02 20:10
+DX de UT5CB:   	1820.4	ZC4UW	up TNX!                       	2020-01-02 20:19
+DX de PY4JW:   	7140	ZC4UW	73 ! UP 10                    	2020-01-02 20:23
+DX de EA1TX:   	3514	ZC4UW	CW 73 UP 1,8                  	2020-01-02 20:24
+DX de IW1DQS:  	7140	ZC4UW	Up 10 55 hny                  	2020-01-02 20:24
+DX de DL6AN:   	7140	ZC4UW	73 tnx, up 10                 	2020-01-02 20:25
+DX de PY2KNK:  	10123	ZC4UW	599m split 1 up tu qso 73     	2020-01-02 20:28
+DX de SP9QMP:  	7140	ZC4UW	                              	2020-01-02 20:30
+DX de TA2LGK:  	1820.4	ZC4UW	SWL from Ankara / CW 599      	2020-01-02 20:33
+DX de PY2XV:   	7140	ZC4UW	up 10 TU                      	2020-01-02 20:35
+DX de RL3BZ:   	1820.3	ZC4UW	up 2                          	2020-01-02 20:35
+DX de IU1LCI:  	7140	ZC4UW	TNX 73' Happy new year        	2020-01-02 20:48
+DX de JL1UTS:  	3514	ZC4UW	.UP 1.5-2                     	2020-01-02 20:54
+DX de YT3X:    	3514	ZC4UW	QSX 3515.0 CQ JA              	2020-01-02 20:55
+DX de IW3ILM:  	3514	ZC4UW	CALLING JA UP1                	2020-01-02 20:55
+DX de DF4IY:   	7150	ZC4UW	58~ tnx HNY 73 gl             	2020-01-02 20:58
+DX de SP9QMP:  	1820.4	ZC4UW	                              	2020-01-02 21:00
+DX de W3LPL:   	1820.4	ZC4UW	Heard in NH                   	2020-01-02 21:01
+DX de HL5IVL:  	1820.4	ZC4UW	579                           	2020-01-02 21:03
+DX de I8YAV:   	3514	ZC4UW	                              	2020-01-02 21:05
+DX de F4CXO:   	10123	ZC4UW	JN26PP<> HRD 539 CQ UP        	2020-01-02 21:07
+DX de EA5IGO:  	7140	ZC4UW	5 to 10 up                    	2020-01-02 21:08
+DX de G4FKA:   	10123	ZC4UW	Just appearing                	2020-01-02 21:08
+DX de SV1NJW:  	1820.4	ZC4UW	tu qso hny 1 up               	2020-01-02 21:11
+DX de OE5GER:  	7140	ZC4UW	                              	2020-01-02 21:11
+DX de SP9QMP:  	10123	ZC4UW	                              	2020-01-02 21:19
+DX de MM0GOR:  	3514	ZC4UW	QSX 3515.20 CW                	2020-01-02 21:23
+DX de W3LPL:   	3514	ZC4UW	Heard in NH                   	2020-01-02 21:26
+DX de IK2SGB:  	1820.4	ZC4UW	up 1,4                        	2020-01-02 21:27
+DX de IU1IMC:  	7140	ZC4UW	                              	2020-01-02 21:29
+DX de SP5AKP:  	7140	ZC4UW	Tnx for short nice QSO        	2020-01-02 21:31
+DX de DL7BO:   	10123	ZC4UW	cq JA up                      	2020-01-02 21:31
+DX de EI7JN:   	7140	ZC4UW	                              	2020-01-02 21:32
+DX de AA1K:    	1820.4	ZC4UW	up; good sig before SS hr CW  	2020-01-02 21:35
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-02 21:38
+DX de G4FKA:   	10123	ZC4UW	Working JA/UA0                	2020-01-02 21:38
+DX de F5PYJ:   	1820	ZC4UW	MY CALL IS NO F5LYJ PSE CORRIG	2020-01-02 21:39
+DX de G4SBC:   	7140	ZC4UW	73 up 10                      	2020-01-02 21:41
+DX de IW0HBY:  	7150	ZC4UW	loud tnx up                   	2020-01-02 21:43
+DX de UT5CB:   	3514	ZC4UW	up TNX!                       	2020-01-02 21:44
+DX de YT2KMD:  	7140	ZC4UW	tnx up 10                     	2020-01-02 21:45
+DX de K3MA:    	7140	ZC4UW	up 10                         	2020-01-02 21:46
+DX de IZ8IEZ:  	7140	ZC4UW	Best 73 Happy 2020            	2020-01-02 21:47
+DX de 9A4NA:   	3514	ZC4UW	tnx qso up2                   	2020-01-02 21:51
+DX de G4FKA:   	10123	ZC4UW	Faded and gone                	2020-01-02 21:51
+DX de N8UX:    	1820.4	ZC4UW	up 1 - S1 in ky               	2020-01-02 21:54
+DX de N5RP:    	7140	ZC4UW	QSX 7150 IOTA AS004 Cyprus    	2020-01-02 21:55
+DX de SQ7BFC:  	1820.4	ZC4UW	Tnx qso 73                    	2020-01-02 21:56
+DX de S51KD:   	3513.9	ZC4UW	QSX 3515.60                   	2020-01-02 21:58
+DX de R5CW:    	10123	ZC4UW	UP ....TNX QSO , 73 !!!       	2020-01-02 22:03
+DX de IW1DQS:  	10123	ZC4UW	Up Tnx                        	2020-01-02 22:05
+DX de LU6DOT:  	10123	ZC4UW	Tnx,73 Gl                     	2020-01-02 22:14
+DX de IU3GKJ:  	7140	ZC4UW	5/5 10 UP                     	2020-01-02 22:20
+DX de PY4OG:   	10123	ZC4UW	UP tnx                        	2020-01-02 22:21
+DX de MM0TWX:  	1820.6	ZC4UW	sadly no RX                   	2020-01-02 22:24
+DX de UX3MX:   	3514	ZC4UW	tnx qso                       	2020-01-02 22:30
+DX de N4BAA:   	3514	ZC4UW	                              	2020-01-02 22:35
+DX de K3MA:    	3514	ZC4UW	up                            	2020-01-02 22:38
+DX de JE1SYN:  	7140	ZC4UW	QSX7150                       	2020-01-02 22:41
+DX de PY2XJ:   	10123	ZC4UW	599 TKS UP 1                  	2020-01-02 22:42
+DX de DS3HWS:  	1820.6	ZC4UW	                              	2020-01-02 22:42
+DX de IK0TIX:  	7140	ZC4UW	UP 10                         	2020-01-02 22:44
+DX de M0UOO:   	7150	ZC4UW	7.150 has J69ZS/LP not good fr	2020-01-02 22:46
+DX de W9UE:    	7150	ZC4UW	58 in wi                      	2020-01-02 22:49
+DX de PY4OG:   	7150	ZC4UW	Tnx                           	2020-01-02 22:52
+DX de K1TTT:   	3513.9	ZC4UW	QSX 3515.80 CW                	2020-01-02 22:55
+DX de K0KX:    	7140	ZC4UW	UP 5                          	2020-01-02 23:03
+DX de JE6EFG:  	10123	ZC4UW	cq up1                        	2020-01-02 23:04
+DX de DL2RDT:  	7140	ZC4UW	up5                           	2020-01-02 23:08
+DX de DK2BK:   	7140	ZC4UW	UP 5                          	2020-01-02 23:19
+DX de IZ4TNN:  	7140	ZC4UW	up 5                          	2020-01-02 23:24
+DX de W3LPL:   	1820.6	ZC4UW	Heard in PA                   	2020-01-02 23:26
+DX de IZ1NJG:  	7140	ZC4UW	                              	2020-01-02 23:27
+DX de W3LPL:   	3514	ZC4UW	Heard in MD                   	2020-01-02 23:29
+DX de LA3MHA:  	1820.6	ZC4UW	cq up                         	2020-01-03 01:09
+DX de LU8DPM:  	1820.6	ZC4UW	Heard on LPG, Up,73           	2020-01-03 01:11
+DX de W3LPL:   	7020	ZC4UW	Heard in MD                   	2020-01-03 03:12
+DX de W3LPL:   	3514	ZC4UW	Heard in NH                   	2020-01-03 03:12
+DX de N8RR:    	3514	ZC4UW	                              	2020-01-03 03:13
+DX de W4QN:    	3514	ZC4UW	up 1.7                        	2020-01-03 03:26
+DX de CT1FMX:  	5357	ZC4UW	PSE FT8 60m                   	2020-01-03 03:28
+DX de G3SVK:   	7020	ZC4UW	Are you having RX problems?   	2020-01-03 03:34
+DX de KC9FFV:  	3514	ZC4UW	                              	2020-01-03 03:36
+DX de W4QN:    	7120	ZC4UW	up 5                          	2020-01-03 03:40
+DX de K3ZU:    	7128	ZC4UW	QSX 7133 IOTA AS004 Cyprus    	2020-01-03 03:48
+DX de A65CA:   	7128	ZC4UW	up 5                          	2020-01-03 03:58
+DX de OH4SS:   	7128	ZC4UW	CQ up5                        	2020-01-03 04:03
+DX de KZ5DX:   	7128	ZC4UW	Wkd 7.133                     	2020-01-03 04:05
+DX de LZ5RD:   	7128	ZC4UW	tnx qso73                     	2020-01-03 04:07
+DX de WA1SXK:  	3514	ZC4UW	tnks Mike New DX NA 579       	2020-01-03 04:15
+DX de K4FWJ:   	3514	ZC4UW	up 1.2                        	2020-01-03 04:25
+DX de KD8TNF:  	7128	ZC4UW	59 TU 73 FB OP                	2020-01-03 04:29
+DX de OZ2JOP:  	7128	ZC4UW	                              	2020-01-03 04:38
+DX de R1NA:    	7128	ZC4UW	UP5                           	2020-01-03 05:22
+DX de RA4FK:   	7128	ZC4UW	5                             	2020-01-03 05:26
+DX de W3LPL:   	3514	ZC4UW	Heard in KS                   	2020-01-03 05:27
+DX de N4CC:    	7128	ZC4UW	                              	2020-01-03 05:27
+DX de IZ8FDH:  	3513.8	ZC4UW	UP 1 NOW                      	2020-01-03 05:28
+DX de W2IRT:   	3514	ZC4UW	up 1.1                        	2020-01-03 05:35
+DX de W8MIL:   	3514	ZC4UW	cq na, up                     	2020-01-03 05:36
+DX de IZ8GAD:  	7128	ZC4UW	TNX UP5                       	2020-01-03 05:37
+DX de OP4F:    	3514	ZC4UW	cq NA only                    	2020-01-03 05:37
+DX de RX6LPV:  	7133	ZC4UW	tnx QSO                       	2020-01-03 05:39
+DX de K5UR:    	3514	ZC4UW	Up 1                          	2020-01-03 05:41
+DX de K5UR:    	7128	ZC4UW	Up 5                          	2020-01-03 05:41
+DX de K0UA:    	3514	ZC4UW	QSX 3515.10 CW                	2020-01-03 05:43
+DX de KG9Z:    	3514	ZC4UW	QSX 15.1 Q3/4 in Ohio         	2020-01-03 05:51
+DX de KG9Z:    	7128	ZC4UW	UP 5 QSB in Ohio              	2020-01-03 05:57
+DX de SV1LHZ:  	7128	ZC4UW	Thanks.5/9 in Athens.5 up     	2020-01-03 05:58
+DX de PY2XU:   	3514	ZC4UW	up pse SA 73 val              	2020-01-03 06:05
+DX de AJ4EN:   	7128	ZC4UW	5/5 in south carolina         	2020-01-03 06:06
+DX de F4TTR:   	7128.1	ZC4UW	QSX 7133.06 UP 5.00           	2020-01-03 06:06
+DX de SV1GFM:  	7128	ZC4UW	Tnx                           	2020-01-03 06:15
+DX de LY2NZ:   	7128	ZC4UW	LSB                           	2020-01-03 06:42
+DX de SP5BBG:  	7128	ZC4UW	up 5                          	2020-01-03 06:43
+DX de UA3FF:   	7128	ZC4UW	UP 5 TKS                      	2020-01-03 06:51
+DX de RW3Z:    	7128	ZC4UW	Tnx!                          	2020-01-03 07:07
+DX de SQ8N:    	14290	ZC4UW	UP 5                          	2020-01-03 07:10
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-03 07:13
+DX de DK8LG:   	10123	ZC4UW	HNY, QSX 1up                  	2020-01-03 07:14
+DX de IU3EHZ:  	14290	ZC4UW	tnx 5 up                      	2020-01-03 07:16
+DX de SV1FJF:  	10136	ZC4UW	                              	2020-01-03 07:23
+DX de SV1FJF:  	7128	ZC4UW	UP-5                          	2020-01-03 07:24
+DX de R4FD:    	10123	ZC4UW	Tnx! UP HNY!                  	2020-01-03 07:24
+DX de LZ5PW:   	10123	ZC4UW	tnx qso HNY!                  	2020-01-03 07:25
+DX de IZ5CML:  	7128	ZC4UW	cq cq up5-10                  	2020-01-03 07:26
+DX de SQ8T:    	7128	ZC4UW	                              	2020-01-03 07:27
+DX de RT3D:    	14290	ZC4UW	Up 5                          	2020-01-03 07:30
+DX de EA1TX:   	10123	ZC4UW	CW 73 up 3,1                  	2020-01-03 07:33
+DX de F5PVX:   	7128	ZC4UW	                              	2020-01-03 07:34
+DX de UA6J:    	10123	ZC4UW	QSX 10126.2                   	2020-01-03 07:36
+DX de RZ4HO:   	14290	ZC4UW	up5                           	2020-01-03 07:37
+DX de IT9DVZ:  	14290	ZC4UW	up 5 tnx                      	2020-01-03 07:39
+DX de OE9WPV:  	14290	ZC4UW	TNX QSO HNY 73 f.OE9          	2020-01-03 07:41
+DX de R7TQ:    	10123	ZC4UW	tnx QSO UP2                   	2020-01-03 07:43
+DX de R6LIC:   	14290	ZC4UW	up 5                          	2020-01-03 07:44
+DX de HB9GUR:  	7128	ZC4UW	                              	2020-01-03 07:46
+DX de RT3D:    	10123	ZC4UW	Up 3                          	2020-01-03 07:47
+DX de 9A6TT:   	7128	ZC4UW	UP 5                          	2020-01-03 07:52
+DX de EA5AQL:  	7128	ZC4UW	5/9 mny tnx,up5 ;)            	2020-01-03 07:53
+DX de IK7LVE:  	7128	ZC4UW	TNX HNY !!!                   	2020-01-03 07:53
+DX de R1CAV:   	14290	ZC4UW	TNX QSO up5                   	2020-01-03 07:59
+DX de IW2HKW:  	7128	ZC4UW	up 5                          	2020-01-03 07:59
+DX de IZ7HNO:  	7128	ZC4UW	UP 5 TNX                      	2020-01-03 08:03
+DX de EA4HAI:  	7128	ZC4UW	44079                         	2020-01-03 08:10
+DX de YO3BR:   	7128	ZC4UW	5 up                          	2020-01-03 08:12
+DX de PA1LS:   	14290	ZC4UW	up 5                          	2020-01-03 08:23
+DX de YO2LBS:  	14290	ZC4UW	                              	2020-01-03 08:28
+DX de IK7XGH:  	14290	ZC4UW	up 5                          	2020-01-03 08:35
+DX de IW1DQS:  	14290	ZC4UW	up 5                          	2020-01-03 08:37
+DX de V51WH:   	14290	ZC4UW	pse lsn africa                	2020-01-03 08:39
+DX de PA3CWN:  	7128	ZC4UW	Call Cor                      	2020-01-03 08:39
+DX de 4Z4MU:   	7128	ZC4UW	shalom from israel            	2020-01-03 08:48
+DX de PB1HF:   	14290	ZC4UW	qsx up 5                      	2020-01-03 08:53
+DX de EA1DHB:  	14290	ZC4UW	CQ CQ 5 UP TNX QSO 73         	2020-01-03 09:03
+DX de RU3PH:   	14290	ZC4UW	tnx up 5 michael cyprus       	2020-01-03 09:11
+DX de G4FKA:   	14290	ZC4UW	CQ SSB listening up 5         	2020-01-03 09:13
+DX de IZ7DJS:  	14290	ZC4UW	up 5                          	2020-01-03 09:19
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-03 09:22
+DX de SQ5AM:   	14290	ZC4UW	                              	2020-01-03 09:23
+DX de IZ3DVU:  	14290	ZC4UW	up 5                          	2020-01-03 09:33
+DX de OK3DM:   	18076	ZC4UW	                              	2020-01-03 09:35
+DX de IW4BLZ:  	14290	ZC4UW	up 5                          	2020-01-03 09:35
+DX de IZ1LBN:  	14290	ZC4UW	UP 5                          	2020-01-03 09:41
+DX de US5QUB:  	14290	ZC4UW	up 5                          	2020-01-03 09:46
+DX de IZ3DVU:  	18076	ZC4UW	UP 1.25                       	2020-01-03 09:49
+DX de IW1GGR:  	14290	ZC4UW	73 Good Dx.                   	2020-01-03 09:50
+DX de IZ3DVU:  	10123	ZC4UW	UP 1.15                       	2020-01-03 09:52
+DX de IZ4EKI:  	14290	ZC4UW	up 5                          	2020-01-03 09:53
+DX de YO2AA:   	14290	ZC4UW	59                            	2020-01-03 10:00
+DX de IU3EIE:  	14290	ZC4UW	5up TNX HNY!                  	2020-01-03 10:02
+DX de UA6J:    	18076	ZC4UW	QSX up1                       	2020-01-03 10:04
+DX de IU8CHI:  	14290	ZC4UW	HNY Tnx 73 de Tony            	2020-01-03 10:06
+DX de EA9AK:   	14290	ZC4UW	tnx 73 up 5                   	2020-01-03 10:08
+DX de DJ6TF:   	18076	ZC4UW	up                            	2020-01-03 10:08
+DX de DL3WB:   	14290	ZC4UW	Happy new Year 2020 5/9 73    	2020-01-03 10:14
+DX de RW1C:    	14290	ZC4UW	up 5 tnx 73!                  	2020-01-03 10:15
+DX de IU3GKJ:  	14290	ZC4UW	5/9 5 up                      	2020-01-03 10:16
+DX de DL9DAN:  	18076	ZC4UW	                              	2020-01-03 10:16
+DX de IU3EIE:  	10123	ZC4UW	1UP TNX and HNY!!             	2020-01-03 10:18
+DX de UT6UA:   	18076	ZC4UW	up1,5 TNX !                   	2020-01-03 10:20
+DX de EA1TX:   	18076	ZC4UW	CW 73 up,1,8                  	2020-01-03 10:24
+DX de IU8IZA:  	14289	ZC4UW	UP 5                          	2020-01-03 10:24
+DX de DJ7YP:   	14289	ZC4UW	tnx 5UP                       	2020-01-03 10:26
+DX de OV5O:    	10123	ZC4UW	UP, tu qso, 73 hny            	2020-01-03 10:28
+DX de LY2FN:   	10123	ZC4UW	QSX 10124.20 CW               	2020-01-03 10:28
+DX de TA4RC:   	10123	ZC4UW	tnx nw1 up1,2                 	2020-01-03 10:32
+DX de RU4CM:   	14290	ZC4UW	tnx QSO HNY TU UP 5           	2020-01-03 10:39
+DX de IK5XCR:  	14290	ZC4UW	5up                           	2020-01-03 10:39
+DX de F6IPT:   	10123	ZC4UW	                              	2020-01-03 10:42
+DX de G1TDN:   	14290	ZC4UW	U-K BASES ON CYPRUS -UP-5.    	2020-01-03 10:44
+DX de 5B4AHJ:  	18075	ZC4UW	up - not busy                 	2020-01-03 10:44
+DX de IW9FI:   	10123	ZC4UW	mny tnx fer call up           	2020-01-03 10:45
+DX de BG3UPA:  	10123	ZC4UW	ALL BAND EU NA                	2020-01-03 10:48
+DX de IZ8DFO:  	14290	ZC4UW	UP 5                          	2020-01-03 10:49
+DX de KE4KMG:  	14289	ZC4UW	swing to US Pls KE4KMG calling	2020-01-03 10:56
+DX de IZ1WWQ:  	14289	ZC4UW	Mn Tnx HNY,73s                	2020-01-03 10:57
+DX de R4FD:    	18076	ZC4UW	Tnx! UP HNY!                  	2020-01-03 10:59
+DX de OP4F:    	10123	ZC4UW	They stay endless DEAF ?      	2020-01-03 10:59
+DX de IK6IHU:  	10123	ZC4UW	up 1.63 tnx excellent op.     	2020-01-03 11:05
+DX de ON8DN:   	14290	ZC4UW	                              	2020-01-03 11:05
+DX de R2UZ:    	10123	ZC4UW	tnx QSO up1,5                 	2020-01-03 11:06
+DX de OK7PK:   	10123	ZC4UW	UP1,5, real 589,tnx QSO,73,GL 	2020-01-03 11:07
+DX de OK7PK:   	10123	ZC4UW	QRZ?,UP, hrd 589              	2020-01-03 11:08
+DX de DL3GD:   	14290	ZC4UW	5up                           	2020-01-03 11:09
+DX de F4IAJ:   	14290	ZC4UW	59 Tnx HNY 73                 	2020-01-03 11:11
+DX de RT3D:    	18076	ZC4UW	Up 1 TNX !                    	2020-01-03 11:16
+DX de EA2DDE:  	14290	ZC4UW	tnx QSO                       	2020-01-03 11:25
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-03 11:25
+DX de RT1S:    	18076	ZC4UW	qso tnx up1                   	2020-01-03 11:27
+DX de JE2OVG:  	10123	ZC4UW	UP                            	2020-01-03 11:28
+DX de OH2BLV:  	21012	ZC4UW	HNY                           	2020-01-03 11:28
+DX de IU1LFA:  	14290	ZC4UW	59 tnx 73!                    	2020-01-03 11:29
+DX de IK1MNJ:  	10123	ZC4UW	up fb operator                	2020-01-03 11:31
+DX de OK7PK:   	14290	ZC4UW	5UP,r. 59,tnx QSO,73,GL,HNY de	2020-01-03 11:32
+DX de OK7PK:   	14290	ZC4UW	QRZ? 5UP,hrd 59 on dipole,exce	2020-01-03 11:34
+DX de DL3OX:   	14290	ZC4UW	good Op. tnx 73               	2020-01-03 11:36
+DX de RK3TD:   	21012	ZC4UW	                              	2020-01-03 11:36
+DX de RT1S:    	21012	ZC4UW	qso tnx up1                   	2020-01-03 11:37
+DX de SP6KK:   	14290	ZC4UW	up 5                          	2020-01-03 11:42
+DX de RZ4HO:   	21013	ZC4UW	up                            	2020-01-03 11:43
+DX de RZ4HO:   	21012	ZC4UW	up                            	2020-01-03 11:44
+DX de JF1EHM:  	10123	ZC4UW	tnx up2                       	2020-01-03 11:48
+DX de UR5CN:   	21012	ZC4UW	TNX QSO! 73! UP1              	2020-01-03 11:51
+DX de RT1S:    	14290	ZC4UW	qso tnx UP5                   	2020-01-03 11:56
+DX de ZS1OPB:  	18130	ZC4UW	Tks qso 5 up                  	2020-01-03 11:59
+DX de PA3ECZ:  	14290	ZC4UW	73'....Tnx                    	2020-01-03 12:00
+DX de RZ4HO:   	18130	ZC4UW	tnx 5up                       	2020-01-03 12:05
+DX de UA3GAF:  	7013.5	ZC4UW	TNX/59                        	2020-01-03 12:09
+DX de 2E0MNG:  	18130	ZC4UW	5 UP                          	2020-01-03 12:11
+DX de IV3SKB:  	21012.1	ZC4UW	week up                       	2020-01-03 12:14
+DX de SV2HXX:  	7013.6	ZC4UW	QSX up1.3                     	2020-01-03 12:15
+DX de UA7T:    	18130	ZC4UW	tnx QSO                       	2020-01-03 12:23
+DX de ON4MAD:  	14290	ZC4UW	up 5                          	2020-01-03 12:24
+DX de I2BRT:   	14290	ZC4UW	up 5                          	2020-01-03 12:24
+DX de UT5LI:   	14290	ZC4UW	tnx QSO up 5                  	2020-01-03 12:25
+DX de SP5BBG:  	18130	ZC4UW	up5-10                        	2020-01-03 12:26
+DX de SV7RRL:  	14290	ZC4UW	73/88 HNY dear OM !!!         	2020-01-03 12:29
+DX de W1KDA:   	14290	ZC4UW	                              	2020-01-03 12:31
+DX de IK3SCB:  	18130	ZC4UW	up 5-10                       	2020-01-03 12:32
+DX de RZ4HO:   	7013.6	ZC4UW	up                            	2020-01-03 12:33
+DX de SV2HXX:  	21012	ZC4UW	QSX up 2                      	2020-01-03 12:33
+DX de IT9AQR:  	14290	ZC4UW	Now listen NA - 5 Up          	2020-01-03 12:35
+DX de 2E0FDU:  	14290	ZC4UW	zzzzzzzzzzz here nothing      	2020-01-03 12:37
+DX de W5WZ:    	14290	ZC4UW	QSX 14295.20                  	2020-01-03 12:38
+DX de UR5IRM:  	21012	ZC4UW	TNX QSO! 73! up               	2020-01-03 12:40
+DX de YO9ILA:  	14290	ZC4UW	up 5                          	2020-01-03 12:45
+DX de IK2SGB:  	14290	ZC4UW	up 5                          	2020-01-03 12:46
+DX de IU8IZA:  	18130	ZC4UW	up 5-10                       	2020-01-03 12:46
+DX de CT1ILT:  	14290	ZC4UW	up5                           	2020-01-03 12:47
+DX de W4UCK:   	14290	ZC4UW	up 5 north america now        	2020-01-03 13:02
+DX de IV3SKB:  	7013.5	ZC4UW	                              	2020-01-03 13:02
+DX de RW7F:    	21012.1	ZC4UW	CQ CQ UP                      	2020-01-03 13:03
+DX de RW7F:    	21012.1	ZC4UW	STRONG                        	2020-01-03 13:04
+DX de VA1SEA:  	14290	ZC4UW	57 Nova Scotia up 5           	2020-01-03 13:04
+DX de IK1MNJ:  	7013.6	ZC4UW	1-2 up                        	2020-01-03 13:04
+DX de EA1BUL:  	14290	ZC4UW	5up cq NA                     	2020-01-03 13:07
+DX de I2BRT:   	10123	ZC4UW	UP 1.3                        	2020-01-03 13:13
+DX de W3LPL:   	21012	ZC4UW	Heard in PA                   	2020-01-03 13:15
+DX de VK3FT:   	21012	ZC4UW	VG Op. Tu for new one. Up 1.16	2020-01-03 13:15
+DX de IZ2JCD:  	21012.1	ZC4UW	tnx 73                        	2020-01-03 13:17
+DX de G3YYD:   	14290	ZC4UW	NA UP 5.00                    	2020-01-03 13:18
+DX de EA7TR:   	18130	ZC4UW	up 5 to10                     	2020-01-03 13:18
+DX de OZ2PKM:  	18130	ZC4UW	Tnx 5/9 UP 5-10               	2020-01-03 13:20
+DX de YT4T:    	7013.6	ZC4UW	QSX 7014.30                   	2020-01-03 13:22
+DX de G3YYD:   	14290	ZC4UW	UP 5 anyone                   	2020-01-03 13:23
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-03 13:25
+DX de IU6BKZ:  	14290	ZC4UW	                              	2020-01-03 13:25
+DX de OH4SS:   	18130	ZC4UW	up5-10                        	2020-01-03 13:25
+DX de EA3CAZ:  	14290	ZC4UW	                              	2020-01-03 13:26
+DX de EA7BF:   	14290	ZC4UW	Up 5 73                       	2020-01-03 13:26
+DX de F4FRF:   	14290	ZC4UW	                              	2020-01-03 13:33
+DX de F6BQG:   	14290	ZC4UW	59 up5 Tks 73                 	2020-01-03 13:36
+DX de IZ3JYY:  	14290	ZC4UW	59 NORD EST ITALY TNX CIAO    	2020-01-03 13:36
+DX de EA3NY:   	18130	ZC4UW	QSX 18137.61 UP 7.61          	2020-01-03 13:43
+DX de VU2CPL:  	21012	ZC4UW	up                            	2020-01-03 13:46
+DX de VK3FT:   	10123	ZC4UW	CW up 1.5                     	2020-01-03 13:46
+DX de M0NKR:   	7013.5	ZC4UW	up                            	2020-01-03 13:48
+DX de VU2CPL:  	14290	ZC4UW	up5                           	2020-01-03 13:49
+DX de M1KMC:   	18130	ZC4UW	thx contact 73                	2020-01-03 13:50
+DX de IZ2SQS:  	18129.9	ZC4UW	up 5. TNX 73's                	2020-01-03 13:52
+DX de VK3FT:   	7013.5	ZC4UW	CW up 1.5                     	2020-01-03 13:53
+DX de IV3HAX:  	7013.5	ZC4UW	UP                            	2020-01-03 13:58
+DX de 2E0FDU:  	14290	ZC4UW	Still only zzzzzzzzzzzz       	2020-01-03 14:01
+DX de VU2IBI:  	14290	ZC4UW	UP 5                          	2020-01-03 14:03
+DX de SP9QMP:  	14290	ZC4UW	                              	2020-01-03 14:03
+DX de HL1VAU:  	7013.5	ZC4UW	                              	2020-01-03 14:04
+DX de I1WXY:   	10123	ZC4UW	up 1,5                        	2020-01-03 14:09
+DX de F8DZU:   	18130	ZC4UW	QSX 18135.0 UP 5.00           	2020-01-03 14:12
+DX de KG4TAH:  	14290	ZC4UW	                              	2020-01-03 14:15
+DX de K2RU:    	14290	ZC4UW	Tnx! Up 5 NA NA               	2020-01-03 14:16
+DX de R2UZ:    	7013.4	ZC4UW	                              	2020-01-03 14:17
+DX de IU8JPG:  	14290	ZC4UW	Tnx, 59 in Napoli, 73\'s      	2020-01-03 14:23
+DX de WA2SQQ:  	14290	ZC4UW	                              	2020-01-03 14:24
+DX de WA2SQQ:  	14290	ZC4UW	Pls Listen 4 NA               	2020-01-03 14:24
+DX de K2RU:    	14290	ZC4UW	Up 5 NA Only                  	2020-01-03 14:31
+DX de EA3BV:   	14123	ZC4UW	great op, RX 1.5 up           	2020-01-03 14:38
+DX de EA3BV:   	10123	ZC4UW	great op, RX1.5 up            	2020-01-03 14:43
+DX de I2BRT:   	7013.5	ZC4UW	UP 3                          	2020-01-03 14:43
+DX de IW1QEA:  	14290	ZC4UW	                              	2020-01-03 14:52
+DX de DJ5LA:   	7013.5	ZC4UW	QSX 7015.10 CW                	2020-01-03 14:58
+DX de YB5QZ:   	7013.5	ZC4UW	pse yb                        	2020-01-03 15:04
+DX de HB9VQQ:  	14290	ZC4UW	5 up                          	2020-01-03 15:05
+DX de DL8AZ:   	14290	ZC4UW	up 5 tnx                      	2020-01-03 15:05
+DX de YB5QZ:   	7013.5	ZC4UW	Tnx up 3                      	2020-01-03 15:09
+DX de IU2GFI:  	14290	ZC4UW	73!!!!!!!!!!!!!!!!! up 5 tnx  	2020-01-03 15:09
+DX de F4GQP:   	14290	ZC4UW	UP 5 73 HNY                   	2020-01-03 15:13
+DX de W1JCW:   	14290	ZC4UW	QRX 14295                     	2020-01-03 15:14
+DX de RU9F:    	1820.6	ZC4UW	tnx QSO                       	2020-01-03 15:30
+DX de TF4M:    	1820.6	ZC4UW	UP                            	2020-01-03 15:36
+DX de 9A2F:    	1820.4	ZC4UW	up 21.7                       	2020-01-03 15:39
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-03 15:43
+DX de R1DX:    	1820.6	ZC4UW	up                            	2020-01-03 15:43
+DX de UR5WCW:  	10123	ZC4UW	not busy up1                  	2020-01-03 15:44
+DX de W3LPL:   	14017	ZC4UW	Heard in QC                   	2020-01-03 15:45
+DX de UR4CW:   	1820.3	ZC4UW	up 2                          	2020-01-03 15:49
+DX de VU2OY:   	14017	ZC4UW	up1 ,Very Strong              	2020-01-03 15:54
+DX de EC5KY:   	14017	ZC4UW	CW 599 ++                     	2020-01-03 16:07
+DX de 5B4AHJ:  	14017	ZC4UW	CQ CQ                         	2020-01-03 16:09
+DX de TK4LS:   	7123	ZC4UW	CQ up 5                       	2020-01-03 16:10
+DX de EA2DT:   	7123	ZC4UW	QSX: 7128.0                   	2020-01-03 16:11
+DX de I3LTT:   	24950	ZC4UW	                              	2020-01-03 16:21
+DX de HA6VH:   	7123	ZC4UW	                              	2020-01-03 16:23
+DX de LZ5PW:   	1820.5	ZC4UW	tnx qso up 1.3                	2020-01-03 16:25
+DX de DL3HAA:  	10123	ZC4UW	QSX 10124.0 UP 1.00           	2020-01-03 16:26
+DX de F1ICS:   	10123	ZC4UW	up 1.1, good op!              	2020-01-03 16:28
+DX de YO3BR:   	1820.5	ZC4UW	up1                           	2020-01-03 16:32
+DX de F4HXJ:   	7123	ZC4UW	up5                           	2020-01-03 16:36
+DX de VU2IBI:  	10123	ZC4UW	tnx up1                       	2020-01-03 16:38
+DX de EA4SE:   	7123	ZC4UW	up 5                          	2020-01-03 16:41
+DX de I3LTT:   	7123	ZC4UW	                              	2020-01-03 16:44
+DX de R9SY:    	7123	ZC4UW	tnx QSO UP5                   	2020-01-03 16:48
+DX de IZ8EQG:  	7123	ZC4UW	5 up                          	2020-01-03 16:48
+DX de G4FKA:   	10123	ZC4UW	CQ CW listening up            	2020-01-03 16:50
+DX de RK6FO:   	7128	ZC4UW	UP 5                          	2020-01-03 16:51
+DX de RK6FO:   	7123	ZC4UW	UP 5                          	2020-01-03 16:51
+DX de IK1MNJ:  	10123	ZC4UW	listen up                     	2020-01-03 16:54
+DX de IK1WNO:  	10123	ZC4UW	up 1 rst 579 HNY2020 from Enri	2020-01-03 17:06
+DX de VU3WEW:  	7123	ZC4UW	up 5 thx qso                  	2020-01-03 17:07
+DX de EA6DX:   	10123	ZC4UW	up1 no takers                 	2020-01-03 17:16
+DX de RD3K:    	1820.6	ZC4UW	QSX 1821.50                   	2020-01-03 17:17
+DX de DF5AU:   	1820.6	ZC4UW	                              	2020-01-03 17:17
+DX de 9A4NA:   	7123	ZC4UW	tnx qso up5                   	2020-01-03 17:20
+DX de IK4GRO:  	7123	ZC4UW	up 5                          	2020-01-03 17:25
+DX de UT5ZC:   	7123	ZC4UW	tnx QSO                       	2020-01-03 17:26
+DX de ER3MM:   	1820.6	ZC4UW	UP2                           	2020-01-03 17:26
+DX de W1JR:    	10123	ZC4UW	Many calling but lots of CQs  	2020-01-03 17:27
+DX de UB3A:    	1820.6	ZC4UW	TNX and 73 !UP1               	2020-01-03 17:29
+DX de JH8TFZ:  	10123	ZC4UW	CQ UP                         	2020-01-03 17:31
+DX de EA9AK:   	7123	ZC4UW	tnx 73 up 5                   	2020-01-03 17:37
+DX de TA4RC:   	1820.6	ZC4UW	tnx nw1 band up               	2020-01-03 17:39
+DX de W3LPL:   	10123	ZC4UW	Heard in MA                   	2020-01-03 17:43
+DX de F4CVQ:   	7123	ZC4UW	BY NUMBER NO ? IT'S ZOO       	2020-01-03 17:44
+DX de EA7TS:   	7123	ZC4UW	up5                           	2020-01-03 17:48
+DX de EA3OH:   	10123.1	ZC4UW	                              	2020-01-03 17:59
+DX de SV1EQU:  	1821	ZC4UW	                              	2020-01-03 18:03
+DX de OK7PK:   	1820.6	ZC4UW	UP1,real 579,tnx short QSO,73 	2020-01-03 18:04
+DX de EA4BHK:  	7123	ZC4UW	5 up                          	2020-01-03 18:17
+DX de EA1FCF:  	7123	ZC4UW	UP5                           	2020-01-03 18:18
+DX de IV3RJT:  	7123	ZC4UW	QSX 7128.00 UP 5.00           	2020-01-03 18:20
+DX de OK7PK:   	7123	ZC4UW	5UP,r. 58,tnx QSO,73,GL,HNY de	2020-01-03 18:29
+DX de EA8ZT:   	7123	ZC4UW	UP 5 THX QSO                  	2020-01-03 18:30
+DX de OK7PK:   	7123	ZC4UW	QRZ 5UP,hrd 58 on dipole, exce	2020-01-03 18:30
+DX de R9AB:    	3534	ZC4UW	TNX! QSX UP                   	2020-01-03 18:31
+DX de ON5WO:   	7123	ZC4UW	tnx QSO 5- 9 5up              	2020-01-03 18:33
+DX de IK6XEJ:  	7123	ZC4UW	UP 5 cq cq                    	2020-01-03 18:44
+DX de IZ0COG:  	7123	ZC4UW	                              	2020-01-03 18:47
+DX de EA4SE:   	3534	ZC4UW	up 1.7                        	2020-01-03 18:48
+DX de IZ1NGW:  	7123	ZC4UW	tnx                           	2020-01-03 18:49
+DX de HA6VH:   	3534	ZC4UW	                              	2020-01-03 18:49
+DX de DJ5LA:   	3534	ZC4UW	QSX 3535.80 CW                	2020-01-03 18:51
+DX de JA4LKB:  	1820.5	ZC4UW	PSE JAs                       	2020-01-03 19:00
+DX de IZ8XJJ:  	7123	ZC4UW	73's                          	2020-01-03 19:06
+DX de SQ7BFC:  	7123	ZC4UW	Tnx qso 73                    	2020-01-03 19:08
+DX de R6NW:    	3534	ZC4UW	UP tnx QSO 73!                	2020-01-03 19:08
+DX de IZ7QFN:  	1820.5	ZC4UW	599 tu up                     	2020-01-03 19:13
+DX de IZ7DJS:  	3534	ZC4UW	UP                            	2020-01-03 19:27
+DX de IZ0CUX:  	7123	ZC4UW	Up 5                          	2020-01-03 19:29
+DX de IZ2JCD:  	7123	ZC4UW	tnx 73                        	2020-01-03 19:30
+DX de PY6HD:   	7123	ZC4UW	LSB                           	2020-01-03 19:32
+DX de UT5ZC:   	3534	ZC4UW	tnx QSO                       	2020-01-03 19:34
+DX de W3LPL:   	3534	ZC4UW	Heard in NH                   	2020-01-03 19:43
+DX de IZ4DYU:  	3534	ZC4UW	UP-2                          	2020-01-03 19:57
+DX de W3LPL:   	7011	ZC4UW	Heard in MA                   	2020-01-03 20:00
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-03 20:01
+DX de IK2XYI:  	7011	ZC4UW	up                            	2020-01-03 20:02
+DX de CT1ILT:  	7011	ZC4UW	up1.5                         	2020-01-03 20:08
+DX de BD7BES:  	7011	ZC4UW	                              	2020-01-03 20:29
+DX de IW0HBY:  	3534	ZC4UW	tnx up                        	2020-01-03 20:29
+DX de BG7BES:  	7011	ZC4UW	                              	2020-01-03 20:30
+DX de NK7I:    	10123	ZC4UW	plenty loud, unable to hear ( 	2020-01-03 20:35
+DX de JH1GZE:  	10123	ZC4UW	CQ NO RX?                     	2020-01-03 20:36
+DX de SP2MHC:  	1820.5	ZC4UW	                              	2020-01-03 20:42
+DX de IW0HBY:  	7011	ZC4UW	up tnx                        	2020-01-03 20:42
+DX de IU1JCZ:  	3534	ZC4UW	                              	2020-01-03 20:44
+DX de IZ5ILF:  	7011	ZC4UW	5nn up                        	2020-01-03 20:53
+DX de US7VF:   	1820.5	ZC4UW	TNX QSO HNY                   	2020-01-03 20:57
+DX de G0HFL:   	7011	ZC4UW	Tnx QSO                       	2020-01-03 21:08
+DX de IU8LMC:  	1820.5	ZC4UW	Tnx UP                        	2020-01-03 21:09
+DX de S58M:    	1820.4	ZC4UW	QSX 1821.70 CW                	2020-01-03 21:18
+DX de IZ8GCP:  	1820.5	ZC4UW	TU 5NN HNY                    	2020-01-03 21:21
+DX de ON6ZK:   	1820.6	ZC4UW	tnx QSO (OR0A)                	2020-01-03 21:22
+DX de KC4GL:   	7011	ZC4UW	up 2                          	2020-01-03 21:23
+DX de RW0LT:   	1820.6	ZC4UW	many Asia calling but EU only 	2020-01-03 21:25
+DX de IU8LMC:  	3534	ZC4UW	Tnx UP                        	2020-01-03 21:26
+DX de S51KD:   	7011	ZC4UW	QSX 7013.80                   	2020-01-03 21:26
+DX de IK6IHU:  	7011	ZC4UW	up 2.72 excellent Op.         	2020-01-03 21:31
+DX de IT9XTP:  	3534	ZC4UW	up                            	2020-01-03 21:32
+DX de F5PYJ:   	7011	ZC4UW	CQ ONLY NA UP 2               	2020-01-03 21:34
+DX de W3LPL:   	1820.6	ZC4UW	Heard in NH                   	2020-01-03 21:39
+DX de K4FJ:    	1820.6	ZC4UW	qsx up vy weak                	2020-01-03 21:42
+DX de W3LPL:   	3534	ZC4UW	Heard in NC                   	2020-01-03 21:43
+DX de W2MV:    	7011	ZC4UW	up 1.1 KHz                    	2020-01-03 21:47
+DX de NY0V:    	7011	ZC4UW	S9 qsx up                     	2020-01-03 21:48
+DX de K4FJ:    	1820.6	ZC4UW	weak wkg only eu              	2020-01-03 21:54
+DX de W3LPL:   	7011	ZC4UW	Heard in KS                   	2020-01-03 22:00
+DX de KC4GL:   	7011	ZC4UW	calling na now                	2020-01-03 22:05
+DX de K2DRH:   	7011	ZC4UW	QSB 559 in IL up              	2020-01-03 22:18
+DX de VA2AM:   	7011	ZC4UW	up 2.1 CQ NA NA               	2020-01-03 22:24
+DX de OZ9XU:   	3534	ZC4UW	UP - tu qso, 73 hny           	2020-01-03 22:27
+DX de IZ8XXE:  	3534	ZC4UW	tu...up!!!!                   	2020-01-03 22:31
+DX de K4FJ:    	1820.6	ZC4UW	now na up 2.3                 	2020-01-03 22:34
+DX de K4FJ:    	1820.6	ZC4UW	getting better up 2plus       	2020-01-03 22:37
+DX de K9RX:    	3534	ZC4UW	Up 2.0, wrked SC              	2020-01-03 22:41
+DX de 5P5Q:    	3534	ZC4UW	UP UP, tnx qso, 73 hny        	2020-01-03 22:50
+DX de IZ8XXE:  	1820	ZC4UW	tu...wkd 100w and wire!!!!    	2020-01-03 23:02
+DX de UT6UA:   	3534	ZC4UW	up1,5 TNX !                   	2020-01-03 23:07
+DX de EA5KY:   	1820.6	ZC4UW	Nw EU & NA. QSX 2 up          	2020-01-03 23:08
+DX de M0QVE:   	7011	ZC4UW	7012.4                        	2020-01-03 23:15
+DX de 9Z4Y:    	7011	ZC4UW	lids tuning over him          	2020-01-03 23:26
+DX de SQ7BFC:  	7011	ZC4UW	Tnx qso 73 1,3 UP             	2020-01-03 23:35
+DX de W3LPL:   	1820.6	ZC4UW	Heard in NH                   	2020-01-03 23:39
+DX de IZ3NXC:  	1820.6	ZC4UW	CQ UP                         	2020-01-03 23:41
+DX de EC6AAE:  	1820.6	ZC4UW	TNX VERY GOOD SIGNAL          	2020-01-03 23:42
+DX de W3LPL:   	3534	ZC4UW	Heard in OH                   	2020-01-03 23:43
+DX de IZ8EDJ:  	1820.6	ZC4UW	                              	2020-01-03 23:48
+DX de VO1CH:   	3534	ZC4UW	Up good sig to NA to my dipole	2020-01-03 23:49
+DX de K5GET:   	3534	ZC4UW	                              	2020-01-04 00:00
+DX de W3LPL:   	7011	ZC4UW	Heard in NC                   	2020-01-04 00:00
+DX de LZ5PW:   	3534	ZC4UW	tnx qso HNY!                  	2020-01-04 00:03
+DX de K9RX:    	1820.6	ZC4UW	Up 2.1, wrked SC              	2020-01-04 00:03
+DX de N0XMF:   	7011	ZC4UW	DEAF & Slowwwwwwwww           	2020-01-04 00:15
+DX de IU0LFQ:  	1820.6	ZC4UW	THANKS! UP 1.8 - 100W & End-Fe	2020-01-04 00:29
+DX de WD8NPL:  	7011	ZC4UW	up 1.8                        	2020-01-04 00:32
+DX de EA1RT:   	1820.6	ZC4UW	strong here 599               	2020-01-04 00:55
+DX de W5ZN:    	7011	ZC4UW	Up                            	2020-01-04 01:01
+DX de CE3CT:   	7011	ZC4UW	QSX 7012.40                   	2020-01-04 01:02
+DX de R4FD:    	1820.6	ZC4UW	Tnx! UP HNY                   	2020-01-04 01:16
+DX de R4FD:    	7011	ZC4UW	Tnx! UP HNY                   	2020-01-04 01:16
+DX de K5GET:   	7011	ZC4UW	                              	2020-01-04 01:19
+DX de MM0SAJ:  	1820.6	ZC4UW	difficult hope you got me 73s 	2020-01-04 01:27
+DX de UA9AX:   	1820.6	ZC4UW	up1 tnx QSO                   	2020-01-04 01:30
+DX de K5UR:    	7011	ZC4UW	Wkd 13.0                      	2020-01-04 01:30
+DX de K4AFE:   	7011	ZC4UW	QSX 7013.00 CW                	2020-01-04 01:33
+DX de W3LPL:   	1820.6	ZC4UW	Heard in NH                   	2020-01-04 01:39
+DX de N4PYI:   	7011	ZC4UW	UP 2.5 TU New One!            	2020-01-04 01:52
+DX de W4PID:   	7011	ZC4UW	Very nice in NC Great OP UP 1.	2020-01-04 02:00
+DX de W3LPL:   	7011	ZC4UW	Heard in NC                   	2020-01-04 02:00
+DX de HI3Y:    	7011	ZC4UW	QSX 7012.50                   	2020-01-04 02:18
+DX de UR3EL:   	7011	ZC4UW	up1                           	2020-01-04 02:19
+DX de W4QN:    	7011	ZC4UW	up 1.5                        	2020-01-04 02:21
+DX de VU3NXI:  	7011	ZC4UW	Tnx up1.5                     	2020-01-04 02:21
+DX de W8HW:    	1820.6	ZC4UW	QSX 1822.60 CW                	2020-01-04 02:28
+DX de W3WW:    	7011	ZC4UW	Tnx UP                        	2020-01-04 02:34
+DX de UT5ZC:   	1820.5	ZC4UW	tnx QSO                       	2020-01-04 02:57
+DX de W3LPL:   	3534	ZC4UW	Heard in NH                   	2020-01-04 03:14
+DX de W8HW:    	3534	ZC4UW	QSX 3535.00 CW                	2020-01-04 03:17
+DX de KN4KL:   	3534	ZC4UW	up 1                          	2020-01-04 03:30
+DX de W3LPL:   	1820.6	ZC4UW	Heard in NH                   	2020-01-04 03:40
+DX de K5UR:    	1820.7	ZC4UW	Wkd 21.7                      	2020-01-04 03:51
+DX de W3LPL:   	3536	ZC4UW	Heard in VA                   	2020-01-04 04:01
+DX de WD8JJA:  	1820.6	ZC4UW	up 1.2                        	2020-01-04 04:31
+DX de N1PGA:   	1820.6	ZC4UW	QSX 1821.80                   	2020-01-04 04:31
+DX de UA6JQ:   	1821	ZC4UW	up TU HNY                     	2020-01-04 04:35
+DX de KB4MRX:  	1820.6	ZC4UW	                              	2020-01-04 05:04
+DX de AD5A:    	3536	ZC4UW	up 1.1 can't hr me in NM      	2020-01-04 05:34
+DX de IV3IZU:  	3536	ZC4UW	UP 1 TNX                      	2020-01-04 05:37
+DX de YO3BR:   	3536	ZC4UW	up1                           	2020-01-04 05:40
+DX de OE3KLU:  	3536	ZC4UW	up1 tu                        	2020-01-04 05:57
+DX de W3LPL:   	3536	ZC4UW	Heard in NC                   	2020-01-04 06:06
+DX de W3LPL:   	7011	ZC4UW	Heard in VA                   	2020-01-04 06:22
+DX de R7KRB:   	7011	ZC4UW	tnx QSO                       	2020-01-04 06:27
+DX de IZ7DJS:  	7011	ZC4UW	                              	2020-01-04 06:41
+DX de 3B8CW:   	14260	ZC4UW	QSX up 5                      	2020-01-04 06:43
+DX de IK4LZH:  	14260	ZC4UW	QSX 14265.0                   	2020-01-04 06:44
+DX de IK2QPR:  	14260	ZC4UW	up 5.                         	2020-01-04 06:46
+DX de VK3EW:   	14260	ZC4UW	up 4.4                        	2020-01-04 06:48
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-04 06:49
+DX de HA2EOU:  	7011	ZC4UW	TNX for QSO! HNY!             	2020-01-04 06:49
+DX de IS0ZOD:  	14260	ZC4UW	ja now up                     	2020-01-04 06:50
+DX de DL0SX:   	10123	ZC4UW	TNX !                         	2020-01-04 07:02
+DX de IZ0FYW:  	10123	ZC4UW	up                            	2020-01-04 07:18
+DX de LZ5PW:   	7011	ZC4UW	tnx qso up 1.7                	2020-01-04 07:19
+DX de EC5KY:   	10123	ZC4UW	CW 599                        	2020-01-04 07:21
+DX de R7KRB:   	10123	ZC4UW	tnx UP                        	2020-01-04 07:32
+DX de S51ZZ:   	14260	ZC4UW	                              	2020-01-04 07:39
+DX de HL1VAU:  	14260	ZC4UW	UP 5                          	2020-01-04 07:44
+DX de R9LM:    	14260	ZC4UW	QSX 14265.00                  	2020-01-04 07:45
+DX de BG8PA:   	14260	ZC4UW	My Call Is Not BG8PAB         	2020-01-04 07:47
+DX de IZ8EQG:  	14260	ZC4UW	5 up                          	2020-01-04 07:47
+DX de IZ8EGM:  	14260	ZC4UW	up 5                          	2020-01-04 07:53
+DX de S55G:    	14260	ZC4UW	59 up5 tny qso                	2020-01-04 07:54
+DX de LY5W:    	14260.1	ZC4UW	QSX 14265.00                  	2020-01-04 07:55
+DX de LZ5PW:   	1002300	ZC4UW	tnx qso up 1.36               	2020-01-04 07:56
+DX de EA8DEQ:  	14260	ZC4UW	5 Up                          	2020-01-04 08:04
+DX de SQ2SIN:  	14260	ZC4UW	UP5                           	2020-01-04 08:14
+DX de PB9FN:   	14260	ZC4UW	5 up                          	2020-01-04 08:23
+DX de PA0FVH:  	18082	ZC4UW	tnx                           	2020-01-04 08:34
+DX de DL3BXX:  	14012	ZC4UW	just started                  	2020-01-04 08:37
+DX de R5CW:    	14012	ZC4UW	TNX NEW BAND , 73 !!!         	2020-01-04 08:41
+DX de YO9BPX:  	10123	ZC4UW	QSX 10124.00 CW               	2020-01-04 08:41
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-04 08:51
+DX de OE3JTB:  	14014	ZC4UW	up2                           	2020-01-04 09:09
+DX de 9A2QP:   	14012	ZC4UW	up 2                          	2020-01-04 09:16
+DX de HA7AJ:   	14012	ZC4UW	TNX HNY 73'                   	2020-01-04 09:18
+DX de IK2WSO:  	14012	ZC4UW	up                            	2020-01-04 09:28
+DX de IZ4NIC:  	18082	ZC4UW	cq                            	2020-01-04 09:30
+DX de EA7BJ:   	10122.9	ZC4UW	up                            	2020-01-04 09:38
+DX de F6IPT:   	18082	ZC4UW	                              	2020-01-04 09:39
+DX de BG7BES:  	18082	ZC4UW	PSE TRY AS                    	2020-01-04 09:39
+DX de EA5JX:   	18082	ZC4UW	UP 1,5                        	2020-01-04 09:43
+DX de UA3FF:   	10122.9	ZC4UW	UP1                           	2020-01-04 09:44
+DX de HA3HK:   	14011.9	ZC4UW	up                            	2020-01-04 09:47
+DX de F4HXJ:   	18081.9	ZC4UW	up1.1                         	2020-01-04 09:49
+DX de SQ7BFC:  	14011.9	ZC4UW	Tnx qso 73 up 1,3             	2020-01-04 09:59
+DX de IT9AOI:  	14012	ZC4UW	CW                            	2020-01-04 10:09
+DX de IW2NOY:  	10123	ZC4UW	up 1.                         	2020-01-04 10:12
+DX de UK8IF:   	14012	ZC4UW	tnx QSO                       	2020-01-04 10:12
+DX de F4HXJ:   	10123	ZC4UW	up1                           	2020-01-04 10:12
+DX de G4FKA:   	18082	ZC4UW	In and out                    	2020-01-04 10:14
+DX de SV1RUX:  	18082	ZC4UW	Nothing here!                 	2020-01-04 10:15
+DX de SV1RUX:  	14012	ZC4UW	Nothing here either!          	2020-01-04 10:16
+DX de UK8IF:   	18082	ZC4UW	tnx QSO                       	2020-01-04 10:18
+DX de ON6CC:   	18082	ZC4UW	CW UP1                        	2020-01-04 10:37
+DX de DL4JLM:  	14011.9	ZC4UW	                              	2020-01-04 10:39
+DX de RX3Z:    	14012	ZC4UW	                              	2020-01-04 10:41
+DX de DF4XX:   	18082	ZC4UW	QSX 18083.10 CW               	2020-01-04 10:45
+DX de LU6DOT:  	18082	ZC4UW	Tnx,73 Gl                     	2020-01-04 10:47
+DX de GM4FDM:  	14012	ZC4UW	WEAK AS DISHWATER             	2020-01-04 10:49
+DX de G4FKA:   	18082	ZC4UW	Faded out but still monitoring	2020-01-04 10:51
+DX de IT9LED:  	14012	ZC4UW	                              	2020-01-04 10:53
+DX de ZP9MCE:  	18082	ZC4UW	559 here listen you           	2020-01-04 10:53
+DX de PY2HP:   	18082	ZC4UW	up 1                          	2020-01-04 10:59
+DX de VK3MH:   	14012	ZC4UW	QSX 14014.0                   	2020-01-04 11:00
+DX de F4FRG:   	18082	ZC4UW	UP 1                          	2020-01-04 11:05
+DX de M0BLF:   	21013	ZC4UW	QSX 21012.0                   	2020-01-04 11:10
+DX de 9K2OD:   	18082	ZC4UW	                              	2020-01-04 11:10
+DX de ZS1OIN:  	21012	ZC4UW	tnx QSO UP 1!                 	2020-01-04 11:13
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-04 11:14
+DX de PA0WRS:  	18082.9	ZC4UW	up strong                     	2020-01-04 11:17
+DX de PA0WRS:  	18081.9	ZC4UW	corr qrg                      	2020-01-04 11:18
+DX de UY2RA:   	14011.8	ZC4UW	UP                            	2020-01-04 11:22
+DX de RT1S:    	10123	ZC4UW	qso tnx up1                   	2020-01-04 11:23
+DX de OH8SR:   	21012	ZC4UW	599+10, cq up1                	2020-01-04 11:34
+DX de IT9IMJ:  	14012	ZC4UW	up 2                          	2020-01-04 11:41
+DX de HA8YU:   	10123	ZC4UW	up 1                          	2020-01-04 11:45
+DX de VK3GA:   	14012	ZC4UW	VK UP1                        	2020-01-04 11:51
+DX de OH8WR:   	21012	ZC4UW	                              	2020-01-04 11:53
+DX de W3LPL:   	14012	ZC4UW	Heard in NH                   	2020-01-04 11:54
+DX de UA1AIR:  	21012	ZC4UW	signal building, up1          	2020-01-04 11:56
+DX de SP3OCC:  	21012	ZC4UW	qsy to 12m                    	2020-01-04 11:58
+DX de UK8IF:   	10123	ZC4UW	tnx QSO                       	2020-01-04 11:59
+DX de N4PL:    	14012	ZC4UW	CQ NA, up 1                   	2020-01-04 12:01
+DX de DK7LX:   	10124.1	ZC4UW	frds FT8 cause DQRM!          	2020-01-04 12:04
+DX de ZP9MCE:  	14012	ZC4UW	559 low but workable eu x now 	2020-01-04 12:21
+DX de IT9GRX:  	14020	ZC4UW	up 2.20 tnx                   	2020-01-04 12:30
+DX de 9A2F:    	14012	ZC4UW	up na                         	2020-01-04 12:31
+DX de IT9IMJ:  	10123	ZC4UW	up                            	2020-01-04 12:31
+DX de ZL1TM:   	14012	ZC4UW	up 1 ouside EU                	2020-01-04 12:34
+DX de I2BRT:   	18082	ZC4UW	UP 1 - Strong signal          	2020-01-04 12:36
+DX de DL8YRM:  	18082	ZC4UW	up !                          	2020-01-04 12:37
+DX de DH5FS:   	18082	ZC4UW	up1                           	2020-01-04 12:39
+DX de SQ7BFC:  	18081.9	ZC4UW	Tnx qso 73 1,3 UP             	2020-01-04 12:40
+DX de WQ3X:    	14012	ZC4UW	up 1.2 outside EU             	2020-01-04 12:44
+DX de AA1K:    	14012	ZC4UW	QSX 14013.00 CW               	2020-01-04 12:48
+DX de K4WI:    	14012	ZC4UW	QSX 14013.21                  	2020-01-04 12:56
+DX de W8HW:    	14012	ZC4UW	QSX 14014.90 CW               	2020-01-04 13:13
+DX de RK3TD:   	14012	ZC4UW	up2                           	2020-01-04 13:13
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-04 13:14
+DX de ON4KNP:  	10123	ZC4UW	up1                           	2020-01-04 13:19
+DX de IU0ITX:  	10123	ZC4UW	1 up tnx 73                   	2020-01-04 13:22
+DX de DK5PR:   	18082	ZC4UW	up                            	2020-01-04 13:32
+DX de W8HW:    	14012	ZC4UW	QSX 14013.10 CW               	2020-01-04 13:34
+DX de SV2BXA:  	14011.9	ZC4UW	cq cw NA only ?               	2020-01-04 13:35
+DX de K0OI:    	14012	ZC4UW	NA UP                         	2020-01-04 13:35
+DX de VA3DXA:  	14012	ZC4UW	up 1.25                       	2020-01-04 13:36
+DX de F4DX:    	14000	ZC4UW	FT8 for the poor operateur    	2020-01-04 13:36
+DX de W3LPL:   	14012	ZC4UW	Heard in NH                   	2020-01-04 13:54
+DX de G0TSM:   	7040	ZC4UW	QSX 7041.0 UP 1.00            	2020-01-04 13:55
+DX de OH4SS:   	3600	ZC4UW	Finally change to 80m SSB.    	2020-01-04 13:55
+DX de IW0HBY:  	10123	ZC4UW	up 1.5 tnx                    	2020-01-04 13:58
+DX de W3LPL:   	14013	ZC4UW	Heard in NH                   	2020-01-04 14:00
+DX de W3LPL:   	18081.9	ZC4UW	Heard in MD                   	2020-01-04 14:00
+DX de N6AR:    	14012	ZC4UW	JUST EUROPE!                  	2020-01-04 14:00
+DX de VA3DXA:  	14012	ZC4UW	up for NA now                 	2020-01-04 14:03
+DX de N0RR:    	10123	ZC4UW	weak but copyable in SoCal    	2020-01-04 14:07
+DX de F5PYJ:   	21012	ZC4UW	PSE 15 M CW                   	2020-01-04 14:16
+DX de OH1NDA:  	18082	ZC4UW	Tnx! Up                       	2020-01-04 14:17
+DX de IV3OKO:  	14012	ZC4UW	up                            	2020-01-04 14:26
+DX de EA4TD:   	14012	ZC4UW	UP                            	2020-01-04 14:27
+DX de DL9USA:  	18082	ZC4UW	LOAD CQ                       	2020-01-04 14:27
+DX de YO2MKI:  	10123	ZC4UW	Tnx! up,1,3                   	2020-01-04 14:33
+DX de I4OQA:   	14012	ZC4UW	Tks Om & bst 73, 599          	2020-01-04 14:33
+DX de HA0DX:   	10123	ZC4UW	QSX 10124.3                   	2020-01-04 14:41
+DX de VU2IBI:  	14012	ZC4UW	up 1.8                        	2020-01-04 14:41
+DX de HA7AJ:   	10123	ZC4UW	TNX HNY 73'                   	2020-01-04 14:44
+DX de KZ5DX:   	14012	ZC4UW	CQ NA                         	2020-01-04 14:45
+DX de OH8WR:   	1820.6	ZC4UW	                              	2020-01-04 14:50
+DX de IT9GSW:  	10123	ZC4UW	1 up                          	2020-01-04 14:51
+DX de RA1QD:   	1820.7	ZC4UW	cq up2                        	2020-01-04 14:51
+DX de IK7JTF:  	1820.6	ZC4UW	                              	2020-01-04 14:51
+DX de DL5MX:   	5354.5	ZC4UW	                              	2020-01-04 14:56
+DX de W6YI:    	10123	ZC4UW	QSX 10125.16                  	2020-01-04 14:59
+DX de K6XT:    	10123	ZC4UW	up 2.2 LP                     	2020-01-04 15:08
+DX de YO2LBS:  	10123	ZC4UW	UP1                           	2020-01-04 15:12
+DX de W3LPL:   	10122.9	ZC4UW	Heard in MA                   	2020-01-04 15:15
+DX de WA5TXY:  	14011.9	ZC4UW	                              	2020-01-04 15:16
+DX de EA2DT:   	7021	ZC4UW	QSX: 7022.0                   	2020-01-04 15:19
+DX de ON7PQ:   	1820.6	ZC4UW	cq UP ...                     	2020-01-04 15:24
+DX de RN7G:    	1820.6	ZC4UW	tnx.HNY.up                    	2020-01-04 15:25
+DX de VK4MA:   	1820.6	ZC4UW	cq qsx up 2 for vk - good ears	2020-01-04 15:27
+DX de OK1PI:   	3508	ZC4UW	up1                           	2020-01-04 15:34
+DX de OK2PAY:  	3508	ZC4UW	UP...                         	2020-01-04 15:36
+DX de UR5IRM:  	3508	ZC4UW	TNX QSO! 73! up               	2020-01-04 15:40
+DX de DM5DM:   	1820.6	ZC4UW	up1 not busy                  	2020-01-04 15:42
+DX de IK6IHU:  	3507.9	ZC4UW	up 1.85                       	2020-01-04 15:45
+DX de N6ED:    	10123	ZC4UW	CQ NA up                      	2020-01-04 15:49
+DX de HA5OZX:  	1820.5	ZC4UW	tnx, nw cq                    	2020-01-04 15:52
+DX de W3LPL:   	7021	ZC4UW	Heard in NH                   	2020-01-04 15:56
+DX de 9K2HN:   	1820.7	ZC4UW	QSX 1821.7 IOTA AS004 Cyprus  	2020-01-04 16:01
+DX de M0BLF:   	7118	ZC4UW	QSX 7123                      	2020-01-04 16:19
+DX de DL5LBQ:  	10123	ZC4UW	CQ TNX                        	2020-01-04 16:23
+DX de UR5IRM:  	7118	ZC4UW	TNX QSO! 73! up-5             	2020-01-04 16:27
+DX de RN7G:    	7118	ZC4UW	tnx qso.HNY.up5               	2020-01-04 16:29
+DX de IW3IBN:  	7118	ZC4UW	                              	2020-01-04 16:32
+DX de YT1HA:   	1820.5	ZC4UW	nice signal, up               	2020-01-04 16:32
+DX de IU0ICA:  	10123	ZC4UW	new dxcc tu from rome italy   	2020-01-04 16:32
+DX de EA5GN:   	7118	ZC4UW	TNX QSO! 73! up-5             	2020-01-04 16:33
+DX de LY5W:    	7123	ZC4UW	                              	2020-01-04 16:35
+DX de I7WAN:   	7118	ZC4UW	tu up5                        	2020-01-04 16:37
+DX de DL2LDE:  	1820.5	ZC4UW	up 1                          	2020-01-04 16:45
+DX de OZ3DX:   	7118	ZC4UW	thks 59+ in dk                	2020-01-04 16:49
+DX de EA5KI:   	7118	ZC4UW	                              	2020-01-04 16:51
+DX de IU2IIA:  	7118	ZC4UW	                              	2020-01-04 16:52
+DX de DF4XX:   	3508	ZC4UW	QSX 3509.60 CW                	2020-01-04 16:54
+DX de LB3RE:   	3508	ZC4UW	QSX 3509.9                    	2020-01-04 16:55
+DX de HB9BQP:  	10123	ZC4UW	tnx qso 73!                   	2020-01-04 16:56
+DX de LB3RE:   	7118	ZC4UW	QSX 7123.0                    	2020-01-04 16:57
+DX de DF4XX:   	1820.7	ZC4UW	QSX 1821.70 CW                	2020-01-04 16:57
+DX de K1RI:    	10123	ZC4UW	CQ NA UP                      	2020-01-04 16:58
+DX de K9GS:    	10123	ZC4UW	QSX 10124                     	2020-01-04 17:00
+DX de K4WMS:   	10123	ZC4UW	up 1 CQ NA                    	2020-01-04 17:00
+DX de VA2WA:   	10123	ZC4UW	up 1.2                        	2020-01-04 17:01
+DX de DF4XX:   	7118	ZC4UW	QSX 7125.00 LSB               	2020-01-04 17:02
+DX de EC5ALJ:  	7118	ZC4UW	43956                         	2020-01-04 17:03
+DX de K9GS:    	10123	ZC4UW	up .9 NA                      	2020-01-04 17:05
+DX de DK5WN:   	3508	ZC4UW	up1.75 TNX                    	2020-01-04 17:06
+DX de 4X1ST:   	3508	ZC4UW	Thanks!!                      	2020-01-04 17:07
+DX de HA3YE:   	1820.6	ZC4UW	QSX 1821.60 CW                	2020-01-04 17:07
+DX de R8OM:    	3508	ZC4UW	UP2                           	2020-01-04 17:11
+DX de OH8WR:   	7118	ZC4UW	up 5 - 10                     	2020-01-04 17:15
+DX de DK5WN:   	10122.9	ZC4UW	                              	2020-01-04 17:15
+DX de W3LPL:   	10122.9	ZC4UW	Heard in NC                   	2020-01-04 17:15
+DX de EA8ZT:   	10123	ZC4UW	THX QSO up 1                  	2020-01-04 17:16
+DX de IU8HEP:  	7118	ZC4UW	Up 5t to 10 73!!!             	2020-01-04 17:17
+DX de IK8IOZ:  	7118	ZC4UW	Tnx 73 - 5 up -               	2020-01-04 17:22
+DX de IK0OPS:  	7118	ZC4UW	tnx 73 HNY                    	2020-01-04 17:23
+DX de SV1NJW:  	3508	ZC4UW	up 1.5                        	2020-01-04 17:28
+DX de JF1EHM:  	7118	ZC4UW	tnx up10                      	2020-01-04 17:34
+DX de KA9FOX:  	10123	ZC4UW	QSX 10124.26 TU New 30m!      	2020-01-04 17:36
+DX de UT5ZC:   	10123	ZC4UW	tnx QSO                       	2020-01-04 17:37
+DX de LA9NKA:  	7118	ZC4UW	5/9 up 5                      	2020-01-04 17:38
+DX de SP5DVD:  	7118	ZC4UW	ths split up5                 	2020-01-04 17:58
+DX de ZL2IFB:  	7118	ZC4UW	Up 5                          	2020-01-04 18:03
+DX de ZL2IFB:  	7118	ZC4UW	CQ Asia-Pac up 5              	2020-01-04 18:05
+DX de OE3IDE:  	7118	ZC4UW	CQ Asia ONLY - 5 up           	2020-01-04 18:06
+DX de SV7RRL:  	7118	ZC4UW	73/88 HNY dear OM             	2020-01-04 18:24
+DX de SV7RIB:  	7118	ZC4UW	73 tnx for new one            	2020-01-04 18:24
+DX de IZ2EWN:  	7118	ZC4UW	tnx 73                        	2020-01-04 18:31
+DX de I0IJ:    	7118	ZC4UW	QSX 7.123                     	2020-01-04 18:32
+DX de IZ4DYQ:  	3508	ZC4UW	UP1 TNX CIAO                  	2020-01-04 18:37
+DX de IU1LBL:  	7118	ZC4UW	59 ITALY                      	2020-01-04 18:38
+DX de LZ1KU:   	3508	ZC4UW	up 1 TNX!                     	2020-01-04 18:38
+DX de UB3A:    	7118	ZC4UW	UP5                           	2020-01-04 18:39
+DX de EA2KB:   	3507.9	ZC4UW	CQ                            	2020-01-04 18:40
+DX de EA8CLX:  	7123	ZC4UW	Special Call - TNX for QSO    	2020-01-04 18:43
+DX de GM0OQV:  	7118	ZC4UW	                              	2020-01-04 18:49
+DX de UT6IE:   	3508	ZC4UW	tnx QSO                       	2020-01-04 18:52
+DX de EA6AAB:  	7136	ZC4UW	UP 5                          	2020-01-04 19:00
+DX de IZ7QFN:  	7118	ZC4UW	up                            	2020-01-04 19:00
+DX de IK1MNJ:  	7118	ZC4UW	up                            	2020-01-04 19:16
+DX de W3LPL:   	3507.8	ZC4UW	Heard in NH                   	2020-01-04 19:30
+DX de G3YYD:   	7118	ZC4UW	QSX 7123.00 UP 5.00           	2020-01-04 19:46
+DX de IU4LEC:  	7118	ZC4UW	73, GRAZIE, UP 5              	2020-01-04 19:53
+DX de RT6C:    	1820.6	ZC4UW	                              	2020-01-04 20:06
+DX de G7BXU:   	7118	ZC4UW	in and out the noise          	2020-01-04 20:09
+DX de IU7EDX:  	7118	ZC4UW	up 5                          	2020-01-04 20:16
+DX de US5QUB:  	7118	ZC4UW	Lis. up                       	2020-01-04 20:16
+DX de OE9TNT:  	7118	ZC4UW	5 UP                          	2020-01-04 20:16
+DX de F4HXJ:   	3507.8	ZC4UW	                              	2020-01-04 20:18
+DX de W5BN:    	7118	ZC4UW	na listening up 128           	2020-01-04 20:21
+DX de RA6ADQ:  	7118	ZC4UW	5 UP                          	2020-01-04 20:27
+DX de N8ATS:   	7118	ZC4UW	7.128                         	2020-01-04 20:28
+DX de W1KDA:   	7118	ZC4UW	                              	2020-01-04 20:36
+DX de OV5O:    	3507.9	ZC4UW	UP, not busy                  	2020-01-04 20:37
+DX de G3YZO:   	3507.8	ZC4UW	Hard work, but tks es gl!     	2020-01-04 20:38
+DX de DO5NU:   	3507.8	ZC4UW	tnx                           	2020-01-04 20:43
+DX de EA5JN:   	7118	ZC4UW	UP 5                          	2020-01-04 20:43
+DX de OM3PA:   	5354	ZC4UW	Try CW on 60m                 	2020-01-04 20:44
+DX de R3RT:    	3507.8	ZC4UW	tnx QSO, UP 2,3               	2020-01-04 20:45
+DX de IZ3KIF:  	5354.8	ZC4UW	up1 tks                       	2020-01-04 20:51
+DX de DK5FX:   	3507.8	ZC4UW	                              	2020-01-04 20:56
+DX de VA3DXA:  	7118	ZC4UW	wkd 10 up                     	2020-01-04 20:57
+DX de IZ1NGW:  	7118	ZC4UW	up 5                          	2020-01-04 21:08
+DX de CT1FMX:  	5354	ZC4UW	Pse CW try again              	2020-01-04 21:11
+DX de W1KMA:   	7118	ZC4UW	                              	2020-01-04 21:11
+DX de IZ8FCX:  	7118	ZC4UW	                              	2020-01-04 21:11
+DX de JA9AGN:  	7118	ZC4UW	up5                           	2020-01-04 21:13
+DX de DL2RWM:  	7118	ZC4UW	tnx hny                       	2020-01-04 21:15
+DX de IU8LMC:  	7118	ZC4UW	Tnx 5 UP                      	2020-01-04 21:17
+DX de F4HZZ:   	7118	ZC4UW	                              	2020-01-04 21:20
+DX de EA7GX:   	7118	ZC4UW	up                            	2020-01-04 21:27
+DX de PA2LO:   	5359	ZC4UW	                              	2020-01-04 21:30
+DX de W3LPL:   	3507.9	ZC4UW	Heard in OH                   	2020-01-04 21:30
+DX de EA8CZK:  	7118	ZC4UW	up 5 excelent operator        	2020-01-04 21:33
+DX de F6BQG:   	7118	ZC4UW	59 up5                        	2020-01-04 21:35
+DX de LY5W:    	5403.5	ZC4UW	                              	2020-01-04 21:46
+DX de MI6OLJ:  	7118	ZC4UW	Thanks                        	2020-01-04 21:48
+DX de F4FRG:   	7118	ZC4UW	UP 5                          	2020-01-04 21:49
+DX de YO2MSB:  	7118	ZC4UW	up5, good sig 59              	2020-01-04 21:50
+DX de KP4AKB:  	7118	ZC4UW	please listen10 up USA        	2020-01-04 21:51
+DX de KC4GL:   	7118	ZC4UW	good copy usa                 	2020-01-04 21:53
+DX de KP4AKB:  	7118	ZC4UW	up 10                         	2020-01-04 21:56
+DX de KC4GL:   	7118	ZC4UW	up 10                         	2020-01-04 21:57
+DX de NO3K:    	7118	ZC4UW	qsx up 10                     	2020-01-04 21:58
+DX de DK7DU:   	5359	ZC4UW	for NA 5403.5                 	2020-01-04 22:07
+DX de LZ6DJ:   	3507.9	ZC4UW	                              	2020-01-04 22:08
+DX de DK4BU:   	7118	ZC4UW	tnx MIchael f contact 73 HNY  	2020-01-04 22:09
+DX de WY1G:    	7118	ZC4UW	UP 10                         	2020-01-04 22:12
+DX de DK2BK:   	5359	ZC4UW	thx UP 5403.5                 	2020-01-04 22:15
+DX de WY1G:    	3507.9	ZC4UW	UP 1                          	2020-01-04 22:16
+DX de KC4GL:   	3507.8	ZC4UW	up 1                          	2020-01-04 22:16
+DX de EA3HSO:  	7118	ZC4UW	QSX 7128.0                    	2020-01-04 22:21
+DX de ON4VT:   	5359	ZC4UW	up 5.363                      	2020-01-04 22:22
+DX de ON4JM:   	5359	ZC4UW	QSX 5363 IOTA AS004 Cyprus    	2020-01-04 22:27
+DX de RT1S:    	3507.8	ZC4UW	qso tnx up1                   	2020-01-04 22:28
+DX de IK1CJO:  	5359	ZC4UW	impossible !! Bad qrg FT8 QRM 	2020-01-04 22:32
+DX de DD5XX:   	7118	ZC4UW	QSX +10 up, tnx QSO es 73     	2020-01-04 22:37
+DX de CT1FIU:  	7118	ZC4UW	UP 10                         	2020-01-04 22:37
+DX de IK6IHU:  	5359	ZC4UW	up 4 tnx                      	2020-01-04 22:37
+DX de N4PYI:   	3507.9	ZC4UW	TU New one! UP 1              	2020-01-04 22:38
+DX de YL2PP:   	7118.2	ZC4UW	CQ CQ Up10                    	2020-01-04 22:41
+DX de TA2LP:   	5359	ZC4UW	up 5403.5                     	2020-01-04 22:46
+DX de JL1UTS:  	3500	ZC4UW	JA's best time QRV 80m        	2020-01-04 22:48
+DX de LX1DA:   	5359	ZC4UW	QSX 5.403,5                   	2020-01-04 22:50
+DX de PE4BAS:  	5359	ZC4UW	5403.5 not legal for most of E	2020-01-04 22:53
+DX de ON4AXU:  	5359	ZC4UW	pse continue 5.3/ssb          	2020-01-04 22:56
+DX de JA9AGN:  	3507.8	ZC4UW	up1                           	2020-01-04 22:56
+DX de LX1DA:   	5359	ZC4UW	Keep cool PE4BAS i wrkd him on	2020-01-04 22:58
+DX de SV9RGI:  	1853	ZC4UW	txn HNY 73                    	2020-01-04 23:00
+DX de LY4A:    	1853.1	ZC4UW	up5                           	2020-01-04 23:01
+DX de LX1DA:   	7118	ZC4UW	up 5                          	2020-01-04 23:10
+DX de VO1CH:   	7118	ZC4UW	Sorry wrong call up 5 Cqing   	2020-01-04 23:13
+DX de OK7PK:   	3507.8	ZC4UW	UP1,real 569,tnx short QSO,73 	2020-01-04 23:17
+DX de OK7PK:   	3507.8	ZC4UW	QRZ UP1,h.569 on dipole in OK,	2020-01-04 23:18
+DX de IS0GVH:  	7118	ZC4UW	CQ 5UP                        	2020-01-04 23:19
+DX de OK1UM:   	7118	ZC4UW	                              	2020-01-04 23:20
+DX de I1DX:    	1853	ZC4UW	please listen below 1850 for I	2020-01-04 23:23
+DX de IT9CDU:  	7118	ZC4UW	                              	2020-01-04 23:23
+DX de IU0ITX:  	3507.9	ZC4UW	AS-004 1 up - tnx             	2020-01-04 23:27
+DX de W3LPL:   	3507.9	ZC4UW	Heard in OH                   	2020-01-04 23:30
+DX de EA4KD:   	1853	ZC4UW	QSX 1858 OUT OF EA BAND LIMITS	2020-01-04 23:32
+DX de W3LPL:   	1820.6	ZC4UW	Heard in NH                   	2020-01-04 23:44
+DX de F6DAY:   	1820.5	ZC4UW	cw cq up                      	2020-01-04 23:45
+DX de W3LPL:   	7026	ZC4UW	Heard in NH                   	2020-01-04 23:47
+DX de W3LPL:   	7027	ZC4UW	Heard in NH                   	2020-01-04 23:47
+DX de K2QMF:   	1820.6	ZC4UW	CQ                            	2020-01-04 23:54
+DX de VA3DXA:  	7027	ZC4UW	says up but is simplex        	2020-01-05 00:04
+DX de R5CW:    	7026	ZC4UW	UP 1 TNX QSO , 73 !!!         	2020-01-05 00:09
+DX de JA1IZZ:  	7026	ZC4UW	tnx                           	2020-01-05 00:19
+DX de W8HW:    	7026	ZC4UW	QSX 7027.10 CW                	2020-01-05 00:32
+DX de SP4DNX:  	7026	ZC4UW	tnx QSO up1                   	2020-01-05 00:32
+DX de W3LPL:   	3534	ZC4UW	Heard in VA                   	2020-01-05 00:49
+DX de UA9UX:   	3534	ZC4UW	QSX 3535.0                    	2020-01-05 00:54
+DX de N3XZ:    	3534	ZC4UW	UP                            	2020-01-05 01:15
+DX de K2DRH:   	3534	ZC4UW	up1 S5 IL                     	2020-01-05 01:41
+DX de N1UK:    	3534	ZC4UW	up 1                          	2020-01-05 01:46
+DX de W8RLS:   	3534	ZC4UW	up 1 599 MI CW TNXS           	2020-01-05 01:49
+DX de W3LPL:   	1820.6	ZC4UW	Heard in NH                   	2020-01-05 01:51
+DX de EA8ZT:   	3534	ZC4UW	THX qso                       	2020-01-05 01:55
+DX de W4QN:    	3534	ZC4UW	up 1                          	2020-01-05 01:55
+DX de AD5A:    	3534	ZC4UW	up 1                          	2020-01-05 01:57
+DX de N5XZ:    	3534	ZC4UW	QSX 3535.1                    	2020-01-05 02:09
+DX de KA1JBE:  	3534	ZC4UW	599 IN MA                     	2020-01-05 02:12
+DX de K4LSX:   	3534	ZC4UW	579 nr Boston UP 1            	2020-01-05 02:21
+DX de W9OSI:   	3534	ZC4UW	Great signal in Illinois 73 th	2020-01-05 02:23
+DX de AA1K:    	1820.6	ZC4UW	QSX 1821.60 CW                	2020-01-05 02:25
+DX de W3LPL:   	7029	ZC4UW	Heard in VA                   	2020-01-05 02:33
+DX de K2SE:    	7029	ZC4UW	Tks QSO up 1.1                	2020-01-05 02:39
+DX de XE2X:    	1820.6	ZC4UW	TNX UP                        	2020-01-05 02:44
+DX de UA9AX:   	1820.5	ZC4UW	up1                           	2020-01-05 02:45
+DX de N1UK:    	1820.6	ZC4UW	up .9                         	2020-01-05 02:48
+DX de NO3K:    	7029	ZC4UW	up 1                          	2020-01-05 02:52
+DX de KC5PL:   	7029	ZC4UW	Weak but workable....building 	2020-01-05 02:53
+DX de UA9UX:   	7029	ZC4UW	QSX 7030.0                    	2020-01-05 03:05
+DX de W3LPL:   	3534	ZC4UW	Heard in NH                   	2020-01-05 03:25
+DX de N2RJ:    	1820.6	ZC4UW	Up 1.1                        	2020-01-05 03:30
+DX de WB8AKW:  	3534	ZC4UW	Up 1                          	2020-01-05 03:30
+DX de W3LPL:   	3539	ZC4UW	Heard in PA                   	2020-01-05 03:38
+DX de N5XZ:    	1820.6	ZC4UW	QSX 1821.7                    	2020-01-05 03:44
+DX de K0XP:    	3534	ZC4UW	Still more DX on TV birdie fq 	2020-01-05 03:48
+DX de W3LPL:   	1820.6	ZC4UW	Heard in MD                   	2020-01-05 03:51
+DX de OZ2JOP:  	3539	ZC4UW	still on freq ??              	2020-01-05 03:54
+DX de W3LPL:   	7028	ZC4UW	Heard in VA                   	2020-01-05 04:08
+DX de K1OJ:    	3539	ZC4UW	up 1                          	2020-01-05 04:14
+DX de IV3IZU:  	7028	ZC4UW	y                             	2020-01-05 04:16
+DX de IV3IZU:  	7028	ZC4UW	tnx 73                        	2020-01-05 04:16
+DX de YV5JGO:  	7028	ZC4UW	HNY UP                        	2020-01-05 04:17
+DX de K2SE:    	3539.1	ZC4UW	up 1.2 Tks for new one        	2020-01-05 04:25
+DX de IK0OPS:  	3539	ZC4UW	tnx 73                        	2020-01-05 04:26
+DX de HA2MN:   	7028	ZC4UW	cq                            	2020-01-05 04:33
+DX de K4FWJ:   	7028	ZC4UW	up 1                          	2020-01-05 04:46
+DX de UR0VR:   	3539	ZC4UW	up-1 73 gl                    	2020-01-05 04:49
+DX de OZ2JOP:  	3539	ZC4UW	Tnx new one                   	2020-01-05 04:53
+DX de 9Z4Y:    	7028	ZC4UW	UP UP UP                      	2020-01-05 05:09
+DX de N9MB:    	3539	ZC4UW	Tnx QSO!                      	2020-01-05 05:18
+DX de EA7AQV:  	7028	ZC4UW	nice sig and op. 73 HNY 2020!!	2020-01-05 05:24
+DX de UA4CNJ:  	7028	ZC4UW	TNX QSO UP 1                  	2020-01-05 05:28
+DX de HA0IR:   	7028	ZC4UW	Tnx QSO! Up 1                 	2020-01-05 05:29
+DX de VA3IR:   	3539	ZC4UW	great op                      	2020-01-05 05:29
+DX de 9A2KI:   	7028	ZC4UW	up                            	2020-01-05 05:36
+DX de PY3TX:   	7028	ZC4UW	UP 1 TKS 73!!                 	2020-01-05 05:41
+DX de W3LPL:   	3539	ZC4UW	Heard in OH                   	2020-01-05 05:41
+DX de W3LPL:   	10123	ZC4UW	Heard in NC                   	2020-01-05 05:50
+DX de JH8TFZ:  	7028	ZC4UW	UP L/P                        	2020-01-05 05:53
+DX de JA2RGH:  	10123	ZC4UW	qsx up                        	2020-01-05 05:54
+DX de HB9BQP:  	7028	ZC4UW	tnx qso 73! qsx up...         	2020-01-05 05:55
+DX de KG0AQ:   	7028	ZC4UW	up 1.1                        	2020-01-05 06:03
+DX de UR3EL:   	10123	ZC4UW	                              	2020-01-05 06:03
+DX de JF2TOG:  	10123	ZC4UW	up 2.7                        	2020-01-05 06:09
+DX de W3LPL:   	7028	ZC4UW	Heard in MD                   	2020-01-05 06:10
+DX de OE6RDD:  	7027.9	ZC4UW	up                            	2020-01-05 06:22
+DX de JR1DUP:  	7028	ZC4UW	up 1.5 LP workable            	2020-01-05 06:25
+DX de SP3DOF:  	10122.9	ZC4UW	only as?                      	2020-01-05 06:25
+DX de IV3OKO:  	7028	ZC4UW	up 1.5                        	2020-01-05 06:27
+DX de EA3CAZ:  	7028	ZC4UW	                              	2020-01-05 06:35
+DX de IV3OKO:  	14027	ZC4UW	                              	2020-01-05 07:29
+DX de EA2KB:   	14027	ZC4UW	CLG JA                        	2020-01-05 07:32
+DX de RU7A:    	14027	ZC4UW	cq ja up                      	2020-01-05 07:38
+DX de JA1TOU:  	14027	ZC4UW	Tnx&#12288;LP ++              	2020-01-05 07:45
+DX de HL1VAU:  	14027	ZC4UW	CQ Asia LP weak               	2020-01-05 07:48
+DX de IW3IBK:  	14250	ZC4UW	up 5                          	2020-01-05 08:08
+DX de EA6DX:   	14250	ZC4UW	up 5                          	2020-01-05 08:15
+DX de R9SY:    	18152	ZC4UW	tnx QSO UP5                   	2020-01-05 08:20
+DX de EA3CAZ:  	14250	ZC4UW	                              	2020-01-05 08:21
+DX de EA3CAZ:  	18152	ZC4UW	                              	2020-01-05 08:25
+DX de EA6DX:   	18152	ZC4UW	up 5                          	2020-01-05 08:25
+DX de IK1MNJ:  	18152	ZC4UW	up 5                          	2020-01-05 08:25
+DX de IZ0MIO:  	14250	ZC4UW	UK Base Areas on Cyprus up5   	2020-01-05 08:26
+DX de IU0CSH:  	14250	ZC4UW	59 ciao                       	2020-01-05 08:28
+DX de PB5X:    	18152	ZC4UW	QSX 5 up Live logbook         	2020-01-05 08:29
+DX de DL7AOM:  	18152	ZC4UW	tnx de Andy                   	2020-01-05 08:31
+DX de ON5WO:   	18152	ZC4UW	tnx QSO 5 -7 5 up             	2020-01-05 08:33
+DX de IU5CJP:  	14250	ZC4UW	59                            	2020-01-05 08:38
+DX de F4HXJ:   	14250	ZC4UW	up5                           	2020-01-05 08:48
+DX de F5NUI:   	14250	ZC4UW	up5                           	2020-01-05 08:49
+DX de IK2SEX:  	14250	ZC4UW	Please 15m                    	2020-01-05 08:54
+DX de PA0VLY:  	14250	ZC4UW	Up5, pse 12m                  	2020-01-05 08:58
+DX de IK8IOZ:  	14250	ZC4UW	Tnx, 73                       	2020-01-05 09:03
+DX de SP9CCD:  	14250	ZC4UW	up 5.                         	2020-01-05 09:07
+DX de OE3JTB:  	18152	ZC4UW	up 5.                         	2020-01-05 09:09
+DX de IU8HRA:  	14250	ZC4UW	73                            	2020-01-05 09:12
+DX de 4Z5OC:   	18152	ZC4UW	please, middle East           	2020-01-05 09:14
+DX de UA3CS:   	18152	ZC4UW	Up5.Tnx 8 QSOs.73!            	2020-01-05 09:15
+DX de LY5W:    	18152.1	ZC4UW	QSX 18162.00                  	2020-01-05 09:15
+DX de TK4RB:   	18152	ZC4UW	5/10 up                       	2020-01-05 09:17
+DX de OE7AJH:  	18151.9	ZC4UW	tnx 73 de Andy                	2020-01-05 09:17
+DX de F1ORJ:   	14250	ZC4UW	up 5 73s                      	2020-01-05 09:19
+DX de IW1DQS:  	18152	ZC4UW	59 UP 5 now                   	2020-01-05 09:19
+DX de 9A1WW:   	14250	ZC4UW	tnx for qso                   	2020-01-05 09:22
+DX de IZ2BKT:  	18152	ZC4UW	5 to 10 up                    	2020-01-05 09:29
+DX de IZ8XJJ:  	14250	ZC4UW	73's                          	2020-01-05 09:34
+DX de PY1FC:   	14250	ZC4UW	Special call - UK Bases On Cyp	2020-01-05 09:35
+DX de VU3WEW:  	18152	ZC4UW	please call outside europe    	2020-01-05 09:36
+DX de IZ5MMK:  	14250	ZC4UW	up5                           	2020-01-05 09:36
+DX de IZ2BKT:  	14250	ZC4UW	5 up                          	2020-01-05 09:42
+DX de F4HJP:   	18152	ZC4UW	Up 5 to 10                    	2020-01-05 09:43
+DX de US1UC:   	14250	ZC4UW	                              	2020-01-05 09:53
+DX de DL2NER:  	14250	ZC4UW	vy 73 up 5                    	2020-01-05 09:58
+DX de IS0BYY:  	18152	ZC4UW	strong hrere 73 tnx UP 5      	2020-01-05 09:58
+DX de PY2XU:   	18152	ZC4UW	up tks qso 73                 	2020-01-05 09:59
+DX de UR4CW:   	14250	ZC4UW	up 5                          	2020-01-05 10:00
+DX de 2E0FDU:  	14250	ZC4UW	Three days zzzzzzzzzz here    	2020-01-05 10:00
+DX de EA7JXZ:  	14250	ZC4UW	Tnx, QSX 14255.0 UP 5.00      	2020-01-05 10:02
+DX de OE5GER:  	14250	ZC4UW	                              	2020-01-05 10:03
+DX de EA5IGO:  	18152	ZC4UW	5 up                          	2020-01-05 10:05
+DX de EU7F:    	18152	ZC4UW	up5                           	2020-01-05 10:07
+DX de PA3HLE:  	14250	ZC4UW	THNX for QSO 73               	2020-01-05 10:13
+DX de IZ7GLL:  	14250	ZC4UW	up 5                          	2020-01-05 10:15
+DX de F5NUI:   	18152	ZC4UW	up                            	2020-01-05 10:22
+DX de EA7JXZ:  	18152	ZC4UW	Tnx, QSX 18157.0 UP 5.00      	2020-01-05 10:36
+DX de HS1NGR:  	14250	ZC4UW	TNX UP5                       	2020-01-05 10:40
+DX de IZ2DLV:  	14250	ZC4UW	up5                           	2020-01-05 10:41
+DX de EA7IZZ:  	14250	ZC4UW	5up                           	2020-01-05 10:44
+DX de F5PYJ:   	21024.9	ZC4UW	LST MY FOX OPEN               	2020-01-05 10:45
+DX de IZ7QFN:  	14250	ZC4UW	up                            	2020-01-05 10:55
+DX de EA5GMB:  	18082	ZC4UW	Wkd 18083.0                   	2020-01-05 11:04
+DX de J69DS:   	14250	ZC4UW	QSX 14255.00                  	2020-01-05 11:08
+DX de SA2AWO:  	14250	ZC4UW	Tnx for QSO                   	2020-01-05 11:15
+DX de RT6C:    	10123	ZC4UW	                              	2020-01-05 11:18
+DX de EW7GZ:   	14250	ZC4UW	UP 5                          	2020-01-05 11:19
+DX de IZ7QFN:  	10123	ZC4UW	up                            	2020-01-05 11:29
+DX de IU8HPD:  	10124	ZC4UW	up 1                          	2020-01-05 11:30
+DX de G4BSW:   	18082	ZC4UW	Tks new band 73               	2020-01-05 11:31
+DX de G0WRE:   	18082	ZC4UW	Tks new band 73               	2020-01-05 11:34
+DX de SQ3PLO:  	14250	ZC4UW	                              	2020-01-05 11:38
+DX de LY5W:    	18081.9	ZC4UW	QSX 18083.00                  	2020-01-05 11:51
+DX de DL7AOM:  	10123	ZC4UW	tnx ufb 1,2 up                	2020-01-05 11:54
+DX de I7/9A3A: 	10123	ZC4UW	up 1                          	2020-01-05 11:55
+DX de YO3BR:   	10123	ZC4UW	up1                           	2020-01-05 12:00
+DX de RW4HD:   	14250	ZC4UW	UP5                           	2020-01-05 12:01
+DX de MM0GOR:  	14250.1	ZC4UW	QSX 14255.10 USB              	2020-01-05 12:06
+DX de IZ2GTS:  	14250	ZC4UW	59 UP 5                       	2020-01-05 12:08
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-05 12:09
+DX de LA8ENA:  	14250.1	ZC4UW	TNX QSO 5-9 INN NORWAY        	2020-01-05 12:11
+DX de DF4XX:   	14250	ZC4UW	QSX 14255.30 USB              	2020-01-05 12:12
+DX de PY2HP:   	14250	ZC4UW	                              	2020-01-05 12:16
+DX de IW0BNW:  	10123	ZC4UW	599 in Rome up 1.65 5d        	2020-01-05 12:24
+DX de IZ8GCK:  	14250	ZC4UW	5 up                          	2020-01-05 12:35
+DX de DL1HBT:  	10123	ZC4UW	up1.66                        	2020-01-05 12:36
+DX de EA1BUL:  	14250	ZC4UW	5up TNX                       	2020-01-05 12:42
+DX de ON1DX:   	10124.6	ZC4UW	                              	2020-01-05 12:46
+DX de IZ3GOG:  	18082	ZC4UW	very strong                   	2020-01-05 12:48
+DX de DL6UAA:  	18082.1	ZC4UW	up1                           	2020-01-05 12:48
+DX de LZ2GS:   	10123.1	ZC4UW	                              	2020-01-05 12:50
+DX de K2TRD:   	14250	ZC4UW	5 UP                          	2020-01-05 12:52
+DX de OZ2JOP:  	14250	ZC4UW	                              	2020-01-05 12:56
+DX de OE3JTB:  	18082	ZC4UW	up 1.5                        	2020-01-05 12:56
+DX de UT5ZC:   	18082	ZC4UW	tnx QSO                       	2020-01-05 13:00
+DX de RO7N:    	18082	ZC4UW	TNX!!!!!!!!!!! UP 1.5         	2020-01-05 13:00
+DX de HA6NY:   	10123	ZC4UW	                              	2020-01-05 13:06
+DX de F4AZF:   	21195	ZC4UW	                              	2020-01-05 13:06
+DX de OH1NOA:  	10123	ZC4UW	up1                           	2020-01-05 13:07
+DX de W3LPL:   	14022	ZC4UW	Heard in MD                   	2020-01-05 13:14
+DX de US3IZ:   	14022	ZC4UW	                              	2020-01-05 13:15
+DX de F8DGY:   	14022	ZC4UW	CW 10 dB 29 WPM CQ <Sdr_F8DGY 	2020-01-05 13:16
+DX de K0ZR:    	14022	ZC4UW	up 1.1                        	2020-01-05 13:20
+DX de F4FHV:   	21195	ZC4UW	                              	2020-01-05 13:28
+DX de DH0BRO:  	18081.9	ZC4UW	up 1.5                        	2020-01-05 13:29
+DX de HA6VH:   	10123	ZC4UW	                              	2020-01-05 13:37
+DX de F8FHI:   	18082	ZC4UW	CW up 1.8                     	2020-01-05 13:37
+DX de F8FHI:   	10123	ZC4UW	CW up 1.8                     	2020-01-05 13:42
+DX de YO3IPR:  	21195	ZC4UW	correct call. try 24940 SSB?  	2020-01-05 13:42
+DX de OK2AT:   	21195	ZC4UW	no signal here                	2020-01-05 13:45
+DX de OH8MNM:  	10123	ZC4UW	tnx                           	2020-01-05 13:48
+DX de KC4GL:   	14022	ZC4UW	up 1                          	2020-01-05 13:49
+DX de DL4CH:   	18082	ZC4UW	up                            	2020-01-05 13:50
+DX de ON7AH:   	21195	ZC4UW	up 5 \'73                     	2020-01-05 13:52
+DX de DL1HBT:  	18082	ZC4UW	up1.4                         	2020-01-05 13:53
+DX de OK7PK:   	18082	ZC4UW	UP1,real 589QSB,tnx QSO,73 GL 	2020-01-05 13:53
+DX de F4ESV:   	14022	ZC4UW	UP FOR NA                     	2020-01-05 13:55
+DX de F4GYM:   	10123	ZC4UW	UP-1                          	2020-01-05 13:55
+DX de K2DRH:   	14022	ZC4UW	up 1 NA                       	2020-01-05 13:55
+DX de IW1DQS:  	18082	ZC4UW	up 1 599                      	2020-01-05 13:56
+DX de KC5PL:   	14022	ZC4UW	workable                      	2020-01-05 13:56
+DX de F4FRG:   	21195	ZC4UW	UP5                           	2020-01-05 13:56
+DX de IT9IMJ:  	18082	ZC4UW	up1,2                         	2020-01-05 13:57
+DX de PA4JJ:   	14022.1	ZC4UW	NA ONLY EU STAND BY           	2020-01-05 14:01
+DX de IT9IMJ:  	21195	ZC4UW	up 5                          	2020-01-05 14:01
+DX de K2DRH:   	14022	ZC4UW	best prop NA now crybaby      	2020-01-05 14:04
+DX de EA4TD:   	21195	ZC4UW	TNX                           	2020-01-05 14:05
+DX de EB1MM:   	21195	ZC4UW	up 5                          	2020-01-05 14:05
+DX de OZ2JOP:  	21195	ZC4UW	tnx                           	2020-01-05 14:05
+DX de IW1DQS:  	14022	ZC4UW	cq cq NA                      	2020-01-05 14:07
+DX de K4WI:    	10122.9	ZC4UW	QSX 10124.1                   	2020-01-05 14:08
+DX de W3LPL:   	10123.1	ZC4UW	Heard in MD                   	2020-01-05 14:10
+DX de ZS3Y:    	21195	ZC4UW	QSX up 5kHz, actual S9 here...	2020-01-05 14:12
+DX de HB9BQP:  	18081.9	ZC4UW	TNX QSO 73!                   	2020-01-05 14:13
+DX de DD5XX:   	18082	ZC4UW	59+ in DL, QSX +1 up          	2020-01-05 14:15
+DX de F4FRG:   	10123	ZC4UW	UP 1                          	2020-01-05 14:18
+DX de SP2BUW:  	10123	ZC4UW	                              	2020-01-05 14:21
+DX de CT1ELP:  	10123	ZC4UW	CQ NA                         	2020-01-05 14:22
+DX de UR3EL:   	18081.9	ZC4UW	up2                           	2020-01-05 14:26
+DX de HA0DX:   	18082.3	ZC4UW	QSX 18083.1                   	2020-01-05 14:35
+DX de IK6IHU:  	18082	ZC4UW	up 1.25 tnx                   	2020-01-05 14:38
+DX de SP2WKB:  	21195	ZC4UW	                              	2020-01-05 14:38
+DX de F4GYM:   	18082	ZC4UW	CORRECT QRG                   	2020-01-05 14:41
+DX de OE3JTB:  	21194.9	ZC4UW	up 5.1 booming                	2020-01-05 14:48
+DX de SQ1OD:   	21194.9	ZC4UW	                              	2020-01-05 14:51
+DX de W3LPL:   	14018	ZC4UW	Heard in MD                   	2020-01-05 14:51
+DX de OK2DA:   	1820.6	ZC4UW	cq cq UP                      	2020-01-05 14:51
+DX de SP4DNX:  	10123	ZC4UW	tnx QSO up1.1                 	2020-01-05 14:58
+DX de US1UP:   	1821.6	ZC4UW	tnx QSO UP                    	2020-01-05 14:58
+DX de US1UP:   	1820.6	ZC4UW	tnx QSO UP                    	2020-01-05 14:59
+DX de K6XT:    	10122.9	ZC4UW	Up LP                         	2020-01-05 15:03
+DX de IZ7DJS:  	18082	ZC4UW	up. up                        	2020-01-05 15:06
+DX de DL6UAA:  	10123	ZC4UW	up for NA NA                  	2020-01-05 15:11
+DX de W5FB:    	14018	ZC4UW	Up 1.5                        	2020-01-05 15:16
+DX de YU2VZ:   	14018	ZC4UW	I need me 15m SSB             	2020-01-05 15:18
+DX de DM5FJ:   	1820.9	ZC4UW	CQ CQ CQ                      	2020-01-05 15:19
+DX de RT6C:    	1821	ZC4UW	                              	2020-01-05 15:24
+DX de W3LPL:   	14028	ZC4UW	Heard in QC                   	2020-01-05 15:32
+DX de PA3FQA:  	5354.5	ZC4UW	                              	2020-01-05 15:35
+DX de PY7DJ:   	14028	ZC4UW	now only NA - pse call SA for 	2020-01-05 15:37
+DX de SV1AVD:  	5354.5	ZC4UW	tnx up 1                      	2020-01-05 15:41
+DX de IK2SGB:  	7175.5	ZC4UW	up 5                          	2020-01-05 15:43
+DX de W7WA:    	7175.5	ZC4UW	SP up 5                       	2020-01-05 15:44
+DX de UA9BA:   	1820.6	ZC4UW	CQn up                        	2020-01-05 15:44
+DX de PY7DJ:   	14028	ZC4UW	tu qso - best 73              	2020-01-05 15:46
+DX de EA1LT:   	7175.5	ZC4UW	5 up, what plan in 80 SSB?    	2020-01-05 15:48
+DX de EC4DEX:  	7175.5	ZC4UW	59                            	2020-01-05 15:54
+DX de EA6DX:   	5354.5	ZC4UW	HUGE pileup!!!!               	2020-01-05 15:55
+DX de EA3IAZ:  	7175.5	ZC4UW	                              	2020-01-05 15:57
+DX de UA6YI:   	1820.6	ZC4UW	                              	2020-01-05 15:57
+DX de F5MMB:   	14029	ZC4UW	up 1                          	2020-01-05 15:58
+DX de F5MMB:   	14028	ZC4UW	freq correct up 1             	2020-01-05 15:59
+DX de UA6YI:   	1820.6	ZC4UWPSESSB	                        	2020-01-05 15:59
+DX de N6TR:    	7175.5	ZC4UW	Up% LP here                   	2020-01-05 16:00
+DX de KG9Z:    	14028	ZC4UW	UP 1 Building in Ohio         	2020-01-05 16:00
+DX de F4VSE:   	7175.5	ZC4UW	UP 5                          	2020-01-05 16:06
+DX de EA5ZD:   	14028	ZC4UW	CQ CQ UP1                     	2020-01-05 16:07
+DX de N6TR:    	7175.5	ZC4UW	Tough with W6 QRM             	2020-01-05 16:08
+DX de F5ILV:   	7175.5	ZC4UW	                              	2020-01-05 16:16
+DX de 4X1UF:   	1820.6	ZC4UW	tnx qso pse E-QSL             	2020-01-05 16:17
+DX de IZ2DLV:  	14028	ZC4UW	up                            	2020-01-05 16:24
+DX de EA5ZD:   	7175.5	ZC4UW	UP5                           	2020-01-05 16:26
+DX de BG7BES:  	7175.5	ZC4UW	                              	2020-01-05 16:28
+DX de SP5EPD:  	7175.5	ZC4UW	booming, easy with GP         	2020-01-05 16:32
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-05 16:37
+DX de OM3PA:   	5354.5	ZC4UW	up 1.6                        	2020-01-05 16:38
+DX de SV8LMQ:  	5354.5	ZC4UW	qsx 5.356.2 tnx               	2020-01-05 16:39
+DX de DJ7YP:   	7175.5	ZC4UW	tnx UP5 HNY                   	2020-01-05 16:39
+DX de UX3MX:   	1800	ZC4UW	tnx qso                       	2020-01-05 16:42
+DX de IK2TCV:  	7175.5	ZC4UW	73 tnx up5                    	2020-01-05 16:47
+DX de HA3MN:   	1820.6	ZC4UW	CW, up 1                      	2020-01-05 16:59
+DX de OH6LI:   	1820.6	ZC4UW	up .. many..many EU calling   	2020-01-05 17:01
+DX de SV1EJD:  	1820.6	ZC4UW	cq up1                        	2020-01-05 17:05
+DX de 9A5CW:   	5354.5	ZC4UW	https://clublog.org/livestream	2020-01-05 17:06
+DX de SQ7OVT:  	7175.5	ZC4UW	tnx up5                       	2020-01-05 17:08
+DX de G3KAF:   	10123	ZC4UW	                              	2020-01-05 17:08
+DX de EA8JK:   	7175.5	ZC4UW	up 5                          	2020-01-05 17:08
+DX de I7/9A3A: 	7175.4	ZC4UW	up 5                          	2020-01-05 17:10
+DX de AK1MD:   	1820.6	ZC4UW	CW 3 dB 26 WPM CQ <INET       	2020-01-05 17:15
+DX de MM0GOR:  	7175.5	ZC4UW	QSX 7180.50 LSB               	2020-01-05 17:16
+DX de KG9Z:    	10123	ZC4UW	UP ! Lite in Ohio             	2020-01-05 17:17
+DX de SV1EJD:  	1820.6	ZC4UW	                              	2020-01-05 17:19
+DX de IW5AB:   	7175	ZC4UW	ciao 5 up                     	2020-01-05 17:20
+DX de AK1MD:   	1820.6	ZC4UW	CW 10 dB 26 WPM CQ <INET      	2020-01-05 17:23
+DX de SP8BUH:  	5354.5	ZC4UW	Tks new band HNY 2020         	2020-01-05 17:31
+DX de OE7MPI:  	7175.5	ZC4UW	up5                           	2020-01-05 17:31
+DX de IW2JWD:  	5354.5	ZC4UW	tu 73                         	2020-01-05 17:32
+DX de I5ZSS:   	7175.5	ZC4UW	up 5                          	2020-01-05 17:34
+DX de DF1IR:   	1820.6	ZC4UW	TNX QSO 73                    	2020-01-05 17:37
+DX de OE3IDE:  	7175.5	ZC4UW	CQ ... listen up              	2020-01-05 17:45
+DX de IK1MNJ:  	7175.5	ZC4UW	up 5                          	2020-01-05 17:49
+DX de F8AVK:   	7175.5	ZC4UW	                              	2020-01-05 17:50
+DX de S51U:    	5354.5	ZC4UW	UP - TU                       	2020-01-05 17:53
+DX de EA4HDU:  	7175.5	ZC4UW	TNX FOR YOU CONTACT           	2020-01-05 17:54
+DX de IU6FUB:  	7175.5	ZC4UW	5 UP                          	2020-01-05 18:11
+DX de M0ODV:   	7175.5	ZC4UW	UK Base Areas on Cyprus listen	2020-01-05 18:11
+DX de W3LPL:   	7032	ZC4UW	Heard in MD                   	2020-01-05 18:18
+DX de DL6RDR:  	7032	ZC4UW	up                            	2020-01-05 18:18
+DX de SV8CS:   	5354.5	ZC4UW	up                            	2020-01-05 18:18
+DX de LY5W:    	5354.5	ZC4UW	QSX 5356.60                   	2020-01-05 18:19
+DX de SV1NJW:  	5354.5	ZC4UW	tu qso 1.9 up                 	2020-01-05 18:25
+DX de IZ2JCD:  	7032	ZC4UW	73                            	2020-01-05 18:31
+DX de IW2JWD:  	7032	ZC4UW	up 2.                         	2020-01-05 18:36
+DX de DF4XX:   	7032	ZC4UW	QSX 7033.00 CW                	2020-01-05 18:45
+DX de IK6IHU:  	5354.5	ZC4UW	up 1 tnx                      	2020-01-05 18:49
+DX de DF4XX:   	5354.5	ZC4UW	QSX 5355.50 CW                	2020-01-05 18:51
+DX de HA6VH:   	7032	ZC4UW	                              	2020-01-05 18:53
+DX de CT4NH:   	5354.5	ZC4UW	QSX 5355.5 IOTA AS004 Cyprus  	2020-01-05 18:56
+DX de OK7PK:   	7032	ZC4UW	UP1,4 real 589,tnx QSO,73 GL  	2020-01-05 19:02
+DX de F8DGY:   	7032	ZC4UW	CW 6 dB 33 WPM CQ <Sdr_F8DGY  	2020-01-05 19:17
+DX de EA8ZT:   	7032	ZC4UW	up thx qso!                   	2020-01-05 19:19
+DX de JH8TFZ:  	7032	ZC4UW	UP                            	2020-01-05 19:27
+DX de LZ7MM:   	7032	ZC4UW	tnx up 1,48                   	2020-01-05 19:36
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-05 19:36
+DX de S57Q:    	1820.6	ZC4UW	up                            	2020-01-05 19:59
+DX de EW4C:    	7032	ZC4UW	up 1                          	2020-01-05 20:00
+DX de F6BCW:   	1820.5	ZC4UW	UP1 vy gud 599                	2020-01-05 20:00
+DX de RM2C:    	7032	ZC4UW	UP1, TKS QSO                  	2020-01-05 20:05
+DX de OK4WW:   	1800	ZC4UW	tnx QSO                       	2020-01-05 20:06
+DX de IK0YUO:  	1820.6	ZC4UW	                              	2020-01-05 20:07
+DX de DL3BXX:  	5354.6	ZC4UW	cq up no takers               	2020-01-05 20:08
+DX de SP9JZU:  	10123	ZC4UW	cq,cq, lsn up1                	2020-01-05 20:16
+DX de W3LPL:   	7032	ZC4UW	Heard in MD                   	2020-01-05 20:19
+DX de W3LPL:   	3540	ZC4UW	Heard in NH                   	2020-01-05 20:53
+DX de F5LVL:   	1820.6	ZC4UW	559 up 1.1 pas de client !!!  	2020-01-05 21:04
+DX de K4FJ:    	1820.6	ZC4UW	up 1                          	2020-01-05 21:11
+DX de IZ3KKE:  	1820.6	ZC4UW	tnx !                         	2020-01-05 21:16
+DX de K5XI:    	1820.6	ZC4UW	up 1                          	2020-01-05 21:17
+DX de K1UO:    	10123	ZC4UW	up 1                          	2020-01-05 21:18
+DX de HA5MO:   	10123	ZC4UW	                              	2020-01-05 21:22
+DX de F6DCQ:   	1820.6	ZC4UW	Up 1821.59                    	2020-01-05 21:23
+DX de OV5O:    	7032	ZC4UW	UP UP, 73 hny                 	2020-01-05 21:27
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-05 21:36
+DX de IZ0LNP:  	1820.6	ZC4UW	Up.1 Tnx                      	2020-01-05 21:37
+DX de DS3HWS:  	3540	ZC4UW	tu                            	2020-01-05 21:39
+DX de W3LPL:   	1820.6	ZC4UW	Heard in NH                   	2020-01-05 21:42
+DX de IZ5WTV:  	3540	ZC4UW	Tnx 73                        	2020-01-05 21:46
+DX de W4JVN:   	1820.6	ZC4UW	IOTA AS004 Cyprus             	2020-01-05 21:52
+DX de KD8TNF:  	7032	ZC4UW	599 TU 73 VFB OP              	2020-01-05 21:56
+DX de HL5IVL:  	1821.6	ZC4UW	559                           	2020-01-05 21:57
+DX de KZ4EX:   	10123	ZC4UW	weak + qsb up 1               	2020-01-05 22:05
+DX de DK2GZ:   	5359	ZC4UW	qsx 403.5 for u.s.a.          	2020-01-05 22:32
+DX de W3LPL:   	7034	ZC4UW	Heard in PA                   	2020-01-05 22:36
+DX de PY2XU:   	7034	ZC4UW	up1 fb signal 73 tks          	2020-01-05 22:49
+DX de IW0BNW:  	7034	ZC4UW	559 in Rome up 1.2 dip5       	2020-01-05 22:50
+DX de JA8DNV:  	7034.1	ZC4UW	Now for JA UP 1.5             	2020-01-05 22:59
+DX de DK2GZ:   	5354.5	ZC4UW	USA only 405, odr 573 not 403.	2020-01-05 23:06
+DX de DK2GZ:   	5354.5	ZC4UW	check usa Band plan !!!!!!!!!!	2020-01-05 23:07
+DX de DK2GZ:   	5354.5	ZC4UW	ur RX on the wrong QRG!!!!!!! 	2020-01-05 23:08
+DX de DK2GZ:   	5354.5	ZC4UW	still listen on wrong USA QRG 	2020-01-05 23:14
+DX de N0FW:    	5354.5	ZC4UW	QSX 5405.0                    	2020-01-05 23:16
+DX de N1UK:    	5354.5	ZC4UW	QSX 5405                      	2020-01-05 23:20
+DX de W6IZT:   	5354.5	ZC4UW	QSX 5405                      	2020-01-06 00:05
+DX de F4GYM:   	7034	ZC4UW	UP-1,6 TKS NEW BAND           	2020-01-06 00:06
+DX de NA3F:    	7034	ZC4UW	QSX 7035.27 UP 1.24           	2020-01-06 00:07
+DX de KP4AF:   	7034	ZC4UW	                              	2020-01-06 00:11
+DX de KI4WCQ:  	7034	ZC4UW	up 1                          	2020-01-06 00:16
+DX de W2OR:    	5354.5	ZC4UW	CW QSX 5405.00 Rare.          	2020-01-06 00:20
+DX de WP4J:    	7009	ZC4UW	                              	2020-01-06 00:23
+DX de G0ORC:   	7034	ZC4UW	QSX 7035.60 UP 1.60           	2020-01-06 00:23
+DX de JA7OXV:  	7034	ZC4UW	tnx                           	2020-01-06 00:24
+DX de N4QWZ:   	7034	ZC4UW	wkd 035,7 TU                  	2020-01-06 00:29
+DX de WA4MSU:  	7034	ZC4UW	up 2.1                        	2020-01-06 00:29
+DX de WJ1X:    	7034	ZC4UW	tnx fer new band              	2020-01-06 00:31
+DX de IK4DRY:  	5354.5	ZC4UW	Later ISO for EU?             	2020-01-06 00:32
+DX de N1UK:    	7034	ZC4UW	up 1.1                        	2020-01-06 00:34
+DX de W3LPL:   	7034	ZC4UW	Heard in NH                   	2020-01-06 00:36
+DX de N4QWZ:   	7034	ZC4UW	pse correct my Call not QHZ   	2020-01-06 00:53
+DX de N4HUF:   	7034	ZC4UW	please correct my call not N4 	2020-01-06 00:59
+DX de OM8NY:   	5405	ZC4UW	hw abt 5 mins to EU?          	2020-01-06 01:00
+DX de K0ZR:    	7033.9	ZC4UW	up 1.1                        	2020-01-06 01:03
+DX de IK4DRY:  	5354.5	ZC4UW	UP 1 now EU                   	2020-01-06 01:04
+DX de N3KV:    	7034	ZC4UW	up 1                          	2020-01-06 01:26
+DX de KC4GL:   	7034	ZC4UW	no takers                     	2020-01-06 02:10
+DX de W3LPL:   	7033.9	ZC4UW	Heard in PA                   	2020-01-06 02:36
+DX de K4HQK:   	7034	ZC4UW	Up 1-2 kHz                    	2020-01-06 02:38
+DX de W3LPL:   	3540	ZC4UW	Heard in NH                   	2020-01-06 04:22
+DX de UD8A:    	3540	ZC4UW	tnx qso up 1                  	2020-01-06 04:24
+DX de G0ORC:   	3540	ZC4UW	QSX 3541.11 UP 1.11           	2020-01-06 04:25
+DX de SP2DKI:  	3540	ZC4UW	QSX UP                        	2020-01-06 04:30
+DX de KZ5DX:   	3540	ZC4UW	Up 1.1...Nice Sig Mississippi 	2020-01-06 04:32
+DX de PY7DJ:   	3540	ZC4UW	pse sa 1.5 best 73            	2020-01-06 04:32
+DX de PY7DJ:   	3540	ZC4UW	pse correct my call py7dj - no	2020-01-06 04:37
+DX de W3LPL:   	7034.1	ZC4UW	Heard in MD                   	2020-01-06 04:37
+DX de PY7DJ:   	3540	ZC4UW	up 1.5 - tu qso - all best 73 	2020-01-06 04:41
+DX de N4QWZ:   	7034	ZC4UW	CQ Lonely                     	2020-01-06 04:51
+DX de YL2PP:   	7034	ZC4UW	LoTW CQ CQ Up                 	2020-01-06 05:08
+DX de KD8TNF:  	3540	ZC4UW	599 TU 73 FB OP               	2020-01-06 05:09
+DX de K1RX:    	3540	ZC4UW	up 1 CW                       	2020-01-06 05:20
+DX de AC9EM:   	7035	ZC4UW	up 1 CW correction            	2020-01-06 05:21
+DX de E73Y:    	7034	ZC4UW	CQ NA up2                     	2020-01-06 05:22
+DX de ZL2AIM:  	7034	ZC4UW	UP 2.15                       	2020-01-06 05:26
+DX de F5OUD:   	7034	ZC4UW	                              	2020-01-06 05:30
+DX de F8ARK:   	7034	ZC4UW	                              	2020-01-06 05:33
+DX de F5OUD:   	3540	ZC4UW	                              	2020-01-06 05:33
+DX de F4GYM:   	3540	ZC4UW	UP-1 TKS NEW BAND             	2020-01-06 05:33
+DX de YO3BR:   	7034	ZC4UW	up 2                          	2020-01-06 05:37
+DX de I8YAV:   	7034	ZC4UW	gm up2                        	2020-01-06 05:39
+DX de LZ1KU:   	7034	ZC4UW	up2 TNX!                      	2020-01-06 05:39
+DX de DL1HBT:  	3540	ZC4UW	up1.24                        	2020-01-06 05:45
+DX de DL1HBT:  	7034	ZC4UW	up2.2                         	2020-01-06 05:49
+DX de IZ8LKL:  	3540	ZC4UW	up1 Tnx !!                    	2020-01-06 06:10
+DX de OK7GU:   	10123	ZC4UW	QSX 10124.03 IOTA AS004 Cyprus	2020-01-06 06:11
+DX de JR7DXE:  	10123	ZC4UW	UP                            	2020-01-06 06:14
+DX de RA3RCL:  	14014	ZC4UW	                              	2020-01-06 06:32
+DX de JK1KSB:  	14014	ZC4UW	up JA L/P                     	2020-01-06 06:33
+DX de EA3CAZ:  	10123	ZC4UW	                              	2020-01-06 06:41
+DX de W3LPL:   	10123	ZC4UW	Heard in NC                   	2020-01-06 06:45
+DX de HA8LNN:  	10123	ZC4UW	cq, up, as-004                	2020-01-06 06:45
+DX de JF3OWJ:  	10123	ZC4UW	up&#12288;JA                  	2020-01-06 06:55
+DX de UB5MBA:  	10123	ZC4UW	tnx QSO UP1                   	2020-01-06 07:17
+DX de ZL1BBW:  	14014	ZC4UW	weak but wkable sp in ZL1     	2020-01-06 07:23
+DX de IZ7DJS:  	14014	ZC4UW	up up...booming               	2020-01-06 07:39
+DX de EA3HSO:  	14014	ZC4UW	UP 1-3 FB SIG!                	2020-01-06 07:44
+DX de SQ7IQM:  	14014	ZC4UW	up                            	2020-01-06 07:55
+DX de RA3RCL:  	18070	ZC4UW	up                            	2020-01-06 07:59
+DX de IZ5CML:  	18070	ZC4UW	up1 cq cq 9+                  	2020-01-06 07:59
+DX de EA3CAZ:  	18070	ZC4UW	                              	2020-01-06 08:15
+DX de ZL3PAH:  	18070	ZC4UW	                              	2020-01-06 08:19
+DX de EA5KY:   	14014	ZC4UW	QSX 1 up                      	2020-01-06 08:21
+DX de RC8SA:   	18070	ZC4UW	                              	2020-01-06 08:29
+DX de SQ3PMX:  	18069.9	ZC4UW	tnx qso up1,5                 	2020-01-06 08:34
+DX de BG3UPA:  	18070	ZC4UW	PSE AS PSE PSE                	2020-01-06 08:34
+DX de ZS1OIN:  	18069.9	ZC4UW	tnx QSO up 1,34!              	2020-01-06 08:39
+DX de OK5ZZ:   	14014	ZC4UW	up 1.6                        	2020-01-06 08:42
+DX de EC3AAJ:  	18133	ZC4UW	IOTA AS004 Cyprus UP 5        	2020-01-06 08:45
+DX de RC8SA:   	18133	ZC4UW	up 5                          	2020-01-06 08:48
+DX de EA1TX:   	18133	ZC4UW	SSB 73 up 5                   	2020-01-06 08:49
+DX de RK1AS:   	10122.8	ZC4UW	up1                           	2020-01-06 08:53
+DX de DL3GD:   	21032	ZC4UW	cq up                         	2020-01-06 08:58
+DX de EA4SE:   	18133	ZC4UW	up 5                          	2020-01-06 08:59
+DX de 5P5Q:    	10123	ZC4UW	UP, tu qso, 73 hny            	2020-01-06 09:03
+DX de LZ7MM:   	10123	ZC4UW	tnx cq up 1.05                	2020-01-06 09:06
+DX de IZ1LBN:  	18133	ZC4UW	gracie ciao 73                	2020-01-06 09:07
+DX de EA1TX:   	21032	ZC4UW	CW 73 up 1,4                  	2020-01-06 09:09
+DX de SM1IUX:  	14014	ZC4UW	up2.5                         	2020-01-06 09:10
+DX de ES1BA:   	18133	ZC4UW	pse 15m SSB                   	2020-01-06 09:11
+DX de EC7DTC:  	18133	ZC4UW/LOTW	Up log from SSB , TNX Team!	2020-01-06 09:14
+DX de PA4WM:   	21032	ZC4UW	up                            	2020-01-06 09:14
+DX de SV2CXW:  	10123	ZC4UW	up1...60w                     	2020-01-06 09:15
+DX de EC7DTC:  	18133	ZC4UW	Up log from SSB , TNX Team!   	2020-01-06 09:15
+DX de EA3CAZ:  	14014	ZC4UW	                              	2020-01-06 09:17
+DX de DL3GD:   	21032	ZC4UW	looking for VK                	2020-01-06 09:18
+DX de UR5CN:   	10123	ZC4UW	TNX QSO! 73! UP1              	2020-01-06 09:19
+DX de IW1QN:   	21032	ZC4UW	599 Strong UP1                	2020-01-06 09:22
+DX de EA3HSO:  	21032	ZC4UW	up 1-2                        	2020-01-06 09:24
+DX de EA3HSO:  	18133	ZC4UW	QSX 18138.0                   	2020-01-06 09:28
+DX de OK7PK:   	18133	ZC4UW	5UP,569,tnx QSO,73GL,TNX EXCEL	2020-01-06 09:30
+DX de DL4CH:   	10123	ZC4UW	up 1                          	2020-01-06 09:31
+DX de TA4RC:   	18133	ZC4UW	up5 littlebit as.ta           	2020-01-06 09:34
+DX de IZ5WTV:  	18133	ZC4UW	Tnx for new band, LISTEN 5 UP 	2020-01-06 09:34
+DX de SQ8ERS:  	18133	ZC4UW	UP 5                          	2020-01-06 09:47
+DX de RT1S:    	18133	ZC4UW	qso tnx up5                   	2020-01-06 09:48
+DX de IK1MNJ:  	21032	ZC4UW	up                            	2020-01-06 09:50
+DX de YO9BLY:  	10123	ZC4UW	tnx! HNY 2020! up 1           	2020-01-06 09:50
+DX de IT9GRX:  	18133	ZC4UW	up 5                          	2020-01-06 09:52
+DX de OE3IDE:  	14260	ZC4UW	up 5                          	2020-01-06 09:53
+DX de DF4XX:   	21032	ZC4UW	QSX 21033.80 CW               	2020-01-06 09:53
+DX de SQ8T:    	18133	ZC4UW	                              	2020-01-06 09:55
+DX de DF4XX:   	18133	ZC4UW	QSX 18138.10 USB              	2020-01-06 10:00
+DX de EA1TX:   	14260	ZC4UW	SSB 73 up 5                   	2020-01-06 10:00
+DX de F4GYM:   	14260	ZC4UW	UP-5                          	2020-01-06 10:02
+DX de US5LOD:  	14260	ZC4UW	5 UP                          	2020-01-06 10:17
+DX de IK2SGB:  	18133	ZC4UW	up 5                          	2020-01-06 10:20
+DX de 9A6BMT:  	14260	ZC4UW	tnx Michael,73!               	2020-01-06 10:25
+DX de EA4BHK:  	18133	ZC4UW	5up no takers                 	2020-01-06 10:50
+DX de F4IFF:   	18133	ZC4UW	Cq Cq.. Up 5                  	2020-01-06 10:51
+DX de IK4RVG:  	14260	ZC4UW	BRITISH BASES IN CIPRO GD SIGN	2020-01-06 10:54
+DX de JH0EQN:  	14260	ZC4UW	up5                           	2020-01-06 11:01
+DX de 3Z9KP:   	14265	ZC4UW	tnx QSO                       	2020-01-06 11:03
+DX de DL3GD:   	18133	ZC4UW	5up                           	2020-01-06 11:04
+DX de IV3NVB:  	18133	ZC4UW	up tnx hny                    	2020-01-06 11:05
+DX de IV3IAH:  	18133	ZC4UW	TNX                           	2020-01-06 11:06
+DX de F5OWK:   	18133	ZC4UW	UP 5                          	2020-01-06 11:10
+DX de US4EX:   	7013	ZC4UW	up 1                          	2020-01-06 11:20
+DX de R2UZ:    	7013	ZC4UW	                              	2020-01-06 11:22
+DX de EA7BJ:   	21028	ZC4UW	up 1                          	2020-01-06 11:25
+DX de JP1FHC:  	10123	ZC4UW	TNX QSO 73!                   	2020-01-06 11:30
+DX de EA2DDE:  	21028	ZC4UW	tnx QSO up 0.9                	2020-01-06 11:31
+DX de RM1F:    	10123	ZC4UW	tnx QSO up 1                  	2020-01-06 11:32
+DX de M0IQD:   	21300	ZC4UW	any chance 15m ssb band open  	2020-01-06 11:33
+DX de OH8WW:   	21028	ZC4UW	UP1 TNX!                      	2020-01-06 11:33
+DX de DH3MIT:  	7013	ZC4UW	UP 1                          	2020-01-06 11:34
+DX de EA5DNO:  	21000	ZC4UW	CW 599 1up                    	2020-01-06 11:36
+DX de EA5DNO:  	21028	ZC4UW	CW 599                        	2020-01-06 11:36
+DX de IK4RVG:  	7013	ZC4UW	TNX QSO                       	2020-01-06 11:37
+DX de IK4RVG:  	7013	ZC4UW	UP 1                          	2020-01-06 11:37
+DX de DM5EM:   	18133	ZC4UW	up 5 not busy                 	2020-01-06 11:37
+DX de G0DWV:   	14260	ZC4UW	                              	2020-01-06 11:38
+DX de IZ7DJS:  	18133	ZC4UW	Up 5                          	2020-01-06 11:43
+DX de IU6LPT:  	21028	ZC4UW	TNX 73                        	2020-01-06 11:44
+DX de GI0PGC:  	14260	ZC4UW	73 tnx up5                    	2020-01-06 11:44
+DX de EC1CZL:  	14260	ZC4UW	5/9- 5 up - tnx               	2020-01-06 11:45
+DX de SQ7BFC:  	18133	ZC4UW	Tnx qso 73                    	2020-01-06 11:47
+DX de RT1S:    	7013	ZC4UW	qso tnx up1                   	2020-01-06 11:48
+DX de SP5TP:   	18133	ZC4UW	TnX for QSO - UP5             	2020-01-06 11:49
+DX de SP5TP:   	18133	ZC4UW	TNX for QSO,HNY2020 - UP 5    	2020-01-06 11:51
+DX de M0BLH:   	14260	ZC4UW	5 up Tnx for qso              	2020-01-06 11:55
+DX de UA9AX:   	10123	ZC4UW	up1 tnx QSO                   	2020-01-06 11:56
+DX de SM7SEL:  	18138	ZC4UW	                              	2020-01-06 11:57
+DX de SQ2SIN:  	18133	ZC4UW	UP5                           	2020-01-06 11:58
+DX de R9XM:    	7013.1	ZC4UW	UP                            	2020-01-06 11:58
+DX de DK5FX:   	7013.1	ZC4UW	                              	2020-01-06 11:59
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-06 12:00
+DX de EW1I:    	21028	ZC4UW	tnx up                        	2020-01-06 12:01
+DX de G3PHO:   	14260	ZC4UW	Rather weak                   	2020-01-06 12:03
+DX de EA4AY:   	14260	ZC4UW	up 5                          	2020-01-06 12:05
+DX de EA2DDE:  	18133	ZC4UW	tnx QSO up 5                  	2020-01-06 12:06
+DX de VK2VRC:  	14260	ZC4UW	Up5 tnx for qso               	2020-01-06 12:06
+DX de 2E0FDU:  	14260	ZC4UW	very poor signal here         	2020-01-06 12:06
+DX de DL1HBT:  	21028	ZC4UW	up1.2                         	2020-01-06 12:06
+DX de DL1UZI:  	14260	ZC4UW	TNX                           	2020-01-06 12:12
+DX de IT9CIL:  	14260	ZC4UW	up 5                          	2020-01-06 12:12
+DX de RW7F:    	7013.2	ZC4UW	CQ UP                         	2020-01-06 12:16
+DX de EW4M:    	18133	ZC4UW	up 5                          	2020-01-06 12:18
+DX de HA6VH:   	10123	ZC4UW	                              	2020-01-06 12:23
+DX de EA3EW:   	14260	ZC4UW	                              	2020-01-06 12:27
+DX de G4NBS:   	14260	ZC4UW	weak with me!                 	2020-01-06 12:28
+DX de PG7M:    	14260	ZC4UW	QSX 14265.00                  	2020-01-06 12:30
+DX de EC5ALJ:  	18133	ZC4UW	up 5                          	2020-01-06 12:33
+DX de SP5NON:  	18133	ZC4UW	                              	2020-01-06 12:52
+DX de OK2MI:   	18133	ZC4UW	tnx QSOup 5                   	2020-01-06 12:54
+DX de A41NN:   	14260	ZC4UW	up 8                          	2020-01-06 12:58
+DX de DL5RMH:  	10123	ZC4UW	up1                           	2020-01-06 12:59
+DX de DD5XX:   	14260	ZC4UW	tnx new band, GL es 73        	2020-01-06 13:01
+DX de IK0OPS:  	14260	ZC4UW	pse 15m                       	2020-01-06 13:04
+DX de IW2JWD:  	18132.9	ZC4UW	up 5.                         	2020-01-06 13:06
+DX de G4FKA:   	18133	ZC4UW	Nil here                      	2020-01-06 13:07
+DX de DD5XX:   	18133	ZC4UW	tnx new band/mode, GL es 73   	2020-01-06 13:08
+DX de DL8AZ:   	18133	ZC4UW	59 tnx up5                    	2020-01-06 13:10
+DX de EA8JK:   	14260	ZC4UW	NA up8                        	2020-01-06 13:13
+DX de EU1EU:   	21200	ZC4UW	pse 15m ssb                   	2020-01-06 13:14
+DX de HS1NGR:  	18133	ZC4UW	TNK UP5                       	2020-01-06 13:17
+DX de G4NBS:   	10123	ZC4UW	up 1tnx gl                    	2020-01-06 13:20
+DX de IU1DJH:  	14260	ZC4UW	Tnx. Up8                      	2020-01-06 13:24
+DX de EW4M:    	10123	ZC4UW	up                            	2020-01-06 13:25
+DX de VK3OHM:  	14260	ZC4UW	UP 8                          	2020-01-06 13:27
+DX de IZ8XJJ:  	10123	ZC4UW	73's                          	2020-01-06 13:28
+DX de CT1FIU:  	14260	ZC4UW	UP 8                          	2020-01-06 13:29
+DX de PG7M:    	10123	ZC4UW	QSX 10124.30                  	2020-01-06 13:32
+DX de IZ8GCP:  	7013	ZC4UW	tu 5nn up up up cqcqdx up     	2020-01-06 13:33
+DX de EB1MM:   	14260	ZC4UW	na up8 michael uk bases on cyp	2020-01-06 13:37
+DX de EA5EX:   	10123	ZC4UW	cw up 1                       	2020-01-06 13:56
+DX de K2DRH:   	14260	ZC4UW	up 8 easy                     	2020-01-06 14:05
+DX de ZS3Y:    	21260	ZC4UW	QSX up 5kHz                   	2020-01-06 14:06
+DX de IZ5MMT:  	14260	ZC4UW	cq UP 8                       	2020-01-06 14:08
+DX de VU2AE:   	14260	ZC4UW	up 8! Thanks                  	2020-01-06 14:08
+DX de N5RP:    	14260	ZC4UW	QSX 14268 IOTA AS004 Cyprus   	2020-01-06 14:12
+DX de WV2V:    	14260	ZC4UW	IOTA AS004 Cyprus             	2020-01-06 14:12
+DX de PA3CWN:  	7013.1	ZC4UW	Wkd Qrp Up 1                  	2020-01-06 14:15
+DX de 5B4AHJ:  	21260	ZC4UW	                              	2020-01-06 14:17
+DX de W3LPL:   	7013.1	ZC4UW	Heard in TX                   	2020-01-06 14:20
+DX de N7CW:    	7013.1	ZC4UW	QSX 7014.47 lp fm AZ          	2020-01-06 14:21
+DX de IK2SEX:  	21260	ZC4UW	pse beaming EU                	2020-01-06 14:23
+DX de LU1EXR:  	21260	ZC4UW	pse SUDAMERICA                	2020-01-06 14:26
+DX de N6TR:    	7013.1	ZC4UW	Maybe too early yet for OR    	2020-01-06 14:27
+DX de JG1BKX:  	7013.1	ZC4UW	UP NA                         	2020-01-06 14:27
+DX de K9IL:    	10123	ZC4UW	qsx 10124.5 real 569 NW TN    	2020-01-06 14:28
+DX de IZ0LNP:  	14260	ZC4UW	Tnx - Up.8                    	2020-01-06 14:30
+DX de N7CW:    	10123.1	ZC4UW	QSX 10124.56 lp fm AZ         	2020-01-06 14:38
+DX de N4WMB:   	14260	ZC4UW	                              	2020-01-06 14:38
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-06 14:38
+DX de G4FKA:   	14260	ZC4UW	CQ SSB listening up 8         	2020-01-06 14:43
+DX de N7TY:    	7013.1	ZC4UW	tnx ATNO                      	2020-01-06 14:44
+DX de HS1NGR:  	10123	ZC4UW	TNK UP 1,5                    	2020-01-06 14:44
+DX de EA5YI:   	14260	ZC4UW	up 8                          	2020-01-06 14:47
+DX de EA1TX:   	21260	ZC4UW	SSB 73 up 5                   	2020-01-06 14:47
+DX de G4PFF:   	14260	ZC4UW	up 8 gudd sigs in uk now      	2020-01-06 14:51
+DX de PY5AMF:  	21260	ZC4UW	tnx for qso, 73.              	2020-01-06 14:52
+DX de IT9DDS:  	14260	ZC4UW	Tnx+8                         	2020-01-06 14:57
+DX de PY2CP:   	21260	ZC4UW	5UP strong in SA              	2020-01-06 14:57
+DX de K6SRZ:   	7013.1	ZC4UW	up 1 for NA (SP)              	2020-01-06 14:58
+DX de LU1EXR:  	21260	ZC4UW	TNX 59 ARGENTINA              	2020-01-06 15:05
+DX de IT9DDS:  	10123	ZC4UW	Tnx+1                         	2020-01-06 15:09
+DX de K6SRZ:   	7013.1	ZC4UW	LP now, building              	2020-01-06 15:09
+DX de PY7DJ:   	21260	ZC4UW	pse beam to py for new band - 	2020-01-06 15:12
+DX de G4DXW:   	14260	ZC4UW	up 8                          	2020-01-06 15:15
+DX de IT9DDS:  	7013	ZC4UW	Tnx+2                         	2020-01-06 15:15
+DX de DL1UPK:  	14260	ZC4UW	tnx for QSO! 5-9, 73, Uwe     	2020-01-06 15:18
+DX de PY1TV:   	21260	ZC4UW	USB                           	2020-01-06 15:20
+DX de UT3RN:   	3514	ZC4UW	up                            	2020-01-06 15:21
+DX de LU3FAP:  	21260	ZC4UW	up 5 - 73                     	2020-01-06 15:23
+DX de N8EHW:   	14260	ZC4UW	worked - listening up 8       	2020-01-06 15:24
+DX de PY7DJ:   	21260	ZC4UW	cfm py7dj? - you question me q	2020-01-06 15:26
+DX de YU1JW:   	10124	ZC4UW	TNX up1                       	2020-01-06 15:26
+DX de YO3IPR:  	21260	ZC4UW	any ant to try 24970 now?     	2020-01-06 15:27
+DX de YU2VZ:   	21260	ZC4UW	3 el. nothing                 	2020-01-06 15:27
+DX de F4TTR:   	10123	ZC4UW	QSX 10124.10 UP 1.09          	2020-01-06 15:30
+DX de YU1JW:   	7013.1	ZC4UW	TNX QSO up 1.5                	2020-01-06 15:32
+DX de IZ8XJJ:  	7013.1	ZC4UW	73's                          	2020-01-06 15:40
+DX de W7WA:    	7013	ZC4UW	dx 7013.0 zc4uw LP up         	2020-01-06 15:42
+DX de N6TR:    	3514	ZC4UW	Up                            	2020-01-06 15:48
+DX de MM0GOR:  	3514	ZC4UW	CW                            	2020-01-06 15:50
+DX de K9RX:    	21260	ZC4UW	clg frm EC USA                	2020-01-06 15:54
+DX de HB9CEY:  	1816.3	ZC4UW	CW                            	2020-01-06 15:58
+DX de UC6A:    	21260	ZC4UW	up 5                          	2020-01-06 16:01
+DX de F4HEC:   	1816.3	ZC4UW	Up 1                          	2020-01-06 16:47
+DX de EA2DT:   	3514	ZC4UW	QSX: 3515.0                   	2020-01-06 16:51
+DX de YO6DDF:  	1816.3	ZC4UW	CQ CQ                         	2020-01-06 17:20
+DX de PC3T:    	7013	ZC4UW	Just started... 1up           	2020-01-06 17:38
+DX de W3LPL:   	7013.1	ZC4UW	Heard in NH                   	2020-01-06 17:38
+DX de HA6VH:   	7013	ZC4UW	                              	2020-01-06 17:41
+DX de DJ0SP:   	3528	ZC4UW	CQ CQ 1 up                    	2020-01-06 17:43
+DX de SV2BXA:  	3528	ZC4UW	cq cw - big signal - alone    	2020-01-06 17:53
+DX de DJ5ZU:   	3527	ZC4UW	up                            	2020-01-06 18:01
+DX de IK4MTF:  	7013	ZC4UW	up                            	2020-01-06 18:02
+DX de W3LPL:   	10123	ZC4UW	Heard in MD                   	2020-01-06 18:28
+DX de JN7FAH:  	10123	ZC4UW	CQ up                         	2020-01-06 18:44
+DX de I2BRT:   	3528	ZC4UW	UP 1.2                        	2020-01-06 18:50
+DX de OK1DSN:  	7013	ZC4UW	up                            	2020-01-06 18:51
+DX de G3UCQ:   	3528	ZC4UW	Not hearing half EU           	2020-01-06 19:05
+DX de S57Q:    	1816.3	ZC4UW	up                            	2020-01-06 19:11
+DX de DL1RWN:  	1815	ZC4UW	up 1 PLS SSB to EU !!         	2020-01-06 19:12
+DX de SK3W:    	1816.3	ZC4UW	                              	2020-01-06 19:12
+DX de EA2DPA:  	7013	ZC4UW	UP                            	2020-01-06 19:21
+DX de IZ2GRG:  	3528	ZC4UW	cq JA                         	2020-01-06 19:25
+DX de 9A9XX:   	3528	ZC4UW	Tnx, HPY, best73              	2020-01-06 19:25
+DX de RA0ACM:  	1816.2	ZC4UW	tnx QSO up 1 loud             	2020-01-06 19:28
+DX de OE9LWV:  	3528	ZC4UW	tnx for new band up 1         	2020-01-06 19:32
+DX de IK2SGB:  	7013	ZC4UW	up 1,1                        	2020-01-06 19:36
+DX de W3LPL:   	7012.9	ZC4UW	Heard in MD                   	2020-01-06 19:39
+DX de F4HRG:   	3528	ZC4UW	UP 1                          	2020-01-06 19:40
+DX de CT1JGA:  	1817.2	ZC4UW	up                            	2020-01-06 19:40
+DX de YU1JW:   	1816.2	ZC4UW	up 1                          	2020-01-06 19:41
+DX de YU1ZZ:   	3527.9	ZC4UW	qsx up 1                      	2020-01-06 19:42
+DX de JH0BQX:  	7013	ZC4UW	UP JA                         	2020-01-06 19:46
+DX de HA1VG:   	3528	ZC4UW	G exp.in Cyprus-UK Basis.QSLL!	2020-01-06 20:03
+DX de AC9EM:   	7013	ZC4UW	Thank you for the Dexpedition!	2020-01-06 20:45
+DX de SP5GMA:  	14000	ZC4UW	expedition finished???        	2020-01-06 21:10
+DX de W3LPL:   	3530	ZC4UW	Heard in NH                   	2020-01-07 04:35
+DX de RV9CX:   	3530	ZC4UW	up1                           	2020-01-07 05:13
+DX de N8ZI:    	3530	ZC4UW	NA NA UP1                     	2020-01-07 05:38
+DX de F5PBM:   	3530	ZC4UW	UP                            	2020-01-07 05:43
+DX de R7KX:    	10123	ZC4UW	cq up                         	2020-01-07 06:35
+DX de VK2HV:   	18070	ZC4UW	UP no takers                  	2020-01-07 06:54
+DX de JR7DXE:  	10123	ZC4UW	CQ CQ UP                      	2020-01-07 06:55
+DX de M0WUT:   	7150	ZC4UW	QSX 7155.0                    	2020-01-07 06:59
+DX de M0USY:   	7150	ZC4UW	cq cq up                      	2020-01-07 07:00
+DX de DF1IR:   	10123	ZC4UW	tnx QSO 73                    	2020-01-07 07:03
+DX de EA3HSO:  	7150	ZC4UW	QSX 7155.0 Great operation!   	2020-01-07 07:09
+DX de I4WZT:   	7150	ZC4UW	up 5                          	2020-01-07 07:11
+DX de UA4HBW:  	18070	ZC4UW	up1                           	2020-01-07 07:13
+DX de ON4CT:   	18069.9	ZC4UW	agn up                        	2020-01-07 07:32
+DX de F1ICS:   	18070	ZC4UW	up 1.2                        	2020-01-07 07:33
+DX de VK5JN:   	18070	ZC4UW	Tnx Rst gud sig/CW best dx 73 	2020-01-07 07:40
+DX de IT9AQR:  	7150	ZC4UW	Up 5                          	2020-01-07 07:41
+DX de VK5JN:   	18070	ZC4UW	CQ CQ SOLID SIGNAL TO QF02jd  	2020-01-07 07:53
+DX de G7VJR:   	24896	ZC4UW	                              	2020-01-07 07:56
+DX de RA3QPT:  	14260	ZC4UW	up 5                          	2020-01-07 08:03
+DX de YO3IPR:  	24896	ZC4UW	plse try SSB 24970            	2020-01-07 08:15
+DX de HS1NGR:  	24896	ZC4UW	TNK QSO                       	2020-01-07 08:15
+DX de IV3XNF:  	14245	ZC4UW	up 5. strong                  	2020-01-07 08:15
+DX de F6EXV:   	24896	ZC4UW	PSE LOG me now !!!            	2020-01-07 08:16
+DX de VK3BY:   	18070	ZC4UW	up 1 thanks                   	2020-01-07 08:21
+DX de LZ7MM:   	10123	ZC4UW	tnx cq up 1                   	2020-01-07 08:22
+DX de F4CVQ:   	18070	ZC4UW	tks qso up 1                  	2020-01-07 08:23
+DX de F5PBM:   	10123	ZC4UW	UP                            	2020-01-07 08:29
+DX de SP2GBL:  	14245	ZC4UW	                              	2020-01-07 08:29
+DX de UR5CN:   	14245	ZC4UW	TNX QSO! 73! up 7             	2020-01-07 08:31
+DX de SP2GBL:  	14245	ZC4UW	CQ up7                        	2020-01-07 08:31
+DX de EA1ASG:  	14245	ZC4UW	tnx strong 7up                	2020-01-07 08:36
+DX de UR5IRM:  	18070	ZC4UW	TNX QSO! 73! up               	2020-01-07 08:45
+DX de IW4EOI:  	14245	ZC4UW	up 7 - TNX 59 in Imola Italy 7	2020-01-07 08:45
+DX de RC8SA:   	18070	ZC4UW	                              	2020-01-07 08:50
+DX de G7VJR:   	24896	ZC4UW	up 1 cq                       	2020-01-07 08:50
+DX de 5B60AIF: 	24895.9	ZC4UW	qsx up                        	2020-01-07 08:53
+DX de S55G:    	14245	ZC4UW	CQ CQ up7 59+                 	2020-01-07 08:54
+DX de VU2IBI:  	18070	ZC4UW	up 1                          	2020-01-07 08:55
+DX de A41CK:   	14245	ZC4UW	thanks QSO up7                	2020-01-07 09:01
+DX de SP2GBL:  	14245	ZC4UW	lsn up 7                      	2020-01-07 09:10
+DX de JP7TLD:  	10123	ZC4UW	                              	2020-01-07 09:14
+DX de DK6OB:   	10123	ZC4UW	UP 1                          	2020-01-07 09:15
+DX de DJ7YP:   	10123	ZC4UW	tnx up                        	2020-01-07 09:17
+DX de UR4CW:   	18070	ZC4UW	up 1.25                       	2020-01-07 09:23
+DX de G7VJR:   	24896	ZC4UW	cq up 1                       	2020-01-07 09:26
+DX de IZ0HAP:  	18069.9	ZC4UW	up 1                          	2020-01-07 09:32
+DX de RU3GF:   	21024	ZC4UW	up 1                          	2020-01-07 09:33
+DX de M0WUT:   	10140	ZC4UW	QSX 10145.0                   	2020-01-07 09:33
+DX de 5B4AHJ:  	24896	ZC4UW	up 1                          	2020-01-07 09:38
+DX de F5OHM:   	21024	ZC4UW	Up1, weak but workable        	2020-01-07 09:45
+DX de DL9USA:  	10140	ZC4UW	RTTY REVERS!!!!               	2020-01-07 09:46
+DX de F5PBM:   	18070	ZC4UW	UP                            	2020-01-07 09:46
+DX de OK1AMF:  	18070	ZC4UW	up 1                          	2020-01-07 09:48
+DX de OM5XX:   	10141	ZC4UW	u are REVERSE!!!              	2020-01-07 09:48
+DX de DL9USA:  	10144	ZC4UW	INVERS???                     	2020-01-07 09:55
+DX de RN7G:    	10131	ZC4UW	only CQ....mni st calling !no 	2020-01-07 09:56
+DX de HA8LNN:  	18070	ZC4UW	up1, as-004                   	2020-01-07 09:58
+DX de YO3IPR:  	24896	ZC4UW	plse try 24940 SSB            	2020-01-07 10:01
+DX de GM3WOJ:  	21023.9	ZC4UW	559 up1                       	2020-01-07 10:01
+DX de F6EXV:   	24896	ZC4UW	PSE LOG ME !!!!!!!!!!!!!!!!!!!	2020-01-07 10:01
+DX de DK6OB:   	18070	ZC4UW	UP 1                          	2020-01-07 10:02
+DX de OK1AMF:  	21024	ZC4UW	up1 559                       	2020-01-07 10:02
+DX de OM3KFO:  	24896	ZC4UW	up-1 workable                 	2020-01-07 10:07
+DX de SM7IUN:  	10145.2	ZC4UW	RTTY                          	2020-01-07 10:07
+DX de HA8LNN:  	24896	ZC4UW	up1, as-004                   	2020-01-07 10:08
+DX de R6NW:    	18070	ZC4UW	UP CQ                         	2020-01-07 10:10
+DX de OM3KFO:  	24896	ZC4UW	cq cq cq up-1                 	2020-01-07 10:11
+DX de DU1KA:   	18070	ZC4UW	QSX 18071.10                  	2020-01-07 10:20
+DX de YB5QZ:   	18070	ZC4UW	great ears                    	2020-01-07 10:24
+DX de OM3SX:   	24896	ZC4UW	CQ CQ up1                     	2020-01-07 10:26
+DX de IZ4DYU:  	10145.2	ZC4UW	up 3.5                        	2020-01-07 10:27
+DX de G7VJR:   	28003	ZC4UW	                              	2020-01-07 10:29
+DX de F5IN:    	28003	ZC4UW	NIL HERE ON 6 ELE             	2020-01-07 10:34
+DX de DK8NM:   	14027.1	ZC4UW	up 1.0                        	2020-01-07 10:35
+DX de GM4ATA:  	28003	ZC4UW	NIL IN GM                     	2020-01-07 10:36
+DX de G7VJR:   	24905	ZC4UW	.905 back to 12 up 1      	2020-01-07 10:37
+DX de OK7PK:   	21024	ZC4UW	UP1,hrd 229,with dipole unreac	2020-01-07 10:41
+DX de UT7TA:   	18070	ZC4UW	up                            	2020-01-07 10:44
+DX de IW0HK:   	14027	ZC4UW	UP 1 EASY                     	2020-01-07 10:45
+DX de IK3SSG:  	21024	ZC4UW	UP 1 VY TNX                   	2020-01-07 10:47
+DX de IK3SSG:  	14027	ZC4UW	VY TNX (SRY F ERROR)          	2020-01-07 10:48
+DX de W3LPL:   	14027	ZC4UW	Heard in QC                   	2020-01-07 11:07
+DX de M0WUT:   	18133	ZC4UW	UP 5                          	2020-01-07 11:10
+DX de EA2DDE:  	14027	ZC4UW	tnx QSO up 1.9                	2020-01-07 11:12
+DX de OM3KFO:  	18133	ZC4UW	up-5                          	2020-01-07 11:16
+DX de OM3KFO:  	14027	ZC4UW	up                            	2020-01-07 11:16
+DX de VK5JN:   	14027	ZC4UW	QSB sig solid CW to QF02jd    	2020-01-07 11:20
+DX de PA3CWN:  	7027	ZC4UW	Mess T6 Pile Up On Top        	2020-01-07 11:21
+DX de HA8LNN:  	18133	ZC4UW	up5                           	2020-01-07 11:28
+DX de OK7PK:   	14027	ZC4UW	Real 599++,UP1,4 tnxQSO,73,exc	2020-01-07 11:34
+DX de G7VJR:   	24896	ZC4UW	mop m09bl	2020-01-07 11:36
+DX de G7VJR:   	24896	ZC4UW	op m0blf                      	2020-01-07 11:36
+DX de RC8SA:   	14027	ZC4UW	                              	2020-01-07 11:40
+DX de UA9UX:   	14027	ZC4UW	QSX 14028.8                   	2020-01-07 11:40
+DX de OH8SR:   	14027	ZC4UW	A FT8/FT4 free DXPed, at last!	2020-01-07 11:41
+DX de IV3OKO:  	24896	ZC4UW	tnx                           	2020-01-07 11:44
+DX de IV3NUR:  	24896	ZC4UW	cq cq up                      	2020-01-07 11:52
+DX de LZ5FD:   	7021	ZC4UW	                              	2020-01-07 11:56
+DX de IK2RPE:  	10145.2	ZC4UW	RTTY up 1.8                   	2020-01-07 11:57
+DX de R6NW:    	14027	ZC4UW	UP tnx QSO 73!                	2020-01-07 12:01
+DX de EW4M:    	14027	ZC4UW	up                            	2020-01-07 12:03
+DX de IK6DTB:  	24895.9	ZC4UW	tnx 73                        	2020-01-07 12:03
+DX de SM4EMO:  	10145.2	ZC4UW	RTTY but strictly NO FT8      	2020-01-07 12:03
+DX de IZ5CML:  	14027	ZC4UW	up huge pileup                	2020-01-07 12:03
+DX de F6EXV:   	24896	ZC4UW	how much if you log me ?      	2020-01-07 12:09
+DX de M0WUT:   	24896	ZC4UW	F6EXV One miiiiilion dollars? 	2020-01-07 12:11
+DX de VK3FT:   	14027	ZC4UW	CW up 2                       	2020-01-07 12:22
+DX de SP6GVL:  	18070	ZC4UW	Please try again 17m CW       	2020-01-07 12:22
+DX de SV1RUX:  	14027	ZC4UW	Black Hole! NIL on any Band   	2020-01-07 12:23
+DX de IK6IHU:  	14027	ZC4UW	up 1.95 tnx                   	2020-01-07 12:26
+DX de IK0OPS:  	14027	ZC4UW	big signal tnx 73             	2020-01-07 12:26
+DX de DM5DM:   	18070	ZC4UW	up1                           	2020-01-07 12:29
+DX de UN7TX:   	7021	ZC4UW	tnx qso 73! up.1              	2020-01-07 12:32
+DX de G0WRE:   	10144	ZC4UW	up tnx                        	2020-01-07 12:32
+DX de K5XI:    	18070	ZC4UW	up 1                          	2020-01-07 12:33
+DX de F5PBM:   	18070	ZC4UW	UP                            	2020-01-07 12:34
+DX de IK0OPS:  	18069.9	ZC4UW	tnx 73                        	2020-01-07 12:35
+DX de F5ITN:   	18070	ZC4UW	CQ                            	2020-01-07 12:36
+DX de OK1DTM:  	18070	ZC4UW	fb signal on GP 1.3up         	2020-01-07 12:48
+DX de RV6ANI:  	7021	ZC4UW	CQ up                         	2020-01-07 12:49
+DX de K3RA:    	14027	ZC4UW	QSX 14028.5 IOTA AS004 Cyprus 	2020-01-07 12:52
+DX de YC6JRT:  	14027	ZC4UW	up 1, TNX                     	2020-01-07 12:54
+DX de VU2AE:   	18069	ZC4UW	Up                            	2020-01-07 12:57
+DX de IZ7QFN:  	10144	ZC4UW	up                            	2020-01-07 12:58
+DX de YO4KCS:  	7021	ZC4UW	up 1                          	2020-01-07 12:58
+DX de F4VSE:   	18070	ZC4UW	TU UP                         	2020-01-07 13:05
+DX de PY1VOY:  	18069	ZC4UW	up 1 first qso in 2020        	2020-01-07 13:05
+DX de W3LPL:   	14027	ZC4UW	Heard in NH                   	2020-01-07 13:07
+DX de FY5KE:   	18070	ZC4UW	Up - Great ears !             	2020-01-07 13:07
+DX de IW1QN:   	18070	ZC4UW	up 1.3 - 599 Vry Strong       	2020-01-07 13:11
+DX de PY1TV:   	18070	ZC4UW	CW                            	2020-01-07 13:13
+DX de F6EXV:   	21195	ZC4UW	PSE 15m SSB NOW !!!!!!!!!!!!!!	2020-01-07 13:14
+DX de PC3T:    	18070	ZC4UW	CQing                         	2020-01-07 13:21
+DX de IK7LKK:  	14027	ZC4UW	tnx qso, pse up               	2020-01-07 13:22
+DX de HA7AJ:   	7021	ZC4UW	TNX 73                        	2020-01-07 13:22
+DX de PC3T:    	10119	ZC4UW	up 1                          	2020-01-07 13:23
+DX de W3LPL:   	10119	ZC4UW	Heard in MD                   	2020-01-07 13:23
+DX de RA3PMM:  	14000	ZC4UW	tnx QSO                       	2020-01-07 13:23
+DX de IK7LKK:  	7021	ZC4UW	tnx qso, pse up               	2020-01-07 13:24
+DX de JH4CPC:  	10145.3	ZC4UW	CQ AGN                        	2020-01-07 13:32
+DX de IZ8FFA:  	10145.2	ZC4UW	2 UP                          	2020-01-07 13:48
+DX de DL6SRD:  	14027	ZC4UW	up 1.3 vy gud sigs            	2020-01-07 13:52
+DX de JE7KJG:  	7021	ZC4UW	up1 Tnx QSO                   	2020-01-07 14:11
+DX de IK0OPS:  	10145.2	ZC4UW	tnx rtty up up up             	2020-01-07 14:14
+DX de PY1VOY:  	14027	ZC4UW	QSX 14028.30                  	2020-01-07 14:14
+DX de OP4F:    	14027	ZC4UW	JO21BLACK HOLE ??             	2020-01-07 14:23
+DX de IK7JTF:  	1817.2	ZC4UW	                              	2020-01-07 14:24
+DX de K1DJ:    	14026.9	ZC4UW	QSX 14028.50                  	2020-01-07 14:30
+DX de K2DRH:   	14027	ZC4UW	CQ NA UP                      	2020-01-07 14:33
+DX de OG2M:    	1817.2	ZC4UW	up1 go                        	2020-01-07 14:35
+DX de JE1CPB:  	7021	ZC4UW	up2 nice OP                   	2020-01-07 14:36
+DX de HB9BQP:  	14027	ZC4UW	TNX QSO 73!                   	2020-01-07 14:37
+DX de SV1GRN:  	1817.1	ZC4UW	up 1                          	2020-01-07 14:47
+DX de R9YM:    	7021	ZC4UW	cq                            	2020-01-07 14:52
+DX de G4NBS:   	10146.2	ZC4UW	RTTY                          	2020-01-07 14:59
+DX de S53O:    	1917.3	ZC4UW	                              	2020-01-07 14:59
+DX de S53O:    	1817.2	ZC4UW	up                            	2020-01-07 15:00
+DX de KD8TNF:  	14028	ZC4UW	599 TU 73 FB OP CQ NA         	2020-01-07 15:01
+DX de W3LPL:   	14026.9	ZC4UW	Heard in PA                   	2020-01-07 15:07
+DX de I1JBO:   	7021	ZC4UW	up                            	2020-01-07 15:09
+DX de IK7JTF:  	3530	ZC4UW	                              	2020-01-07 15:09
+DX de OV5O:    	14026.9	ZC4UW	UP - tu new band, 73 hny      	2020-01-07 15:10
+DX de KD8TNF:  	14027	ZC4UW	599 TU 73 VFB OP CQ NA FQ CORR	2020-01-07 15:13
+DX de EA8JK:   	10145.2	ZC4UW	up3                           	2020-01-07 15:15
+DX de G4NBS:   	7021	ZC4UW	up 1.6 cheers!                	2020-01-07 15:16
+DX de F6EXV:   	3795	ZC4UW	PSE 80 SSB just for me too....	2020-01-07 15:19
+DX de W8MIL:   	14027	ZC4UW	14.028.47                     	2020-01-07 15:20
+DX de RT6C:    	1817.2	ZC4UW	                              	2020-01-07 15:24
+DX de KN4JX:   	14027	ZC4UW	Up 1                          	2020-01-07 15:28
+DX de LY2KZ:   	7021	ZC4UW	tnx. up 1.2                   	2020-01-07 15:30
+DX de OK8AU:   	1817.1	ZC4UW	                              	2020-01-07 15:32
+DX de OK4RQ:   	3530	ZC4UW	CQ - UP , strong signal       	2020-01-07 15:33
+DX de F4GYM:   	14027	ZC4UW	up-1 tks                      	2020-01-07 15:36
+DX de EA8ZT:   	14027	ZC4UW	THX QSO UP 1                  	2020-01-07 15:40
+DX de ON3MK:   	14027	ZC4UW	vv weak                       	2020-01-07 15:41
+DX de IV3SKB:  	10145.3	ZC4UW	rtty up1                      	2020-01-07 15:43
+DX de DK7LX:   	10146	ZC4UW	QSX up 1                      	2020-01-07 15:49
+DX de RO7N:    	7021	ZC4UW	CQ CQ CQ                      	2020-01-07 15:51
+DX de IK3YBX:  	7021	ZC4UW	tnx QSO, UP                   	2020-01-07 15:54
+DX de UB3A:    	7021	ZC4UW	TNX and 73 ! UP1              	2020-01-07 16:01
+DX de MM0GOR:  	7021	ZC4UW	CW                            	2020-01-07 16:05
+DX de MM0GOR:  	3537	ZC4UW	CW                            	2020-01-07 16:17
+DX de JG3IWL:  	7021	ZC4UW	CW 539 Trap DP                	2020-01-07 16:19
+DX de SP6GMA:  	5354.5	ZC4UW	Please LAST AGAIN 60m CW      	2020-01-07 16:27
+DX de HA6VH:   	7021	ZC4UW	                              	2020-01-07 16:30
+DX de W3LPL:   	7021	ZC4UW	Heard in PA                   	2020-01-07 16:45
+DX de DK5AQ:   	5354.5	ZC4UW	pse give chance 60m cw        	2020-01-07 16:48
+DX de EU1DC:   	7021	ZC4UW	                              	2020-01-07 16:58
+DX de RK6FV:   	3537	ZC4UW	up1                           	2020-01-07 16:59
+DX de LA1U:    	5354.5	ZC4UW	Begging: 1-2hr QRV on 60 mtr, 	2020-01-07 17:05
+DX de OK2BH:   	3537	ZC4UW	up1                           	2020-01-07 17:06
+DX de EA3ENB:  	7021	ZC4UW	                              	2020-01-07 17:07
+DX de SP2FCR:  	3537	ZC4UW	UP1                           	2020-01-07 17:13
+DX de S57L:    	5355.5	ZC4UW	cq, up1                       	2020-01-07 17:15
+DX de SM1IUX:  	3537	ZC4UW	up1.2                         	2020-01-07 17:20
+DX de OK1DTM:  	5355.5	ZC4UW	qsx 5356.6 vy strong signal   	2020-01-07 17:21
+DX de IU4FJI:  	5355.5	ZC4UW	tnx new slot                  	2020-01-07 17:22
+DX de RK6BH:   	3537	ZC4UW	UP                            	2020-01-07 17:25
+DX de SQ9ANT:  	7021	ZC4UW	                              	2020-01-07 17:26
+DX de EA7JTT:  	7021	ZC4UW	                              	2020-01-07 17:32
+DX de EA3PT:   	7021	ZC4UW	1 UP                          	2020-01-07 17:38
+DX de F4HRG:   	3537	ZC4UW	UP1                           	2020-01-07 17:39
+DX de DL1HBT:  	5355.4	ZC4UW	up1.6                         	2020-01-07 17:43
+DX de HB9HLM:  	7021	ZC4UW	                              	2020-01-07 17:46
+DX de R7FV:    	3537	ZC4UW	tnx QSO                       	2020-01-07 17:57
+DX de EA5AQL:  	7021	ZC4UW	599 TU, buen operador ;)      	2020-01-07 18:05
+DX de IZ7DJS:  	5355.4	ZC4UW	                              	2020-01-07 18:08
+DX de ON5WO:   	5355.4	ZC4UW	TU 599 1.0 up                 	2020-01-07 18:15
+DX de 4X1UF:   	5355.4	ZC4UW	Tnx QSO pse E-QSL             	2020-01-07 18:21
+DX de EC5KY:   	5355.4	ZC4UW	cw                            	2020-01-07 18:28
+DX de ZL2IFB:  	7074	ZC4UW	ft8                           	2020-01-07 18:33
+DX de W3LPL:   	7021.1	ZC4UW	Heard in NH                   	2020-01-07 18:46
+DX de PA7TWO:  	5355.5	ZC4UW	UP 1.0 TNX DXCC#130 60m!      	2020-01-07 19:03
+DX de R7MW:    	7021	ZC4UW	up 1 TU 73!                   	2020-01-07 19:26
+DX de SP2BMX:  	5354	ZC4UW	wILL 25 K QSO? Yes!!! Congrat 	2020-01-07 19:33
+DX de IZ7QFN:  	5355.5	ZC4UW	up                            	2020-01-07 19:36
+DX de VK5JN:   	7021	ZC4UW	Tnx Rst gud CW/Sig best dx 73?	2020-01-07 19:37
+DX de W3LPL:   	3537	ZC4UW	Heard in NH                   	2020-01-07 19:48
+DX de DL5AWI:  	3537	ZC4UW	easy with 100w + windom       	2020-01-07 19:50
+DX de JE8CLT:  	3537	ZC4UW	up                            	2020-01-07 19:53
+DX de W3LPL:   	7032	ZC4UW	Heard in NH                   	2020-01-07 19:53
+DX de IZ4ORF:  	3537	ZC4UW	up                            	2020-01-07 19:53
+DX de IZ4ORF:  	5355.5	ZC4UW	up                            	2020-01-07 19:54
+DX de DL5AWI:  	7032	ZC4UW	up 1 - vy good ears           	2020-01-07 19:54
+DX de F4TTR:   	3537	ZC4UW	QSX 3538.24 UP 1.24           	2020-01-07 19:57
+DX de EA7BUU:  	7031.9	ZC4UW	Tnx up 73                     	2020-01-07 19:57
+DX de RT9T/3:  	1817.4	ZC4UW	up                            	2020-01-07 20:08
+DX de RT9T/3:  	3537.1	ZC4UW	                              	2020-01-07 20:09
+DX de VK5JN:   	3537	ZC4UW	gud sig some QSB try VK pls   	2020-01-07 20:15
+DX de VK5JN:   	3537	ZC4UW	hr u gud but 400 watts 160 dip	2020-01-07 20:17
+DX de SP2BMX:  	5300	ZC4UW	Now 25k QSO! Congrats         	2020-01-07 20:18
+DX de EA1LT:   	3700	ZC4UW	why not SSB on 80m?           	2020-01-07 20:21
+DX de HL5IVL:  	1817.4	ZC4UW	tnx , fb sig                  	2020-01-07 20:37
+DX de JA2DHX:  	7032	ZC4UW	up                            	2020-01-07 20:40
+DX de RA0FF:   	1817.3	ZC4UW	up, CQ JA                     	2020-01-07 20:41
+DX de RA0FF:   	3537	ZC4UW	                              	2020-01-07 20:41
+DX de JA7SFD:  	1817.4	ZC4UW	CQ JA up1                     	2020-01-07 20:43
+DX de HA5WB:   	7038	ZC4UW	                              	2020-01-07 20:47
+DX de PA1MUC:  	7032	ZC4UW	up                            	2020-01-07 21:17
+DX de RA3MU:   	3537	ZC4UW	TNX QSO UP1                   	2020-01-07 21:18
+DX de N4RJ:    	1817.3	ZC4UW	329 1 Hour B4 Sunset          	2020-01-07 21:32
+DX de RK6BH:   	1817.3	ZC4UW	UP                            	2020-01-07 21:33
+DX de K1DJ:    	7032	ZC4UW	QSX 7033.60                   	2020-01-07 21:40
+DX de JA5XAE:  	7032	ZC4UW	CW UP                         	2020-01-07 21:44
+DX de W3LPL:   	3537	ZC4UW	Heard in NH                   	2020-01-07 21:48
+DX de W3LPL:   	7032	ZC4UW	Heard in MD                   	2020-01-07 21:53
+DX de DM5FJ:   	3537	ZC4UW	CQ CQ CQ                      	2020-01-07 21:59
+DX de 9A5CW:   	5355.5	ZC4UW	qsx 5405 USA 579              	2020-01-07 22:00
+DX de S57L:    	5355.5	ZC4UW	cq cq, qsx 5405               	2020-01-07 22:00
+DX de N1IBM:   	3537	ZC4UW	CW up 1.4                     	2020-01-07 22:02
+DX de KF2O:    	5355.5	ZC4UW	pse back to 60 usa            	2020-01-07 22:15
+DX de DL1RWN:  	1817	ZC4UW	CQ CQ PLS SSB !!              	2020-01-07 22:15
+DX de HB9AJY:  	7032	ZC4UW	                              	2020-01-07 22:33
+DX de CT7ANO:  	1817.4	ZC4UW	up                            	2020-01-07 22:33
+DX de N4RJ:    	7032	ZC4UW	Up                            	2020-01-07 22:34
+DX de JF1SNL:  	7032	ZC4UW	NOW FB SIG                    	2020-01-07 22:55
+DX de WC0W:    	7032	ZC4UW	                              	2020-01-07 23:05
+DX de W3LPL:   	3530	ZC4UW	Heard in KS                   	2020-01-08 05:01
+DX de A41CK:   	7165	ZC4UW	UP 5                          	2020-01-08 05:02
+DX de RD5D:    	3530	ZC4UW	tnx qso up1                   	2020-01-08 05:08
+DX de EA3HSO:  	3530	ZC4UW	QSX 3531.0 FB OPS + SIGS TU   	2020-01-08 05:15
+DX de I8YAV:   	3530	ZC4UW	                              	2020-01-08 05:16
+DX de DF2VZ:   	3530	ZC4UW	up 3531.5. tks see u          	2020-01-08 05:21
+DX de IZ7DJS:  	3530	ZC4UW	when 80 ssb ? PLS Change      	2020-01-08 05:22
+DX de UA3T:    	10123	ZC4UW	                              	2020-01-08 05:30
+DX de RD5D:    	10123	ZC4UW	tnx qso up1                   	2020-01-08 05:34
+DX de N6WIN:   	3530	ZC4UW	up 1                          	2020-01-08 05:35
+DX de OH5O:    	7165	ZC4UW	up 5                          	2020-01-08 05:43
+DX de RV6ANI:  	3530.1	ZC4UW	CQ up-1                       	2020-01-08 05:48
+DX de S55G:    	3530	ZC4UW	cq cq 1up 59 tnx qso          	2020-01-08 05:49
+DX de I8YAV:   	7165	ZC4UW	                              	2020-01-08 05:50
+DX de RW6HEG:  	7165	ZC4UW	tnx QSO                       	2020-01-08 05:53
+DX de US5LOD:  	7165	ZC4UW	UP 5                          	2020-01-08 05:56
+DX de SP2DKI:  	7165	ZC4UW	up 5                          	2020-01-08 06:03
+DX de RO7N:    	10123	ZC4UW	CQ CQ CQ strong signal !!!    	2020-01-08 06:04
+DX de SP2DKI:  	10123	ZC4UW	up 1 fb signal                	2020-01-08 06:05
+DX de S55G:    	7165	ZC4UW	59 up5 tnx qso                	2020-01-08 06:05
+DX de IK7LKK:  	10123	ZC4UW	cq cq... pse up               	2020-01-08 06:06
+DX de AJ4EN:   	7165	ZC4UW	5/5 can't hear me             	2020-01-08 06:11
+DX de S55G:    	10123	ZC4UW	599 up1 tnx qso               	2020-01-08 06:12
+DX de UR4CW:   	10123	ZC4UW	up 1.3                        	2020-01-08 06:13
+DX de JA7GZM:  	10123	ZC4UW	UP1 TNX Gud OP                	2020-01-08 06:17
+DX de UA6JQ:   	10123	ZC4UW	UP                            	2020-01-08 06:18
+DX de IK7LKK:  	7165	ZC4UW	tnx qso, up 5                 	2020-01-08 06:25
+DX de IS0HMZ:  	7165	ZC4UW	UP 5 TNX for QSO 59 in Sardini	2020-01-08 06:28
+DX de UA6YI:   	10123	ZC4UWPSERTTY	                      	2020-01-08 06:30
+DX de JG1MUY:  	10123	ZC4UW	tnx 73!                       	2020-01-08 06:30
+DX de JG1MUY:  	10123	ZC4UW	cq ja                         	2020-01-08 06:39
+DX de JG1MUY:  	10123	ZC4UW	up2 ja                        	2020-01-08 06:44
+DX de EA3CAZ:  	7165	ZC4UW	                              	2020-01-08 06:47
+DX de EW4M:    	7165	ZC4UW	up 5                          	2020-01-08 06:54
+DX de HA2ESM:  	10123	ZC4UW	up 10124.36 tnx               	2020-01-08 07:00
+DX de LZ1MC:   	7165	ZC4UW	up5                           	2020-01-08 07:01
+DX de RA6BX:   	10122.9	ZC4UW	tnx QSO                       	2020-01-08 07:06
+DX de JK1KSB:  	14260	ZC4UW	up5 LP                        	2020-01-08 07:31
+DX de RA3RCL:  	14260	ZC4UW	up 5                          	2020-01-08 07:42
+DX de R9AB:    	2409500	ZC4UW	Let`s try 12m CW              	2020-01-08 07:50
+DX de IK4ZIF:  	14260	ZC4UW	UP 5                          	2020-01-08 07:55
+DX de SP2WDF:  	14260	ZC4UW	UP 5 , tnx QSO :)             	2020-01-08 07:58
+DX de SP6EFY:  	14260	ZC4UW	                              	2020-01-08 08:08
+DX de DK6OB:   	14260	ZC4UW	UP 5                          	2020-01-08 08:12
+DX de DF2QZ:   	14260	ZC4UW	up 5                          	2020-01-08 08:18
+DX de IZ5CML:  	14260	ZC4UW	up 5                          	2020-01-08 08:22
+DX de GM3WOJ:  	14260	ZC4UW	Going QRT soon                	2020-01-08 08:27
+DX de IT9ZVL:  	18140	ZC4UW	Tnx Qso 5 up                  	2020-01-08 09:07
+DX de EA3NY:   	18140	ZC4UW	                              	2020-01-08 09:18
+DX de US1RCH:  	14011.9	ZC4UW	up                            	2020-01-08 09:19
+DX de LZ2NW:   	14012	ZC4UW	CW                            	2020-01-08 09:20
+DX de VK3EY:   	18140	ZC4UW	Up 5                          	2020-01-08 09:21
+DX de OH4SS:   	18140	ZC4UW	5up - last hour.              	2020-01-08 09:24
+DX de W3LPL:   	14012.1	ZC4UW	Heard in PA                   	2020-01-08 09:25
+DX de VK3BY:   	14012	ZC4UW	vk pls                        	2020-01-08 09:28
+DX de VK5ZZ:   	18140	ZC4UW	QSX 18145.00                  	2020-01-08 09:35
+DX de DJ4EL:   	14260	ZC4UW	20m please                    	2020-01-08 09:37
+DX de E77D:    	18140	ZC4UW	tnx for qso corect my call    	2020-01-08 09:41
+DX de VK3BY:   	18140	ZC4UW	up 5 cqing                    	2020-01-08 09:41
+DX de VK3HJ:   	18140	ZC4UW	CQ, up 5                      	2020-01-08 09:45
+DX de RU3EG:   	18140	ZC4UW	up 5                          	2020-01-08 09:49
+DX de IZ5CML:  	14000	ZC4UW	great precedent...            	2020-01-08 14:15
+DX de DL3BXX:  	14000	ZC4UW	tnx all Lotw great job !!! wel	2020-01-08 16:46
+DX de IZ5ILF:  	10124	ZC4UW	cq cq fake                    	2020-01-08 18:19
+DX de CT1FMX:  	10124	ZC4UW	FAKE, DXpedition is OVER      	2020-01-08 18:24
